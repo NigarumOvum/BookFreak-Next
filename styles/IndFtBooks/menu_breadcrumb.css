@@ -1,0 +1,35 @@
+
+.menu-breadcrumb {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-left: 25px;
+  min-width: 260px;
+  height: 40px;
+}
+
+.menu-breadcrumb a {
+  margin: 0 5px;
+  letter-spacing: -0.03em;
+  color: #6F9590;
+  font-weight: 600;
+}
+
+.menu-breadcrumb a:hover {
+  color: #F3BD36;
+  transition: all 0.15s ease-in;
+}
+
+.menu-breadcrumb a:active {
+  transform: scale(0.8);
+  transition: all 0.15s ease-in;
+}
+
+.menu-breadcrumb svg {
+  width: 8px;
+}
+
+@media (max-width: 768px) {
+  .menu-breadcrumb {
+    padding-left: 15px;
+  }
+}

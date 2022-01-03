@@ -1,0 +1,32 @@
+
+
+.not-found-wrapper {
+  height: 450px;
+  width: 100%;
+  border-top: 1px solid #DADADA
+}
+
+.not-found-wrapper span {
+  color: #4B6C68;
+  letter-spacing: -0.025em;
+  margin-bottom: 15px;
+}
+
+.not-found-wrapper a {
+  letter-spacing: -0.025em;
+  padding: 9px 15px;
+  border-radius: 6px;
+  background: #FFD130;
+  color: #6D6D6D;
+  transition: all 0.2s ease-in;
+}
+
+.not-found-wrapper a:hover {
+  background: #FFD954;
+  transition: all 0.2s ease-in;
+}
+
+.not-found-wrapper a:active {
+  transform: scale(0.8);
+  transition: all 0.15s ease-in;
+}

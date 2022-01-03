@@ -1,0 +1,1543 @@
+[
+  
+  [
+    {
+      "name": "Classics",
+      "link": "/fiction/classics",
+      "books": [
+        {
+          "id": "u9O5BAAAQBAJ",
+          "title" : "Ruth's Journey",
+          "authors": ["Donald McCaig"],
+          "thumbnail": "http://books.google.com/books/content?id=u9O5BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4xL8zQEACAAJ",
+          "title": "David Copperfield",
+          "authors": ["Charles Dickens"],
+          "thumbnail": "http://books.google.com/books/content?id=4xL8zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "iRDDQ35z_-UC",
+          "title": "The Ambassadors",
+          "authors": ["James Graham"],
+          "thumbnail": "http://books.google.com/books/content?id=iRDDQ35z_-UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "jUEGzgEACAAJ",
+          "title": "David Balfour",
+          "authors": ["Robert Louis Stevenson"],
+          "thumbnail": "http://books.google.com/books/content?id=jUEGzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "M8R_zQEACAAJ",
+          "title": "The Three Musketeers",
+          "authors": ["Alexandre Dumas"],
+          "thumbnail": "http://books.google.com/books/content?id=M8R_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "S38cyQEACAAJ",
+          "title": "Ivanhoe",
+          "authors": ["Sir Walter Scott"],
+          "thumbnail": "http://books.google.com/books/content?id=S38cyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Historical Fiction",
+      "link": "/fiction/historical-fiction",
+      "books": [
+        {
+          "id": "iLRKDwAAQBAJ",
+          "title": "The Hollywood Daughter",
+          "authors":  ["Kate Alcott"],
+          "thumbnail": "http://books.google.com/books/content?id=iLRKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "mJOxDgAAQBAJ",
+          "title": "Feast of Sorrow",
+          "authors": ["Crystal King"],
+          "thumbnail": "http://books.google.com/books/content?id=mJOxDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "YGrZDAAAQBAJ",
+          "title": "Last Night with the Duke",
+          "authors": ["Amelia Grey"],
+          "thumbnail": "http://books.google.com/books/content?id=YGrZDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "8H7fDQAAQBAJ",
+          "title": "The Life and Times of Persimmon Wilson",
+          "authors": ["Nancy Peacock"],
+          "thumbnail": "http://books.google.com/books/content?id=8H7fDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HAcdDgAAQBAJ",
+          "title": "The Lost Book of the Grail",
+          "authors": ["Charlie Lovett"],
+          "thumbnail": "http://books.google.com/books/content?id=HAcdDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xRVHDwAAQBAJ",
+          "title": "Lincoln in the Bardo",
+          "authors": ["George Saunders"],
+          "thumbnail": "http://books.google.com/books/content?id=xRVHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Poetry",
+      "link": "/fiction/poetry",
+      "books": [
+        {
+          "id": "O3oBEAAAQBAJ",
+          "title": "Negotiations",
+          "authors": ["Destiny O. Birdsong"],
+          "thumbnail": "http://books.google.com/books/content?id=O3oBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "C_b_DwAAQBAJ",
+          "title": "What If",
+          "authors": ["Peter Ian Webster"],
+          "thumbnail": "http://books.google.com/books/content?id=C_b_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PTcEEAAAQBAJ",
+          "title": "New Poems",
+          "authors":  ["Thomas Trzyna"],
+          "thumbnail": "http://books.google.com/books/content?id=PTcEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "fhPxDwAAQBAJ",
+          "title": "An Inconvenient Journey",
+          "authors": ["Bethny Ricks"],
+          "thumbnail": "http://books.google.com/books/content?id=fhPxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "eCb4DwAAQBAJ",
+          "title": "Bonafide Scribbler",
+          "authors":  ["Manjusha Joshi"],
+          "thumbnail": "http://books.google.com/books/content?id=eCb4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "RW8IzgEACAAJ",
+          "title": "The Prophet",
+          "authors": ["Kahlil Gibran"],
+          "thumbnail": "http://books.google.com/books/content?id=RW8IzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Fables",
+      "link": "/fiction/fables",
+      "books": [
+        {
+          "id": "SiDkPPVjhXoC",
+          "title": "Lousy Rotten Stinkin Grapes",
+          "authors": ["Margie Palatini"],
+          "thumbnail": "http://books.google.com/books/content?id=SiDkPPVjhXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "G1Is4lNnUsUC",
+          "title": "Children's Classic Stories",
+          "authors": ["Miles Kelly Publishing"],
+          "thumbnail": "http://books.google.com/books/content?id=G1Is4lNnUsUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "gMZMBtWHaHUC",
+          "title": "The Donkey in the Lion's Skin",
+          "authors": ["Eric Blair", "Aesop"],
+          "thumbnail": "http://books.google.com/books/content?id=gMZMBtWHaHUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "uxQtgljSvioC",
+          "title": "The Boy Who Cried Wolf",
+          "authors": ["Eric Blair", "Aesop"],
+          "thumbnail": "http://books.google.com/books/content?id=uxQtgljSvioC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "nlPM8Pm7pJUC",
+          "title": "The Fox and the Stork",
+          "authors": ["Gerald McDermott"],
+          "thumbnail": "http://books.google.com/books/content?id=nlPM8Pm7pJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Z9fGwOodOjAC",
+          "title": "Ella Minnow Pea",
+          "authors": ["Mark Dunn"],
+          "thumbnail": "http://books.google.com/books/content?id=Z9fGwOodOjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Literary Fiction",
+      "link": "/fiction/literary-fiction",
+      "books": [
+        {
+          "id": "oMfEDwAAQBAJ",
+          "title": "The Louvre",
+          "authors": ["James Gardner"],
+          "thumbnail": "http://books.google.com/books/content?id=oMfEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "XA8OzgEACAAJ",
+          "title": "The Age of Innocence",
+          "authors": ["Edith Wharton"],
+          "thumbnail": "http://books.google.com/books/content?id=XA8OzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "Bcy_zQEACAAJ",
+          "title": "The Shadow Line",
+          "authors": ["Joseph Conrad"],
+          "thumbnail": "http://books.google.com/books/content?id=Bcy_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "kZhqzQEACAAJ",
+          "title": "Before Adam Jack London",
+          "authors":  ["Jack London"],
+          "thumbnail": "http://books.google.com/books/content?id=kZhqzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "RFLAzQEACAAJ",
+          "title": "Frankenstein",
+          "authors": ["Mary Shelley"],
+          "thumbnail": "http://books.google.com/books/content?id=RFLAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "IHAMzgEACAAJ",
+          "title": "The Three Clerks",
+          "authors": ["Anthony Trollope"],
+          "thumbnail": "http://books.google.com/books/content?id=IHAMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Science Fiction",
+      "link": "/fiction/science-fiction",
+      "books": [
+        {
+          "id": "llmpBAAAQBAJ",
+          "title": "A Vision of Fire",
+          "authors": ["Gillian Anderson", "Jeff Rovin"],
+          "thumbnail": "http://books.google.com/books/content?id=llmpBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oniQBQAAQBAJ",
+          "title": "The Just City",
+          "authors": ["Jo Walton"],
+          "thumbnail": "http://books.google.com/books/content?id=oniQBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "O60eCAAAQBAJ",
+          "title": "The Remedy",
+          "authors": ["Suzanne Young"],
+          "thumbnail": "http://books.google.com/books/content?id=O60eCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "DUwRCgAAQBAJ",
+          "title": "The Defiant",
+          "authors": ["Lisa M. Stasse"],
+          "thumbnail": "http://books.google.com/books/content?id=DUwRCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "UFXZCwAAQBAJ",
+          "title": "Earth Flight",
+          "authors": ["Janet Edwards"],
+          "thumbnail": "http://books.google.com/books/content?id=UFXZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PCeJDAAAQBAJ",
+          "title": "Supernova",
+          "authors": ["C. A. Higgins"],
+          "thumbnail": "http://books.google.com/books/content?id=PCeJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], [
+    {
+      "name": "Drama",
+      "link": "/fiction/drama",
+      "books": [
+        {
+          "id": "9VAAEAAAQBAJ",
+          "title": "Dancing Women",
+          "authors": ["Usha Iyer"],
+          "thumbnail": "http://books.google.com/books/content?id=9VAAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "YGvqDwAAQBAJ",
+          "title": "Lady Romeo",
+          "authors": ["Tana Wojczuk"],
+          "thumbnail": "http://books.google.com/books/content?id=YGvqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "FqLODwAAQBAJ",
+          "title": "Broken Feelings - Gefunden",
+          "authors": ["Any Cherubim"],
+          "thumbnail": "http://books.google.com/books/content?id=FqLODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "bDeZDwAAQBAJ",
+          "title": "A Revelação Krinar",
+          "authors": ["Anna Zaires", "Hettie Ivers"],
+          "thumbnail": "http://books.google.com/books/content?id=bDeZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "3TY2DwAAQBAJ",
+          "title": "Room",
+          "authors": ["Emma Donoghue"],
+          "thumbnail": "http://books.google.com/books/content?id=3TY2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "3iFfDwAAQBAJ",
+          "title": "The Secret Lives of Baba Segi’s Wives",
+          "authors": ["Lola Shoneyin", "Rotimi Babatunde"],
+          "thumbnail": "http://books.google.com/books/content?id=3iFfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+        
+      ]
+    }, {
+      "name": "Horror",
+      "link": "/fiction/horror",
+      "books": [
+        {
+          "id": "_cJHDwAAQBAJ",
+          "title": "The Merry Spinster",
+          "authors":  ["Mallory Ortberg"],
+          "thumbnail": "http://books.google.com/books/content?id=_cJHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ly_ZCwAAQBAJ",
+          "title": "Romantically Disturbed",
+          "authors":   ["Ben H. Winters"],
+          "thumbnail": "http://books.google.com/books/content?id=ly_ZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "8lIdBAAAQBAJ",
+          "title": "The Secret Path",
+          "authors": ["Christopher Pike"],
+          "thumbnail": "http://books.google.com/books/content?id=8lIdBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "rPzn_kE_nhYC",
+          "title": "Night Pilgrims",
+          "authors": ["Chelsea Quinn Yarbro"],
+          "thumbnail": "http://books.google.com/books/content?id=rPzn_kE_nhYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "qMikAwAAQBAJ",
+          "title": "Unnatural Creatures",
+          "authors": ["Neil Gaiman"],
+          "thumbnail": "http://books.google.com/books/content?id=qMikAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "x5nPG6nwyOQC",
+          "title": "The Vampire's Photograph",
+          "authors": ["Kevin Emerson"],
+          "thumbnail": "http://books.google.com/books/content?id=x5nPG6nwyOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Romance",
+      "link": "/fiction/romance",
+      "books": [
+        {
+          "id": "z3xaDwAAQBAJ",
+          "title": "It's All About the Duke",
+          "authors": ["Amelia Grey"],
+          "thumbnail": "http://books.google.com/books/content?id=z3xaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "N_HgDwAAQBAJ",
+          "title": "Dare to Play",
+          "authors": ["Carly Phillips"],
+          "thumbnail": "http://books.google.com/books/content?id=N_HgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "XFYoDgAAQBAJ",
+          "title": "Ruined by Moonlight",
+          "authors": ["Emma Wildes"],
+          "thumbnail": "http://books.google.com/books/content?id=XFYoDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "P61yBgAAQBAJ",
+          "title": "Shattered",
+          "authors": ["Linda Howard"],
+          "thumbnail": "http://books.google.com/books/content?id=P61yBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "hFUYDQAAQBAJ",
+          "title": "Highland Beast",
+          "authors": ["Hannah Howell", "Heather Grothaus", "Victoria Dahl"],
+          "thumbnail": "http://books.google.com/books/content?id=hFUYDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "2clvDwAAQBAJ",
+          "title": "Sucker for Love",
+          "authors": ["Kimberly Raye"],
+          "thumbnail": "http://books.google.com/books/content?id=2clvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Fantasy",
+      "link": "/fiction/fantasy",
+      "books": [
+        {
+          "id": "kPTvAwAAQBAJ",
+          "title": "Island of Fire",
+          "authors": ["Lisa McMann"],
+          "thumbnail": "http://books.google.com/books/content?id=kPTvAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "tz7XAwAAQBAJ",
+          "title": "Ruin and Rising",
+          "authors": ["Leigh Bardugo"],
+          "thumbnail": "http://books.google.com/books/content?id=tz7XAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "OpOqcgs2KqIC",
+          "title": "The Hunters",
+          "authors": ["John Flanagan"],
+          "thumbnail": "http://books.google.com/books/content?id=3o6RDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "-gFEAwAAQBAJ",
+          "title": "Of Neptune",
+          "authors": ["Anna Banks"],
+          "thumbnail": "http://books.google.com/books/content?id=-gFEAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xOKODQAAQBAJ",
+          "title": "The Secret of the Key",
+          "authors": ["Marianne Malone"],
+          "thumbnail": "http://books.google.com/books/content?id=xOKODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xLacAgAAQBAJ",
+          "title": "The Assassin's Blade",
+          "authors": ["Sarah J. Maas"],
+          "thumbnail": "http://books.google.com/books/content?id=xLacAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Magic",
+      "link": "/fiction/magic",
+      "books": [
+        {
+          "id": "d_RdCwAAQBAJ",
+          "title": "The Stolen Chapters",
+          "authors":  ["James Riley"],
+          "thumbnail": "http://books.google.com/books/content?id=d_RdCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "0TnaCwAAQBAJ",
+          "title": "Bloodwitch",
+          "authors": ["Amelia Atwater-Rhodes"],
+          "thumbnail": "http://books.google.com/books/content?id=0TnaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "a8giBAAAQBAJ",
+          "title": "City of Heavenly Fire",
+          "authors": ["Cassandra Clare"],
+          "thumbnail": "http://books.google.com/books/content?id=BbO2CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "pGVsDQAAQBAJ",
+          "title": "This Gulf of Fire",
+          "authors": ["Mark Molesky"],
+          "thumbnail": "http://books.google.com/books/content?id=pGVsDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "_DD7DwAAQBAJ",
+          "title": "Grace on Chaos",
+          "authors": ["Leah Scott"],
+          "thumbnail": "http://books.google.com/books/content?id=_DD7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "JcsBDAAAQBAJ",
+          "title": "Emperor of Thorns",
+          "authors": ["Mark Lawrence"],
+          "thumbnail": "http://books.google.com/books/content?id=JcsBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Thriller",
+      "link": "/fiction/thriller",
+      "books": [
+        {
+          "id": "yZDCBAAAQBAJ",
+          "title": "The Game of Our Lives",
+          "authors": ["David Docherty"],
+          "thumbnail": "http://books.google.com/books/content?id=yZDCBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "N_lGxwEACAAJ",
+          "title": "Fallen Angel Salvage",
+          "authors": ["Linda Brendle"],
+          "thumbnail": "http://books.google.com/books/content?id=N_lGxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "oqoxDQAAQBAJ",
+          "title": "The Other Air Force",
+          "authors": ["Matt Rogers"],
+          "thumbnail": "http://books.google.com/books/content?id=oqoxDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "0kpDaLI63wMC",
+          "title": "A Handful of Kings",
+          "authors": ["Mark Jacobs"],
+          "thumbnail": "http://books.google.com/books/content?id=0kpDaLI63wMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "thuxDAAAQBAJ",
+          "title": "Jericho's War",
+          "authors": ["Gerald Seymour"],
+          "thumbnail": "http://books.google.com/books/content?id=j_8xjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "RNFtswEACAAJ",
+          "title": "What Happened at the Lake",
+          "authors": ["Phil M. Williams"],
+          "thumbnail": "http://books.google.com/books/content?id=RNFtswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }
+  ], [
+    {
+      "name": "Fables",
+      "link": "/fiction/fables",
+      "books": [
+        {
+          "id": "1UerDwAAQBAJ",
+          "title": "Famous Animal Fables",
+          "authors": ["Carol Huey-Gatewood"],
+          "thumbnail": "http://books.google.com/books/content?id=1UerDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "je8EAgAAQBAJ",
+          "title": "The Ant and the Grasshopper",
+          "authors": ["Mark White"],
+          "thumbnail": "http://books.google.com/books/content?id=je8EAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "SfIEAgAAQBAJ",
+          "title": "The Boy Who Cried Wolf",
+          "authors": ["Eric Blair"],
+          "thumbnail": "http://books.google.com/books/content?id=SfIEAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "e6akyaHLmucC",
+          "title": "The Tortoise and the Hare",
+          "authors": ["Roberto Piumini", "Barbara Nascimbeni", "Aesop"],
+          "thumbnail": "http://books.google.com/books/content?id=e6akyaHLmucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "gfEEAgAAQBAJ",
+          "title": "Mouse and Lion",
+          "authors": ["Mark White"],
+          "thumbnail": "http://books.google.com/books/content?id=gfEEAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HvJ4736_xlgC",
+          "title": "Monkey Business",
+          "authors": ["Shirley Climo"],
+          "thumbnail": "http://books.google.com/books/content?id=HvJ4736_xlgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Literary Fiction",
+      "link": "/fiction/literary-fiction",
+      "books": [
+        {
+          "id": "QcBvDwAAQBAJ",
+          "title": "Agostino",
+          "authors":  ["Alberto Moravia"],
+          "thumbnail": "http://books.google.com/books/content?id=QcBvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "FqSiDwAAQBAJ",
+          "title": "The Catcher in the Rye",
+          "authors": ["J. D. Salinger"],
+          "thumbnail": "http://books.google.com/books/content?id=FqSiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "uAymrwe_YCUC",
+          "title": "Various Miracles",
+          "authors": ["Carol Shields"],
+          "thumbnail": "http://books.google.com/books/content?id=qcAdC3WAegYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4begxQEACAAJ",
+          "title": "The Education of Frank",
+          "authors": ["Glenn G Tucker"],
+          "thumbnail": "http://books.google.com/books/content?id=4begxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "p-rxtgAACAAJ",
+          "title": "Watership Down",
+          "authors": ["Richard Adams"],
+          "thumbnail": "http://books.google.com/books/content?id=p-rxtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "2L9d9KPKbM8C",
+          "title": "Hotel de Dream",
+          "authors": ["Edmund White"],
+          "thumbnail": "http://books.google.com/books/content?id=tGXXwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Science Fiction",
+      "link": "/fiction/science-fiction",
+      "books": [
+        {
+          "id": "63xaDwAAQBAJ",
+          "title": "Summerland",
+          "authors": ["Hannu Rajaniemi"],
+          "thumbnail": "http://books.google.com/books/content?id=63xaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4ndQDwAAQBAJ",
+          "title": "The Outcast",
+          "authors": ["Taran Matharu"],
+          "thumbnail": "http://books.google.com/books/content?id=4ndQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_ap"
+        }, {
+          "id": "HREcAwAAQBAJ",
+          "title": "The Rule of Thoughts",
+          "authors": ["James Dashner"],
+          "thumbnail": "http://books.google.com/books/content?id=rvIHDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "e5mDDAAAQBAJ",
+          "title": "The Swarm",
+          "authors": ["Orson Scott Card", "Aaron Johnston"],
+          "thumbnail": "http://books.google.com/books/content?id=e5mDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vu_ZDQAAQBAJ",
+          "title": "Born of Vengeance",
+          "authors":  ["Sherrilyn Kenyon"],
+          "thumbnail": "http://books.google.com/books/content?id=vu_ZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PS96DQAAQBAJ",
+          "title": "The Final Day",
+          "authors": ["William R. Forstchen"],
+          "thumbnail": "http://books.google.com/books/content?id=PS96DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Folklore",
+      "link": "/fiction/folklore",
+      "books": [
+        {
+          "id": "06FkpD0ihzMC",
+          "title": "The Dragon Legacy",
+          "authors": ["Nicholas de Vere"],
+          "thumbnail": "http://books.google.com/books/content?id=06FkpD0ihzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "r6p0GXek13cC",
+          "title": "Khasi-Jaintia Folklore",
+          "authors": ["Soumen Sen"],
+          "thumbnail": "http://books.google.com/books/content?id=r6p0GXek13cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "BoOWzQEACAAJ",
+          "title": "Jataka Folktales",
+          "authors": ["Eric Van Horn"],
+          "thumbnail": "http://books.google.com/books/content?id=BoOWzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "ecM0TWIDbIUC",
+          "title": "Hawaiian Legends of the Guardian Spirits",
+          "authors":  ["Caren Loebel-Fried"],
+          "thumbnail": "http://books.google.com/books/content?id=ecM0TWIDbIUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "uUWt19E0cjAC",
+          "title": "Hex and Spellwork",
+          "authors": ["Karl Herr"],
+          "thumbnail": "http://books.google.com/books/content?id=uUWt19E0cjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "zWBlCgAAQBAJ",
+          "title": "American Negro Folktales",
+          "authors": ["Richard M Dorson"],
+          "thumbnail":"http://books.google.com/books/content?id=zWBlCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Manga",
+      "link": "/fiction/manga",
+      "books": [
+        {
+          "id": "vHXOJeBAr6cC",
+          "title": "Japanese in MangaLand",
+          "authors": ["Marc Bernabe"],
+          "thumbnail": "http://books.google.com/books/content?id=vHXOJeBAr6cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "XiZ-SXfp50cC",
+          "title": "Manga Design",
+          "authors": ["Masanao Amano", "Julius Wiedemann"],
+          "thumbnail": "http://books.google.com/books/content?id=XiZ-SXfp50cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },{
+          "id": "x9pitAEACAAJ",
+          "title": "Grand Blue Dreaming 2",
+          "authors": ["Kenji Inoue", "Kimitake Yoshioka"],
+          "isbn": "1632366673",
+          "thumbnail": "http://books.google.com/books/content?id=x9pitAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "y7PSlh_8i3cC",
+          "title": "Cantarella",
+          "authors": ["Audry Taylor"],
+          "isbn": "0976895706",
+          "thumbnail": "http://books.google.com/books/content?id=y7PSlh_8i3cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "cgU4MQAACAAJ",
+          "title": "Fire Force 6",
+          "authors": ["Atsushi Ohkubo"],
+          "isbn": "1632364786",
+          "thumbnail": "http://books.google.com/books/content?id=cgU4MQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "HVOrfWYq2B4C",
+          "title": "Mao-chan",
+          "authors": ["Ken Akamatsu"],
+          "isbn": "0345501810",
+          "thumbnail": "http://books.google.com/books/content?id=HVOrfWYq2B4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Western",
+      "link": "/fiction/western",
+      "books": [
+         {
+           "id": "PTWNYt0-xAkC",
+          "title": "Buffalo Wagons",
+          "authors": ["Elmer Kelton"],
+          "thumbnail": "http://books.google.com/books/content?id=MWOdJ6ONn0kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "4NddkcKkd24C",
+          "title": "Dago Red",
+          "authors": ["Bill Pronzini"],
+          "thumbnail": "http://books.google.com/books/content?id=4NddkcKkd24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "m1adjwEACAAJ",
+          "title": "Bloodfeud",
+          "authors":  ["Ben Galley"],
+          "thumbnail": "http://books.google.com/books/content?id=m1adjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "GTx7AAAACAAJ",
+          "title": "Cabin Gulch",
+          "authors": ["Zane Grey"],
+          "thumbnail": "http://books.google.com/books/content?id=GTx7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "TpBYtQAACAAJ",
+          "title": "Dead River Killer",
+          "authors": ["Frank Leslie"],
+          "thumbnail": "http://books.google.com/books/content?id=TpBYtQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "n3NymAEACAAJ",
+          "title": "Death Rattle",
+          "authors": ["Jory Sherman"],
+          "thumbnail": "http://books.google.com/books/content?id=n3NymAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }
+  ], [
+    {
+      "name": "Fantasy",
+      "link": "/fiction/fantasy",
+      "books": [
+        {
+          "id": "zdpdDwAAQBAJ",
+          "title": "Legendary",
+          "authors": ["Stephanie Garber"],
+          "thumbnail": "http://books.google.com/books/content?id=zdpdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ZbwkDgAAQBAJ",
+          "title": "The Keeper of the Mist",
+          "authors": ["Rachel Neumeier"],
+          "thumbnail": "http://books.google.com/books/content?id=ZbwkDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4ndQDwAAQBAJ",
+          "title": "The Outcast",
+          "authors": ["Taran Matharu"],
+          "thumbnail": "http://books.google.com/books/content?id=4ndQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ZPOiDwAAQBAJ",
+          "title": "Dragons in a Bag",
+          "authors": ["Zetta Elliott"],
+          "thumbnail": "http://books.google.com/books/content?id=ZPOiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "90k8DwAAQBAJ",
+          "title": "Nightfall",
+          "authors": ["Shannon Messenger"],
+          "thumbnail": "http://books.google.com/books/content?id=90k8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "9NYlDgAAQBAJ",
+          "title": "A Crown of Wishes",
+          "authors": ["Roshani Chokshi"],
+          "thumbnail": "http://books.google.com/books/content?id=9NYlDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Magic",
+      "link": "/fiction/magic",
+      "books": [
+        {
+          "id": "Yp9GDwAAQBAJ",
+          "title": "Children of Blood and Bone",
+          "authors": ["Tomi Adeyemi"],
+          "thumbnail": "http://books.google.com/books/content?id=Yp9GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "dxJFDwAAQBAJ",
+          "title": "The Armored Saint",
+          "authors": ["Myke Cole"],
+          "thumbnail": "http://books.google.com/books/content?id=dxJFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "AYQ2DwAAQBAJ",
+          "title": "Pick the Plot",
+          "authors": ["James Riley"],
+          "thumbnail": "http://books.google.com/books/content?id=AYQ2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HYEpDwAAQBAJ",
+          "title": "If the Magic Fits",
+          "authors": ["Susan Maupin Schmid"],
+          "thumbnail": "http://books.google.com/books/content?id=HYEpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vS7ECwAAQBAJ",
+          "title": "The Star-Touched Queen",
+          "authors": ["Roshani Chokshi"],
+          "thumbnail": "http://books.google.com/books/content?id=vS7ECwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "6WbaCwAAQBAJ",
+          "title": "The Library at Mount Char",
+          "authors": ["Scott Hawkins"],
+          "thumbnail": "http://books.google.com/books/content?id=6WbaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Thriller",
+      "link": "/fiction/thriller",
+      "books": [
+        {
+          "id": "5MRwDQAAQBAJ",
+          "title": "Kalahari",
+          "authors": ["Jessica Khoury"],
+          "thumbnail": "http://books.google.com/books/content?id=5MRwDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "kMsPCwAAQBAJ",
+          "title": "The Silence That Speaks",
+          "authors": ["Andrea Kane"],
+          "thumbnail": "http://books.google.com/books/content?id=kMsPCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "kGitgs5JBd4C",
+          "title": "Little Town Lies",
+          "authors": ["Anne Strieber"],
+          "thumbnail": "http://books.google.com/books/content?id=kGitgs5JBd4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4bp6N2leFmYC",
+          "title": "Sandstorm",
+          "authors": ["James Rollins"],
+          "thumbnail": "http://books.google.com/books/content?id=4bp6N2leFmYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "zEXi5cck6zYC",
+          "title": "Day of Atonement",
+          "authors": ["Faye Kellerman"],
+          "thumbnail": "http://books.google.com/books/content?id=zEXi5cck6zYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "nGgCXRmWz-YC",
+          "title": "Scarecrow",
+          "authors": ["Matthew Reilly"],
+          "thumbnail": "http://books.google.com/books/content?id=nGgCXRmWz-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Graphic Novels",
+      "link": "/fiction/graphic-novels",
+      "books": [
+        {
+          "id": "am01DwAAQBAJ",
+          "title": "Strange Fruit",
+          "authors":  ["J.G. Jones", "Mark Waid"],
+          "thumbnail": "http://books.google.com/books/content?id=am01DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "X54oDwAAQBAJ",
+          "title": "After the Flood",
+          "authors": ["Matt Kindt"],
+          "thumbnail": "http://books.google.com/books/content?id=X54oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "jaraCwAAQBAJ",
+          "title": "Plants Vs. Zombies: Garden Warfare",
+          "authors": ["Paul Tobin"],
+          "thumbnail": "http://books.google.com/books/content?id=jaraCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "F7tvDwAAQBAJ",
+          "title": "Terminator",
+          "authors": ["Dan Jolley"],
+          "thumbnail": "http://books.google.com/books/content?id=F7tvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oIMrDwAAQBAJ",
+          "title": "Mighty Jack and the Goblin King",
+          "authors": ["Ben Hatke"],
+          "thumbnail": "http://books.google.com/books/content?id=oIMrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "1NgxDwAAQBAJ",
+          "title": "Lifeformed",
+          "authors": ["Matt Mair Lowery"],
+          "thumbnail": "http://books.google.com/books/content?id=1NgxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Mythology",
+      "link": "/fiction/mythology",
+      "books": [
+        {
+          "id": "sw7P67JtovQC",
+          "title": "Polarity Magic",
+          "authors": ["Wendy Berg", "Mike Harris"],
+          "thumbnail": "http://books.google.com/books/content?id=sw7P67JtovQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "dE188J0upXkC",
+          "title": "Gods of Fire and Thunder",
+          "authors": ["Fred Saberhagen"],
+          "thumbnail": "http://books.google.com/books/content?id=dE188J0upXkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "9z7exWBhISoC",
+          "title": "The Myth and Ritual School",
+          "authors": ["Robert Ackerman"],
+          "thumbnail": "http://books.google.com/books/content?id=9z7exWBhISoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "5VOGAAAAQBAJ",
+          "title": "The Inner Reaches of Outer Space",
+          "authors": ["Joseph Campbell"],
+          "thumbnail": "http://books.google.com/books/content?id=5VOGAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xpQshqYpKJkC",
+          "title": "The Mythic Journey",
+          "authors": ["Liz Greene", "Juliet Sharman-Burke"],
+          "thumbnail": "http://books.google.com/books/content?id=xpQshqYpKJkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "3YWccov0y5wC",
+          "title": "Living Myths",
+          "authors": ["J. F. Bierlein"],
+          "thumbnail": "http://books.google.com/books/content?id=3YWccov0y5wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Fables",
+      "link": "/fiction/fables",
+      "books": [
+        {
+          "id": "wgmLCgAAQBAJ",
+          "title": "Tales of Wise and Foolish Animals",
+          "authors": ["Valery Carrick"],
+          "thumbnail": "http://books.google.com/books/content?id=wgmLCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "UYjUGgXafAQC",
+          "title": "How the Rhinoceros Got His Skin",
+          "authors": ["Martin Powell", "Pedro Rodriguez", "Rudyard Kipling"],
+          "thumbnail": "http://books.google.com/books/content?id=UYjUGgXafAQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "je8EAgAAQBAJ",
+          "title": "The Ant and the Grasshopper",
+          "authors": ["Mark White"],
+          "thumbnail": "http://books.google.com/books/content?id=je8EAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "me0EAgAAQBAJ",
+          "title": "Belling the Cat",
+          "authors": ["Eric Blair"],
+          "thumbnail": "http://books.google.com/books/content?id=me0EAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "gfEEAgAAQBAJ",
+          "title": "The Lion and the Mouse",
+          "authors": ["Mark White", "Sara Rojo"],
+          "thumbnail": "http://books.google.com/books/content?id=gfEEAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "e6akyaHLmucC",
+          "title": "The Tortoise and the Hare",
+          "authors": ["Roberto Piumini", "Barbara Nascimbeni", "Aesop"],
+          "thumbnail": "http://books.google.com/books/content?id=e6akyaHLmucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], [
+    {
+      "name": "Folklore",
+      "link": "/fiction/folklore",
+      "books": [
+        {
+          "id": "Z2wkDAAAQBAJ",
+          "title": "El monte",
+          "authors": ["Lydia Cabrera"],
+          "thumbnail": "http://books.google.com/books/content?id=Z2wkDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "3USzfdApgQAC",
+          "title": "Grimm's Fairy Tales",
+          "authors": ["Jacob Grimm"],
+          "thumbnail": "http://books.google.com/books/content?id=3USzfdApgQAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "2dce6_CA76MC",
+          "title": "Encyclopedia of American Folklore",
+          "authors": ["Linda S. Watts"],
+          "thumbnail": "http://books.google.com/books/content?id=2dce6_CA76MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xvC2o6vyCAcC",
+          "title": "The Elves and the Shoemaker",
+          "authors": ["Jacob Grimm", "Wilhelm Grimm"],
+          "thumbnail": "http://books.google.com/books/content?id=xvC2o6vyCAcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oMTPH_gl4JoC",
+          "title": "John Henry, Hammerin' Hero",
+          "authors": ["Stephanie True Peters", "Nelson Evergreen"],
+          "thumbnail": "http://books.google.com/books/content?id=oMTPH_gl4JoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "qLEn7reTC5EC",
+          "title": "The Wooden Sword",
+          "authors": ["Ann Redisch Stampler"],
+          "thumbnail": "http://books.google.com/books/content?id=qLEn7reTC5EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Manga",
+      "link": "/fiction/manga",
+      "books": [
+        {
+          "id": "SCtnDQAAQBAJ",
+          "title": "Psycho Pass",
+          "authors": ["Midori Gotu", "Natsuo Sai"],
+          "thumbnail": "http://books.google.com/books/content?id=SCtnDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "lQK921ZRW7IC",
+          "title": "Let's Draw Manga",
+          "authors": ["Makoto Nakajima", "Big Mouth Factory"],
+          "thumbnail": "http://books.google.com/books/content?id=lQK921ZRW7IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vHXOJeBAr6cC",
+          "title": "Japanese in MangaLand",
+          "authors": ["Marc Bernabe"],
+          "thumbnail": "http://books.google.com/books/content?id=vHXOJeBAr6cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "XiZ-SXfp50cC",
+          "title": "Manga Design",
+          "authors": ["Masanao Amano", "Julius Wiedemann"],
+          "thumbnail": "http://books.google.com/books/content?id=XiZ-SXfp50cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "TnsrAQAAIAAJ",
+          "title": "Mu Shi Shi",
+          "authors": ["Yuki Urushibara"],
+          "thumbnail": "http://books.google.com/books/content?id=TnsrAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "nOGuxwEACAAJ",
+          "title": "Sailor Moon Eternal",
+          "authors": ["Naoko Takeuchi"],
+          "thumbnail": "http://books.google.com/books/content?id=nOGuxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Western",
+      "link": "/fiction/western",
+      "books": [
+        {
+          "id": "exhJfzCexBoC",
+          "title": "The Fire Arrow",
+          "authors": ["Richard S. Wheeler"],
+          "thumbnail": "http://books.google.com/books/content?id=exhJfzCexBoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "1rSdatZ1G0YC",
+          "title": "The Overlords",
+          "authors": ["Matt Braun"],
+          "thumbnail": "http://books.google.com/books/content?id=1rSdatZ1G0YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "j7d_gIEcTbkC",
+          "title": "The Copelands",
+          "authors": ["Fiction"],
+          "thumbnail": "http://books.google.com/books/content?id=j7d_gIEcTbkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PTWNYt0-xAkC",
+          "title": "Buffalo Wagons",
+          "authors": ["Elmer Kelton"],
+          "thumbnail": "http://books.google.com/books/content?id=PTWNYt0-xAkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "BUUA6NNhfxAC",
+          "title": "Free Range Lanning",
+          "authors": ["Max Brand"],
+          "thumbnail": "http://books.google.com/books/content?id=BUUA6NNhfxAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "3X3vQIyMKXAC",
+          "title": "Devil's Backbone",
+          "authors": ["Terry C. Johnston"],
+          "thumbnail": "http://books.google.com/books/content?id=3X3vQIyMKXAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+      }, {
+      "name": "General Fiction",
+      "link": "/fiction/general-fiction",
+      "books": [
+        {
+          "id": "mtqwaI9xOCwC",
+          "title": "The Dog Who Danced",
+          "authors": ["Susan Wilson"],
+          "thumbnail": "http://books.google.com/books/content?id=mtqwaI9xOCwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "icNvDwAAQBAJ",
+          "title": "The Lake",
+          "authors": ["Banana Yoshimoto"],
+          "thumbnail": "http://books.google.com/books/content?id=icNvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Ta6JMCcrkpQC",
+          "title": "Umbrella",
+          "authors": ["Will Self"],
+          "thumbnail": "http://books.google.com/books/content?id=Ta6JMCcrkpQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "emSr7TNTxr0C",
+          "title": "You",
+          "authors":  ["Joanna Briscoe"],
+          "thumbnail": "http://books.google.com/books/content?id=emSr7TNTxr0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "lVV_OEP7kzsC",
+          "title": "Fold",
+          "authors":  ["Tom Campbell"],
+          "thumbnail": "http://books.google.com/books/content?id=lVV_OEP7kzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "LNN5LPwArC8C",
+          "title": "State of Wonder",
+          "authors": ["Ann Patchett"],
+          "thumbnail": "http://books.google.com/books/content?id=LNN5LPwArC8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Mystery & Crime",
+      "link": "/fiction/mystery-crime",
+      "books": [
+        {
+          "id": "ix8AEAAAQBAJ",
+          "title": "Misfortune",
+          "authors": ["Blake Pierce"],
+          "thumbnail": "http://books.google.com/books/content?id=ix8AEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vCuaDwAAQBAJ",
+          "title": "All the Best Lies",
+          "authors": ["Joanna Schaffhausen"],
+          "thumbnail": "http://books.google.com/books/content?id=vCuaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "GkkazAEACAAJ",
+          "title": "Cold Wind",
+          "authors": ["Paige Shelton"],
+          "thumbnail": "http://books.google.com/books/content?id=GkkazAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "no1xDwAAQBAJ",
+          "title": "The Scent of Murder",
+          "authors": ["Kylie Logan"],
+          "thumbnail": "http://books.google.com/books/content?id=no1xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oo1xDwAAQBAJ",
+          "title": "Murder Knocks Twice",
+          "authors": ["Susanna Calkins"],
+          "thumbnail": "http://books.google.com/books/content?id=oo1xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "X3OPDwAAQBAJ",
+          "title": "King",
+          "authors": ["David S. Faldet"],
+          "thumbnail": "http://books.google.com/books/content?id=X3OPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Poetry",
+      "link": "/fiction/poetry",
+      "books": [
+        {
+          "id": "JzNbCwAAQBAJ",
+          "title": "The Rain in Portugal",
+          "authors": ["Billy Collins"],
+          "thumbnail": "http://books.google.com/books/content?id=JzNbCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "SMS2CgAAQBAJ",
+          "title": "Plenty",
+          "authors": ["Corinne Lee"],
+          "thumbnail": "http://books.google.com/books/content?id=SMS2CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "BtFfCgAAQBAJ",
+          "title": "The Poetry of Yehuda Amichai",
+          "authors": ["Yehuda Amichai"],
+          "thumbnail": "http://books.google.com/books/content?id=BtFfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oRtnAwAAQBAJ",
+          "title": "The Odyssey",
+          "authors": ["Homer,"],
+          "thumbnail": "http://books.google.com/books/content?id=oRtnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HTgpAwAAQBAJ",
+          "title": "Beowulf",
+          "authors": ["J.R.R. Tolkien"],
+          "thumbnail": "http://books.google.com/books/content?id=HTgpAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xzziAgAAQBAJ",
+          "title": "Four Quartets",
+          "authors": ["T. S. Eliot"],
+          "thumbnail": "http://books.google.com/books/content?id=xzziAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], [
+    {
+      "name": "Graphic Novels",
+      "link": "/fiction/graphic-novels",
+      "books": [
+        {
+          "id": "2dauDwAAQBAJ",
+          "title": "The Crossover",
+          "authors": ["Kwame Alexander"],
+          "thumbnail": "http://books.google.com/books/content?id=2dauDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "9s_GDwAAQBAJ",
+          "title": "Stranger Things: Zombie Boys",
+          "authors": ["Greg Pak"],
+          "thumbnail": "http://books.google.com/books/content?id=9s_GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "AxNFDwAAQBAJ",
+          "title": "Be Prepared",
+          "authors": ["Vera Brosgol"],
+          "thumbnail": "http://books.google.com/books/content?id=AxNFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oIMrDwAAQBAJ",
+          "title": "Mighty Jack and the Goblin King",
+          "authors": ["Ben Hatke"],
+          "thumbnail": "http://books.google.com/books/content?id=oIMrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "kG01DwAAQBAJ",
+          "title": "Paknadel & Trakhanov's Turncoat",
+          "authors": ["Alex Paknadel"],
+          "thumbnail": "http://books.google.com/books/content?id=kG01DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "tcMNDgAAQBAJ",
+          "title": "Shattered Warrior",
+          "authors": ["Sharon Shinn"],
+          "thumbnail": "http://books.google.com/books/content?id=tcMNDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+
+      ]
+    }, {
+      "name": "Mythology",
+      "link": "/fiction/mythology",
+      "books": [
+        {
+          "id": "FZuxDwAAQBAJ",
+          "title": "Golden Bough",
+          "authors": ["Sir James George Frazer"],
+          "thumbnail": "http://books.google.com/books/content?id=FZuxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "icBODwAAQBAJ",
+          "title": "The Fairies of Sadieville",
+          "authors": ["Alex Bledsoe"],
+          "thumbnail": "http://books.google.com/books/content?id=icBODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "TK1rCwAAQBAJ",
+          "title": "Angels and Demons",
+          "authors": ["Serge-Thomas Bonino"],
+          "thumbnail": "http://books.google.com/books/content?id=TK1rCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "01swDwAAQBAJ",
+          "title": "The Cartographer's Daughter",
+          "authors": ["Kiran Millwood Hargrave"],
+          "thumbnail": "http://books.google.com/books/content?id=01swDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "OxSCCQAAQBAJ",
+          "title": "Myth",
+          "authors":  ["Robert Alan Segal"],
+          "thumbnail": "http://books.google.com/books/content?id=OxSCCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "RehvDwAAQBAJ",
+          "title": "Zeus Grants Stupid Wishes",
+          "authors": ["Cory O'Brien"],
+          "thumbnail": "http://books.google.com/books/content?id=RehvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Classics",
+      "link": "/fiction/classics",
+      "books": [
+        {
+          "id": "u9O5BAAAQBAJ",
+          "title" : "Ruth's Journey",
+          "authors": ["Donald McCaig"],
+          "thumbnail": "http://books.google.com/books/content?id=u9O5BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+          "id": "O5F9a-NotOAC",
+          "title": "David Copperfield",
+          "authors": ["Charles Dickens"],
+          "thumbnail": "http://books.google.com/books/content?id=O5F9a-NotOAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+          "id": "A2DG7mclawoC",
+          "title": "Martin Chuzzlewit",
+          "authors": ["Charles Dickens"],
+          "thumbnail": "http://books.google.com/books/content?id=A2DG7mclawoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+          "id": "gu78JKzMB2cC",
+          "title": "David Balfour",
+          "authors": ["Robert Louis Stevenson"],
+          "thumbnail": "http://books.google.com/books/content?id=gu78JKzMB2cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+          "id": "vp--U7m0g-AC",
+          "title": "The Three Musketeers",
+          "authors": ["Alexandre Dumas"],
+          "thumbnail": "http://books.google.com/books/content?id=vp--U7m0g-AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+          "id": "htCI8i-THTcC",
+          "title": "Ivanhoe",
+          "authors": ["Sir Walter Scott"],
+          "thumbnail": "http://books.google.com/books/content?id=htCI8i-THTcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Historical Fiction",
+      "link": "/fiction/historical-fiction",
+      "books": [
+        {
+          "id": "hgMODAAAQBAJ",
+          "title": "Everyone Brave is Forgiven",
+          "authors": ["Chris Cleave"],
+          "thumbnail": "http://books.google.com/books/content?id=hgMODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "asy5CgAAQBAJ",
+          "title": "The Explorers Guild",
+          "authors": ["Kevin Costner", "Jon Baird"],
+          "thumbnail": "http://books.google.com/books/content?id=asy5CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "SzzoCQAAQBAJ",
+          "title": "The Truth About Lord Stoneville",
+          "authors": ["Sabrina Jeffries"],
+          "thumbnail": "http://books.google.com/books/content?id=SzzoCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "B6eQBQAAQBAJ",
+          "title": "The Nightingale",
+          "authors": ["Kristin Hannah"],
+          "thumbnail": "http://books.google.com/books/content?id=B6eQBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "LngoDgAAQBAJ",
+          "title": "Secrets of a Charmed Life",
+          "authors": ["Susan Meissner"],
+          "thumbnail": "http://books.google.com/books/content?id=LngoDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PmBnBAAAQBAJ",
+          "title": "The Counterfeit Heiress",
+          "authors": ["Tasha Alexander"],
+          "thumbnail": "http://books.google.com/books/content?id=PmBnBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Poetry",
+      "link": "/fiction/poetry",
+      "books": [
+        {
+          "id": "rLysDgAAQBAJ",
+          "title": "Collective Amnesia",
+          "authors": ["Putuma, Koleka"],
+          "thumbnail": "http://books.google.com/books/content?id=rLysDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "mAKNDgAAQBAJ",
+          "title": "Purgatorio",
+          "authors": ["Dante Alighieri"],
+          "thumbnail": "http://books.google.com/books/content?id=mAKNDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "SMiSDgAAQBAJ",
+          "title": "We Come Apart",
+          "authors": ["Sarah Crossan", "Brian Conaghan"],
+          "thumbnail": "http://books.google.com/books/content?id=SMiSDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "LYhXDwAAQBAJ",
+          "title": "Counting Descent",
+          "authors":  ["Clint Smith"],
+          "thumbnail": "http://books.google.com/books/content?id=LYhXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "QzA7DwAAQBAJ",
+          "title": "Devotions",
+          "authors": ["Mary Oliver"],
+          "thumbnail": "http://books.google.com/books/content?id=QzA7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "AZLeDwAAQBAJ",
+          "title": "Colors",
+          "authors": ["Farhat Ali Khan"],
+          "thumbnail": "http://books.google.com/books/content?id=AZLeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Fantasy",
+      "link": "/fiction/fantasy",
+      "books": [
+        {
+          "id": "ZCtfCgAAQBAJ",
+          "title": "Six of Crows",
+          "authors": ["Leigh Bardugo"],
+          "thumbnail": "http://books.google.com/books/content?id=ZCtfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xRlPDQAAQBAJ",
+          "title": "The Nethergrim",
+          "authors": ["Matthew Jobin"],
+          "thumbnail": "http://books.google.com/books/content?id=xRlPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "J8_ZCwAAQBAJ",
+          "title": "The Elfstones of Shannara",
+          "authors": ["Terry Brooks"],
+          "thumbnail": "http://books.google.com/books/content?id=J8_ZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "VLpbCgAAQBAJ",
+          "title": "Milo Speck, Accidental Agent",
+          "authors": ["Linda Urban"],
+          "thumbnail": "http://books.google.com/books/content?id=VLpbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "zy9NDQAAQBAJ",
+          "title": "The Magician's Key",
+          "authors": ["Matthew Cody"],
+          "thumbnail": "http://books.google.com/books/content?id=zy9NDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HlzACwAAQBAJ",
+          "title": "Firstlife",
+          "authors": ["Gena Showalter"],
+          "thumbnail": "http://books.google.com/books/content?id=HlzACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], [
+    {
+      "name": "General Fiction",
+      "link": "/fiction/general-fiction",
+      "books": [
+        {
+          "id": "hbNDDwAAQBAJ",
+          "title": "Everything Here Is Beautiful",
+          "authors": ["Mira T. Lee"],
+          "thumbnail": "http://books.google.com/books/content?id=hbNDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "JwZcBAAAQBAJ",
+          "title": "Tell Me Tomorrow",
+          "authors": ["Lynda Bellingham"],
+          "thumbnail": "http://books.google.com/books/content?id=JwZcBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "9kf4AwAAQBAJ",
+          "title": "From a Distance",
+          "authors": ["Raffaella Barker"],
+          "thumbnail": "http://books.google.com/books/content?id=9kf4AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vJXnrFMVve4C",
+          "title": "The Well",
+          "authors": ["Stephanie Landsem"],
+          "thumbnail": "http://books.google.com/books/content?id=vJXnrFMVve4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "mwYaGfDTQ3MC",
+          "title": "Three Sisters",
+          "authors": ["Susan Mallery"],
+          "thumbnail": "http://books.google.com/books/content?id=mwYaGfDTQ3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ceo_AQAAQBAJ",
+          "title": "Ada's Rules",
+          "authors": ["Alice Randall"],
+          "thumbnail": "http://books.google.com/books/content?id=ceo_AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Mystery & Crime",
+      "link": "/fiction/mystery-crime",
+      "books": [
+        {
+          "id": "2APZzQEACAAJ",
+          "title": "An Antarctic Mystery",
+          "authors": ["Jules Verne"],
+          "thumbnail": "http://books.google.com/books/content?id=2APZzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "1zPYzQEACAAJ",
+          "title": "The Mystery Bug Collection",
+          "authors": ["Terry Shepherd"],
+          "thumbnail": "http://books.google.com/books/content?id=1zPYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "jYXAzQEACAAJ",
+          "title": "The Missing Message",
+          "authors": ["Terri Downes"],
+          "thumbnail": "http://books.google.com/books/content?id=jYXAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "aE98zQEACAAJ",
+          "title": "The Mysterious Stranger",
+          "authors": ["John Marinelli"],
+          "thumbnail": "http://books.google.com/books/content?id=aE98zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "8DAxzQEACAAJ",
+          "title": "Scarlett Fire",
+          "authors": ["Gabriella Chester"],
+          "thumbnail": "http://books.google.com/books/content?id=8DAxzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "de9kygEACAAJ",
+          "title": "The Mystery at Underwood House",
+          "authors": ["Clara Benson"],
+          "thumbnail": "http://books.google.com/books/content?id=de9kygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Drama",
+      "link": "/fiction/drama",
+      "books": [
+        {
+          "id": "FhNNDAAAQBAJ",
+          "title": "The Night Watch",
+          "authors": ["Sarah Waters"],
+          "thumbnail": "http://books.google.com/books/content?id=FhNNDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "kkV5DAAAQBAJ",
+          "title": "Taming a Maverick",
+          "authors": ["Third Cousins", "Arianna James"],
+          "thumbnail": "http://books.google.com/books/content?id=kkV5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ITY2DwAAQBAJ",
+          "title": "I Believe in Unicorns",
+          "authors": ["Michael Morpurgo", "Danyah Miller", "Dani Parr"],
+          "thumbnail": "http://books.google.com/books/content?id=ITY2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "v0HPDgAAQBAJ",
+          "title": "The Taming of the Shrew",
+          "authors": ["William Shakespeare"],
+          "thumbnail": "http://books.google.com/books/content?id=v0HPDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vCnqBQAAQBAJ",
+          "title": "The Theater of War",
+          "authors": ["Bryan Doerries"],
+          "thumbnail": "http://books.google.com/books/content?id=vCnqBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "GhHSBgAAQBAJ",
+          "title": "Citizenship",
+          "authors": ["Mark Ravenhill"],
+          "thumbnail": "http://books.google.com/books/content?id=GhHSBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Horror",
+      "link": "/fiction/horror",
+      "books": [
+        {
+          "id": "TjJDYgBTVOIC",
+          "title": "First Date",
+          "authors":  ["R.L. Stine"],
+          "thumbnail": "http://books.google.com/books/content?id=TjJDYgBTVOIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "dSvnj7Y46hwC",
+          "title": "The Keep",
+          "authors": ["F. Paul Wilson"],
+          "thumbnail": "http://books.google.com/books/content?id=dSvnj7Y46hwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "RQDiooLMQq8C",
+          "title": "The Knife",
+          "authors":  ["R. L. Stine"],
+          "thumbnail": "http://books.google.com/books/content?id=RQDiooLMQq8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vVZ8x7QglF4C",
+          "title": "Goodnight Kiss",
+          "authors": ["R. L. Stine"],
+          "thumbnail": "http://books.google.com/books/content?id=vVZ8x7QglF4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "YppZv_EyhdQC",
+          "title": "Silent Night",
+          "authors": ["R.L. Stine"],
+          "thumbnail": "http://books.google.com/books/content?id=YppZv_EyhdQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "EL_R7Tiig74C",
+          "title": "Halloween Party",
+          "authors": ["R.L. Stine"],
+          "thumbnail": "http://books.google.com/books/content?id=EL_R7Tiig74C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Romance",
+      "link": "/fiction/romance",
+      "books": [
+        {
+          "id": "iZ1tLXmP470C",
+          "title": "Warlord",
+          "authors": ["Elizabeth Vaughan"],
+          "thumbnail": "http://books.google.com/books/content?id=iZ1tLXmP470C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "2787DPYdUd0C",
+          "title": "Mud Girl",
+          "authors": ["Alison Acheson"],
+          "thumbnail": "http://books.google.com/books/content?id=2787DPYdUd0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "wqg_DwAAQBAJ",
+          "title": "Leave It to Cleavage",
+          "authors": ["Wendy Wax"],
+          "thumbnail": "http://books.google.com/books/content?id=wqg_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vSl2XQcXKRYC",
+          "title": "Beneath a Texas Sky",
+          "authors": ["Rebecca Winters"],
+          "thumbnail": "http://books.google.com/books/content?id=vSl2XQcXKRYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "2_pvDwAAQBAJ",
+          "title": "Lord of Sin",
+          "authors": ["Madeline Hunter"],
+          "thumbnail": "http://books.google.com/books/content?id=2_pvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "b_dvDwAAQBAJ",
+          "title": "Sweet Revenge",
+          "authors": ["Nora Roberts"],
+          "thumbnail": "http://books.google.com/books/content?id=b_dvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Folklore",
+      "link": "/fiction/folklore",
+      "books": [
+        {
+          "id": "xvC2o6vyCAcC",
+          "title": "The Elves and the Shoemaker",
+          "authors": ["Jacob Grimm", "Wilhelm Grimm"],
+          "thumbnail": "http://books.google.com/books/content?id=xvC2o6vyCAcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "SGb350IG2rEC",
+          "title": "The Eye of the Warlock",
+          "authors": ["P. W. Catanese"],
+          "thumbnail": "http://books.google.com/books/content?id=SGb350IG2rEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "dv1fDwAAQBAJ",
+          "title": "The Bungling Host",
+          "authors": ["Daniel Clément"],
+          "thumbnail": "http://books.google.com/books/content?id=dv1fDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ecM0TWIDbIUC",
+          "title": "Hawaiian Legends of the Guardian Spirits",
+          "authors": ["Caren Loebel-Fried"],
+          "thumbnail": "http://books.google.com/books/content?id=ecM0TWIDbIUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "uUWt19E0cjAC",
+          "title": "Hex and Spellwork",
+          "authors": ["Karl Herr"],
+          "thumbnail": "http://books.google.com/books/content?id=uUWt19E0cjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ghTDCgAAQBAJ",
+          "title": "Brave Margaret",
+          "authors": ["Robert D. San Souci"],
+          "thumbnail": "http://books.google.com/books/content?id=ghTDCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ]
+
+]
+

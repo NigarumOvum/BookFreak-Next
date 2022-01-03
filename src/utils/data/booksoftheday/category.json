@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "author": ["Sara Shepard"],
+      "rating": 4,
+      "title": "Safe in My Arms",
+      "isbn": "9781524746797",
+      "image": "http://books.google.com/books/content?id=T6AFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "The latest novel from Sara Shepard, author of Reputation and the #1 New York Times bestselling Pretty Little Liars series. When the principal of an elite California preschool is attacked, three moms—who feel like outsiders..."
+    },
+    {
+      "author": ["Andre Maurois"],
+      "rating": 5,
+      "title": "An Art of Living",
+      "isbn": "9780965564359",
+      "image": "http://books.google.com/books/content?id=rDS4ruB6khIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This inspirational book contains sound advice on the art of living by the late historian, biographer, and philosopher, Andre Maurois, one of the most celebrated and prolific French writers of the 20th century..."
+    },
+    {
+      "author":  ["James Moloney"],
+      "rating": 2.5,
+      "title": "A Bridge to Wiseman's Cove",
+      "isbn": "0702236284",
+      "image": "http://books.google.com/books/content?id=veoQ630kIZ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Carl Matt - even his name mocks him. The people of Wattle Beach do their best to grind him under foot.Why are the Matts such pariahs? The answer lies in Wiseman's Cove, a short ride across the strait where Carl finds..."
+    },
+    {
+      "author": ["Philip Gross"],
+      "rating": 4,
+      "title": "The Lastling",
+      "isbn": "0618659986",
+      "image": "http://books.google.com/books/content?id=Dv7kj4r7J4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Having traveled to a war-torn area of the Himalayas with her uncle to hunt exotic game, fourteen-year-old Paris befriends a lost twelve-year-old Buddhist monk and a young yeti, from whom she learns about humanity..."
+    }
+  ], [
+    {
+      "author": ["Susan Rosson Spain"],
+      "rating": 4,
+      "title": "The Deep Cut",
+      "isbn": "0761453164",
+      "image": "http://books.google.com/books/content?id=O7TXVCTBAEIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Considered 'slow' by his father, Lonzo tries his best to help his family in Culpeper, Virginia, during the Civil War and, in the process, comes to some decisions about how to live his life."
+    },
+    {
+      "author": ["Joseph M. Marshall"],
+      "rating": 4,
+      "title": "Keep Going",
+      "isbn": "140273607X",
+      "image": "http://books.google.com/books/content?id=b7QKxFNnTsgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Grandfather says this: “In life there is sadness as well as joy, losing as well as winning, falling as well as standing, hunger as well as plenty, bad as well as good. I do not say this to make you despair..."
+    },
+    {
+      "author":  ["A. C. Grayling"],
+      "rating": 3.5,
+      "title": "Life, Sex and Ideas",
+      "isbn": "019517755X",
+      "image": "http://books.google.com/books/content?id=pt7O6XQ5fKgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Short and elegantly written, this volume contains 60 essays organized under the categories of moral matters, public culture, community and society, anger and war, and grief and remembrance."
+    },
+    {
+      "author": ["Martin E. P. Seligman"],
+      "rating": 4,
+      "title": "Authentic Happiness",
+      "isbn": "9780743247887",
+      "image": "http://books.google.com/books/content?id=_JaY2K2dhC0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Real, lasting happiness comes from focusing on one’s personal strengths rather than weaknesses—and working with them to improve all aspects of one’s life. Using practical exercises, brief tests, and a dynamic website..."
+    }
+  ], [
+    {
+      "author": ["Charles M. Sheldon"],
+      "rating": 4.5,
+      "title": "In His Steps",
+      "isbn": "9781625589767",
+      "image": "http://books.google.com/books/content?id=YX_rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In His Steps is one of the best-selling books of all time. Charles Monroe Sheldon's book brought the question of 'What Would Jesus Do?' into popular culture. Here is a gripping, inspirational book that asks..."
+    },
+    {
+      "author": ["Ryan Winters"],
+      "rating": 3,
+      "title": "Stop Overthinking",
+      "isbn": "1801134545",
+      "image": "http://books.google.com/books/content?id=cKrzzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "How many times in the past have you heard a coworker, a boss, or a loved one say the words, 'stop overthinking it'? Maybe the question has been directed at you in the past, and you've responded with something like..."
+    },
+    {
+      "author":  ["Jay McGraw"],
+      "rating": 4.5,
+      "title": "Life Strategies For Teens",
+      "isbn": "9780743215466",
+      "image": "http://books.google.com/books/content?id=hn5J3W0DRyMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Offers ten essential strageties to help teenagers take control of their lives and make the journey to adulthood a fulfilling one."
+    },
+    {
+      "author": ["Linda Breen Pierce"],
+      "rating": 4,
+      "title": "Choosing Simplicity",
+      "isbn": "0967206715",
+      "image": "http://books.google.com/books/content?id=dF1y9zdTpegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This ground breaking work goes beyond the books that tell you how to simplify your life. This book reveals what has happened in the lives of real people who have done it. Based on the author's three-year study..."
+    }
+  ], [
+    {
+      "author": ["Deanna Beisser"],
+      "rating": 5,
+      "title": "Is it Time to Make a Change",
+      "isbn": "0883965283",
+      "image": "http://books.google.com/books/content?id=oQQWI2FRIAAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In this candid and upbeat first collection of her work, Deanna Beisser gives new meaning to the statement, 'Anything is possible.' Her words capture all the doubts, fears, and excitement that occur whenever a life... "
+    },
+    {
+      "author":  ["William J. Bennett"],
+      "rating": 4.5,
+      "title": "The True Saint Nicholas",
+      "isbn": "1416567461",
+      "image": "http://books.google.com/books/content?id=E_bxwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "If you've ever been asked, 'Who is Saint Nicholas?'... If you've ever wondered if he is just a commercial invention... If you've ever thought there is no such person... You may be surprised to know the true Saint Nicholas..."
+    },
+    {
+      "author": ["Ron Phillips"],
+      "rating": 5,
+      "title": "Gem of the First Water",
+      "isbn": "9780473020002",
+      "image": "http://books.google.com/books/content?id=hsJAmEd0ISgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "An angry teenager is transported to the Land of Confusion, where he confronts negative creatures such as Blame, Rage-on and the Martini Monster, before learning how to create his own happiness."
+    },
+    {
+      "author": ["Myles Munroe"],
+      "rating": 5,
+      "title": "Understanding Your Potential",
+      "isbn": "9780768498585",
+      "image": "http://books.google.com/books/content?id=TOyrYvHXoBYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Understanding Your Potential is a motivating, provocative look at the awesome potential trapped within you, waiting to be realized. This book will cause you to be uncomfortable with your present state of accomplishment..."
+    }
+  ], [
+    {
+      "author": ["Joseph Patrick Allen"],
+      "rating": 5,
+      "title": "Escaping the Endless Adolescence",
+      "isbn": "9780345507891",
+      "image": "http://books.google.com/books/content?id=ZP0C_rHrgvAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "Counsels parents on how to help teens to become successful and independent adults, challenging popular practices while making recommendations in such areas as volunteering and constructive criticism."
+    },
+    {
+      "author":  ["Liz Greene"],
+      "rating": 5,
+      "title": "The Astrological Neptune and the Quest for Redemption",
+      "isbn": "1578631971",
+      "image": "http://books.google.com/books/content?id=iSvjS7TnU34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The longing for redemption is a many-headed daimon that dwells within the most earthbound and prosaic of souls. Neptune is the astrological symbol that describes this energy. Liz Greene, an internationally known astrologer..."
+    },
+    {
+      "author":  ["Dovid Strusiner"],
+      "rating": 3.5,
+      "title": "Astrology for Self Empowerment",
+      "isbn": "1567186440",
+      "image": "http://books.google.com/books/content?id=qtfDQvBVZRQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "What can you do with your astrological birth chart? If you're an astrologer, you learn amazing information about your personality and make predictions. If you're not an astrologer, you can puzzle over..."
+    },
+    {
+      "author":  ["M. Ramakrishna Bhat"],
+      "rating": 4,
+      "title": "Fundamentals of Astrology",
+      "isbn": "8120802764",
+      "image": "http://books.google.com/books/content?id=BXwVuJakDXcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Astrology is both Science and Art. Hence only the talented can appreciate and understand it. Rightly Visnugupta declares that nobody other than a sage can master the ocean-like science of astrology..."
+    }
+  ], [
+    {
+      "author":  ["Bruce K. Waltke"],
+      "rating": 5,
+      "title": "The Book of Proverbs, Chapters 1-15",
+      "isbn": "0802825451",
+      "image": "http://books.google.com/books/content?id=kboLy_NBxc4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Over twenty-five years in the making, this much-anticipated commentary promises to be the standard study of Proverbs for years to come. Written by eminent Old Testament scholar Bruce Waltke, this two-volume commentary..."
+    },
+    {
+      "author":  ["Ben Witherington III", "Jason A. Myers"],
+      "rating": 4,
+      "title": "Paul of Arabia",
+      "isbn": "9781532698248",
+      "image": "http://books.google.com/books/content?id=NqAMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "What does a person do when his life has just taken a complete U-turn? This was the question Paul faced after his conversion on Damascus Road. In the end, he decided to go to Petran Arabia, where he stayed for more than two..."
+    },
+    {
+      "author":  ["Adrian Rogers"],
+      "rating": 5,
+      "title": "Unveiling the End Times in Our Time",
+      "isbn": "9780805426915",
+      "image": "http://books.google.com/books/content?id=XVVWR4cLK70C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The author takes readers on a tour of the Bible, revealing an evangelistic approach to the text that finds God's plan working on every page and a progression of divine influence in human affairs that culminates..."
+    },
+    {
+      "author": ["William G. Dever"],
+      "rating": 4,
+      "title": "Did God Have a Wife?",
+      "isbn": "0802828523",
+      "image": "http://books.google.com/books/content?id=IGR7-OSz7bUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This richly illustrated, non-technical reconstruction of 'folk religion' in ancient Israel is based largely on recent archaeological evidence, but also incorporates biblical texts where possible."
+    }
+  ], [
+    {
+      "author": ["Bruce W. Longenecker"],
+      "rating": 4.5,
+      "title": "The Lost Letters of Pergamum",
+      "isbn": "9780801026072",
+      "image": "http://books.google.com/books/content?id=5TWHZ0NuKqYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Fascinating novel of a Roman citizen's spiritual transformation gives a reliable glimpse into the world of the New Testament and the early church."
+    },
+    {
+      "author":  ["Bernhard Press"],
+      "rating": 5,
+      "title": "The Murder of the Jews in Latvia",
+      "isbn": "0810117290",
+      "image": "http://books.google.com/books/content?id=NOvWYblJMSUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "At the end of June 1941, Latvia fell into the hands of the Germans. This book is an account of life and death during the subsequent Nazi reign of terror. Press describes his escape from the Riga ghetto, his three years..."
+    },
+    {
+      "author": ["John J. Collins"],
+      "rating": 5,
+      "title": "Between Athens and Jerusalem",
+      "isbn": "0802843727",
+      "image": "http://books.google.com/books/content?id=I8LDFCBmNQ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "One of the most creative and consequential collisions in Western culture involved the encounter of Judaism with Hellenism. In this widely acclaimed study of the Jews who lived in Hellenistic Egypt..."
+    },
+    {
+      "author": ["Tom Segev"],
+      "rating": 5,
+      "title": "The Seventh Million",
+      "isbn": "0805066608",
+      "image": "http://books.google.com/books/content?id=TKOnSTjP1IsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A new history of Israel presents the Holocaust as the defining event of modern Jewish history and the most important impetus for the formation of the State of Israel. Reprint."
+    }
+  ]
+]

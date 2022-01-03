@@ -1,0 +1,208 @@
+
+.recommended-books {
+  width: 850px;
+  min-height: 100px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+  border-top: 1px solid #DADADA;
+}
+
+.recommended-book-title {
+  letter-spacing: -0.05em;
+  font-weight: 500;
+  color: #53736F;
+  height: 50px;
+  line-height: 50px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.recommended-books-wrapper {
+  width: 100%;
+  min-height: 100px;
+}
+
+.recommended-book:nth-child(5),
+.recommended-book:nth-child(10),
+.recommended-book:nth-child(15),
+.recommended-book:nth-child(20),
+.recommended-book:nth-child(25) {
+  margin-right: 0;
+}
+
+.recommended-book {
+  width: 130px;
+  min-height: 300px;
+  margin-right: 50px;
+  float: left;
+  margin-bottom: 45px;
+  justify-content: space-between;
+}
+
+.recommended-book img { 
+  width: 100%;
+  height: auto;
+}
+
+.recommended-book-desc {
+  align-items: flex-start;
+}
+
+.recommended-book-desc .title {
+  color: #4B6C68;
+  margin-bottom: 5px;
+  letter-spacing: -0.025em;
+}
+
+.recommended-book-desc .author {
+  letter-spacing: -0.025em;
+}
+
+.recommended-book-desc .author a {
+  color: #DBA621;
+}
+
+.recommended-book-desc .rating {
+  width: 130px;
+  flex-direction: row;
+  height: 25px;
+  justify-content: space-between;
+}
+
+.recommended-book-desc .rating span {
+  display: block;
+  letter-spacing: -0.025em;
+  color: #4B6C68;
+  
+}
+
+.recommended-book-desc .rating svg {
+  margin-left: 2px;
+  width: 12px;
+  height: 12px;
+}
+
+.recommended-book-desc .title:hover, .recommended-book-desc .author a:hover {
+  text-decoration: underline;
+}
+
+/* empty wrapper */
+.empty, .empty-wrapper {
+  min-height: 90px;
+}
+
+.empty-wrapper p, .empty-wrapper span {
+  color: #4B6C68;
+  letter-spacing: -0.035em;
+}
+
+.empty-wrapper span {
+  margin-top: 10px;
+  color: #DBA621;
+}
+
+@media (max-width: 968px) {
+  .recommended-books {
+    width: 800px;
+  }
+  .recommended-book {
+    margin-right: 37.5px;
+  }
+}
+
+@media (max-width: 868px) {
+  .recommended-books {
+    width: 700px;
+  }
+  .recommended-book {
+    width: 120px;
+    margin-right: 25px;
+    min-height: 290px;
+    margin-bottom: 35px;
+  }
+  .recommended-book-desc .rating {
+    width: 120px;
+  }
+}
+
+@media (max-width: 768px) {
+  .recommended-books {
+    width: 600px;
+  }
+  .recommended-book {
+    width: 110px;
+    margin-right: 12px;
+    min-height: 280px;
+    margin-bottom: 25px;
+  }
+  .recommended-book-desc .rating {
+    width: 110px;
+  }
+}
+
+@media (max-width: 668px) {
+  .recommended-books {
+    width: 90%;
+  }
+  .recommended-book {
+    width: 20%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    min-height: 270px;
+  }
+  .recommended-book-desc .rating {
+    width: 100%;
+  }
+  .recommended-book:nth-child(5),
+  .recommended-book:nth-child(10),
+  .recommended-book:nth-child(15),
+  .recommended-book:nth-child(20),
+  .recommended-book:nth-child(25) {
+    margin-right: 2.5%;
+  }
+}
+
+@media (max-width: 568px) {
+  .recommended-books {
+    width: 92%;
+  }
+  .recommended-book {
+    width: 28%;
+    margin-right: 2.66%;
+    margin-left: 2.66%;
+    min-height: 290px;
+    margin-bottom: 35px;
+  }
+  .recommended-book:nth-child(5),
+  .recommended-book:nth-child(10),
+  .recommended-book:nth-child(15),
+  .recommended-book:nth-child(20),
+  .recommended-book:nth-child(25) {
+    margin-right: 2.66%;
+  }
+}
+
+@media (max-width: 468px) {
+  .recommended-book {
+    width: 42%;
+    margin-right: 4%;
+    margin-left: 4%;
+    min-height: 280px;
+  }
+  .recommended-book:nth-child(5),
+  .recommended-book:nth-child(10),
+  .recommended-book:nth-child(15),
+  .recommended-book:nth-child(20),
+  .recommended-book:nth-child(25) {
+    margin-right: 4%;
+  }
+  .recommended-book-desc .rating {
+    width: 100%;
+  }
+}
+
+@media (max-width: 368px) {
+  .recommended-book {
+    min-height: 270px;
+  }
+}

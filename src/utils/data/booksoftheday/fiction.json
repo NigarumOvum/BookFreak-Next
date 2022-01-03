@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "author":  ["Richard Yancey"],
+      "rating": 3.5,
+      "title": "The Infinite Sea",
+      "isbn": "9780399162428",
+      "image": "http://books.google.com/books/content?id=sDiNDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A sequel to the best-selling The 5th Wave finds survivors Cassie, Ben and Ringer enduring a fifth attack by Other invaders who are determined to exterminate the human race by eliminating all trustworthy human..."
+    },
+    {
+      "author": ["Aimée Carter"],
+      "rating": 3.5,
+      "title": "Pawn",
+      "isbn": "9780373210558",
+      "image": "http://books.google.com/books/content?id=FG8tAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Desperate to escape a life of marginalization and misery, Kitty Doe joins the most powerful family in the country, a choice that requires her to assume the identity of the Prime Minister's niece and stop a rebellion..."
+    },
+    {
+      "author": ["George Mann"],
+      "rating": 4.5,
+      "title": "Engines of War",
+      "isbn": "9780553447668",
+      "image": "http://books.google.com/books/content?id=2OmKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The Doctor does not like to remember the version of himself that lived during the Time Wars, when he crashed on the planet Moldox, where the Dalek took humans prisoner, and he joined forces with a young Dalek hunter, Cinder."
+    },
+    {
+      "author": ["Phoebe North"],
+      "rating": 3,
+      "title": "Starglass",
+      "isbn": "9781442459533",
+      "image": "http://books.google.com/books/content?id=0QrtAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "For all of her sixteen years, Terra has lived on a city within a spaceship that left Earth five hundred years ago seeking refuge, but as they finally approach the chosen planet, she is drawn into a secret rebellion..."
+    }
+  ], [
+    {
+      "author":  ["Larry Niven", "Matthew Joseph Harrington"],
+      "rating": 3,
+      "title": "The Goliath Stone",
+      "isbn": "9780765333230",
+      "image": "http://books.google.com/books/content?id=TZF7AWjd2oQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Using nanotechnology to enable miracle health cures and promote unprecedented levels of global wealth in the mid-21st century, Dr. Toby Glyer sparks moral debates and finds his innovations tested by their sentience..."
+    },
+    {
+      "author": ["Margaret Peterson Haddix"],
+      "rating": 5,
+      "title": "Caught",
+      "isbn": "9781416989837",
+      "image": "http://books.google.com/books/content?id=dSNydy4xg5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "When Jonah and Katherine travel to early 1900s Switzerland and Serbia to return Albert Einstein's daughter, Lieserl, to history, her mother Mileva grasps entirely too much about time travel and has no intention of letting..."
+    },
+    {
+      "author": ["Marissa Meyer"],
+      "rating": 4,
+      "title": "Cinder",
+      "isbn": "9876129279",
+      "image": "http://books.google.com/books/content?id=CI8XAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "As plague ravages the overcrowded Earth, observed by a ruthless lunar people, Cinder, a gifted mechanic and cyborg, becomes involved with handsome Prince Kai and must uncover secrets about her past in order to protect..."
+    },
+    {
+      "author":  ["Evan Angler"],
+      "rating":4.5,
+      "title": "Storm",
+      "isbn": "9781400321971",
+      "image": "http://books.google.com/books/content?id=ZZKWsfzCXbUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "While Logan and his friends, leaders of the Markless revolution, face Chancellor Cylis's army, the Dust seeks a cure for an epidemic sweeping through the Marked, Logan's sister Lily's allegiance remains unclear..."
+    }
+  ], [
+    {
+      "author": ["Susan Beth Pfeffer"],
+      "rating": 3,
+      "title": "The Shade of the Moon",
+      "isbn": "9780547813370",
+      "image": "http://books.google.com/books/content?id=FS4nAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In this eagerly awaited addition to the dystopian series begun with New York Times best-seller Life As We Knew It, Jon Evans is one of the lucky ones—until he realizes that escaping his safe haven may be the only way..."
+    },
+    {
+      "author": ["Lisa M. Stasse"],
+      "rating": 3,
+      "title": "The Forsaken",
+      "isbn": "9781442432659",
+      "image": "http://books.google.com/books/content?id=6XZmyUHV314C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "After the formation of the United Northern Alliance--a merger of Canada, the United States and Mexico into one nation--16-year-old Alenna is sent to a desolate prison island for teenagers believed to be predisposed..."
+    },
+    {
+      "author": ["Lois Lowry"],
+      "rating": 4,
+      "title": "The Giver",
+      "isbn": "9780544340688",
+      "image": "http://books.google.com/books/content?id=Coi9AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Living in a 'perfect' world without social ills, a boy approaches the time when he will receive a life assignment from the Elders, but his selection leads him to a mysterious man known as the Giver, who reveals the dark..."
+    },
+    {
+      "author": ["Ann Aguirre"],
+      "rating": 4,
+      "title": "Endgame",
+      "isbn": "9781937007744",
+      "image": "http://books.google.com/books/content?id=RfRvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "While on her final mission, Sirantha Jax, who has the J-gene, which permits her to 'jump' faster-than-light ships through grimspace, joins a grassroots resistance to rid La'heng of the foreign conquerors..."
+    }
+  ], [
+    {
+      "author": ["James Van Praagh"],
+      "rating": 5,
+      "title": "The Power of Love",
+      "isbn": "9781401951344",
+      "image": "http://books.google.com/books/content?id=m2D6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "James Van Praagh has received hundreds of thousands of messages from the other side of life. And all too often, in many of these messages, the deceased have shared with him that they want the living to know..."
+    },
+    {
+      "author": ["James Dashner"],
+      "rating": 3,
+      "title": "The Maze Runner Files",
+      "isbn": "9781909489646",
+      "image": "http://books.google.com/books/content?id=bN5GBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The Maze Runner Files is a 50+ page collection of classified records and concealed information from the world of the New York Times bestselling series. A must for any fan of The Maze Runner."
+    },
+    {
+      "author": ["Mark Walden"],
+      "rating": 4.5,
+      "title": "The Overlord Protocol",
+      "isbn": "9781416935742",
+      "image": "http://books.google.com/books/content?id=6TG4gT_AY34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Otto Malpense, who is still trapped at the Higher Institute of Villainous Education, or H.I.V.E., is nearly assassinated and must now not only try to escape, but also find out who murdered his best friend--and save himself."
+    },
+    {
+      "author":  ["Karen Traviss"],
+      "rating": 3.5,
+      "title": "Revelation",
+      "isbn": "9780345477576",
+      "image": "http://books.google.com/books/content?id=3xDTCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "With the fate of the galaxy hanging in the balance, Jaina Solor, Ben Skywalker, and Luke Skywalker all contemplate previously unthinkable strategies in order to take down the tyrannical Sith Lord Jacen Solo."
+    }
+  ], [
+    {
+      "author": ["Laurie Ryan"],
+      "rating": 3.5,
+      "title": "Survival",
+      "isbn": "9780999597712",
+      "image": "http://books.google.com/books/content?id=F32CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "When Earth cries for help, she must answer or perish. Only one person can answer Earth's cry for help. If only she knew how. Guilt-ridden druid trainee Rianth Royan is on the run. From a Dark druid, from a betrayal..."
+    },
+    {
+      "author": ["John Hulme", "Michael Wexler"],
+      "rating": 4.5,
+      "title": "The Seems: The Glitch in Sleep",
+      "isbn": "9781599901299",
+      "image": "http://books.google.com/books/content?id=AAyp5P5fWMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "When twelve-year-old Becker Drane is recruited by The Seems, a parallel universe that runs everything in The World, he must fix a disastrous glitch in the Department of Sleep that threatens everyone's ability to ever fall asleep again."
+    },
+    {
+      "author": ["David L. Golemon"],
+      "rating": 4,
+      "title": "Legacy",
+      "isbn": "1429990341",
+      "image": "http://books.google.com/books/content?id=ERDrXluaxRQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The first of what are to be many missions to the lunar surface was designed to find the frozen water needed to prepare to build a base to launch an assault on Mars. But a shocking discovery at Shackleton Crater brings..."
+    },
+    {
+      "author": ["Philip Reeve"],
+      "rating": 3.5,
+      "title": "Infernal Devices",
+      "isbn": "9780060826376",
+      "image": "http://books.google.com/books/content?id=ANLDtmJnXBAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In the distant future, when fifteen-year-old Wren Natsworthy, bored with life in Anchorage, steals an Old-Tech book for a Lost Boy, she sets off a sequence of events that leads her parents, Tom and Hester, back into battle..."
+    }
+  ], [
+    {
+      "author": ["Madeleine L'Engle"],
+      "rating": 4,
+      "title": "The Moment of Tenderness",
+      "isbn": "1538717832",
+      "image": "http://books.google.com/books/content?id=9se9zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "This powerful collection of short stories traces an emotional arc inspired by Madeleine L'Engle's early life and career, from her lonely childhood in New York to her life as a mother in small-town Connecticut..."
+    },
+    {
+      "author": ["Helen Fox"],
+      "rating": 4,
+      "title": "Eager",
+      "isbn": "9780553487954",
+      "image": "http://books.google.com/books/content?id=H3eJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Unlike Grumps, their old-fashioned robot, the Bell family's new robot, Eager, is programmed to not merely obey but to question, reason, and exercise free will."
+    },
+    {
+      "author": ["Robert A. Heinlein"],
+      "rating": 4,
+      "title": "Tunnel in the Sky",
+      "isbn": "9781416505518",
+      "image": "http://books.google.com/books/content?id=NPSP1e8xCNQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A group of students goes through the gate to an unknown planet for a two-to-ten-day final exam in Advanced Survival only to realize, after a period of fighting the elements and wildlife, that something has gone wrong..."
+    },
+    {
+      "author":  ["Robert A. Heinlein"],
+      "rating": 3.5,
+      "title": "Have Space Suit, Will Travel",
+      "isbn": "9781416505495",
+      "image": "http://books.google.com/books/content?id=BG3SjVi5AvAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Teenager Clifford 'Kip' Russell wins second prize in a soap jingle contest, a used worn spacesuit, and, while trying on his prize in his backyard, suddenly finds himself on a space odyssey as a prisoner aboard the ship..."
+    }
+  ], [
+    {
+      "author": ["Brian Herbert", "Kevin J. Anderson"],
+      "rating": 3,
+      "title": "Navigators of Dune",
+      "isbn": "1614759820",
+      "image": "http://books.google.com/books/content?id=aN3iwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "The climactic finale of the Great Schools of Dune Trilogy, set 10,000 years before Frank Herbert's classic DUNE. NAVIGATORS OF DUNE is a fascinating portal into vital components of the mesmerizing, intense universe of Dune..."
+    },
+    {
+      "author":  ["John Oates", "Chris Epting"],
+      "rating": 4,
+      "title": "Change of Seasons",
+      "isbn": "9781250181787",
+      "image": "http://books.google.com/books/content?id=eiFfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "With exclusive new material for the paperback"
+    },
+    {
+      "author":  ["Anne McCaffrey"],
+      "rating": 4,
+      "title": "Dragondrums",
+      "isbn": "9780689860065",
+      "image": "http://books.google.com/books/content?id=sBbR4jhAJG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Award-winning fantasy author Anne McCaffrey returns with her bestselling Harper Hall Trilogy, wonder-filled imaginative classics now available in digest format."
+    },
+    {
+      "author": ["A. E. van Vogt"],
+      "rating": 4,
+      "title": "The World of Null-A",
+      "isbn": "0765300974",
+      "image": "http://books.google.com/books/content?id=0I3Mp0m7v_wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Presents the science fiction classic set in the year 2650, where the Games Machine--twenty-five thousand electronic brains--sets the course of people's lives."
+    }
+  ]
+]

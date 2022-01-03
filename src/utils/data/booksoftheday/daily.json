@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "author": ["John Grisham"],
+      "rating": 4,
+      "title": "Camino Winds",
+      "isbn": "9780385545945",
+      "image": "http://books.google.com/books/content?id=6u6_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Welcome back to Camino Island, where anything can happen—even a murder in the midst of a hurricane, which might prove to be the perfect crime... Just as Bruce Cable’s Bay Books is preparing for the return of bestselling author Mercer Mann, Hurricane Leo veers from its predicted course and heads straight for the island. Florida’s governor orders a mandatory evacuation, and most residents board up their houses and flee to the mainland, but Bruce decides to stay and ride out the storm."
+    }, {
+      "author": ["Alexis Henderson"],
+      "title": "The Year of the Witching",
+      "rating": 3.2,
+      "isbn": "9780593099605",
+      "image": "http://books.google.com/books/content?id=5_LsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A young woman living in a rigid, puritanical society discovers dark powers within herself in this stunning, feminist fantasy debut. In the lands of Bethel, where the Prophet's word is law, Immanuelle Moore's very existence is blasphemy. Her mother's union with an outsider of a different race cast her once-proud family into disgrace, so Immanuelle does her best to worship the Father, follow Holy Protocol, and lead a life of submission, devotion, and absolute conformity, like all the other women in the settlement. "
+    },
+    {
+      "author": ["Nora Roberts"],
+      "rating": 4.5,
+      "title": "The Awakening",
+      "isbn": "9781250272607",
+      "image": "http://books.google.com/books/content?id=o1PEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In the realm of Talamh, a teenage warrior named Keegan emerges from a lake holding a sword—representing both power and the terrifying responsibility to protect the Fey. In another realm known as Philadelphia, a young woman has just discovered she possesses a treasure of her own... When Breen Kelly was a girl, her father would tell her stories of magical places. Now she’s an anxious twentysomething mired in student debt and working a job she hates. But one day she stumbles upon a shocking discovery: her mother has been hiding an investment account in her name."
+    },
+    {
+      "author": ["Sarah J. Maas"],
+      "rating": 4,
+      "title": "House of Earth and Blood",
+      "isbn": "9781526634429",
+      "image": "http://books.google.com/books/content?id=gswAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Half-Fae, half-human Bryce Quinlan loves her life. Every night is a party and Bryce is going to savour all the pleasures Lunathion – also known as Crescent City – has to offer. But then a brutal murder shakes the very foundations of the city, and brings Bryce's world crashing down. Two years later, Bryce still haunts the city's most notorious nightclubs – but seeking only oblivion now. Then the murderer attacks again. And when an infamous Fallen angel, Hunt Athalar, is assigned to watch her every footstep, Bryce knows she can't forget any longer."
+    }
+  ], [
+      {
+        "author": ["Noah Hawley"],
+        "rating": 5,
+        "title": "The Punch",
+        "isbn": "9781538746554",
+        "image": "http://books.google.com/books/content?id=aLhLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Now he is dead, and his wife and sons are coming together for one final journey to scatter his ashes. First, however, his loved ones have some things to work out. David, the older son, believes that any minute his life is going to fall apart and everyone he loves will leave him. His brother Scott can't shake the belief that at heart, people are inherently rotten. Doris, their mother, just doesn't believe in anything anymore."
+      },
+      {
+        "author": ["Talia Carner"],
+        "rating": 4,
+        "title": "The Third Daughter",
+        "isbn": "9780062896896",
+        "image": "http://books.google.com/books/content?id=evB8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Desperate, her father leaps at the opportunity to marry Batya to a worldly, wealthy stranger who can guarantee his daughter an easy life and passage to America. Feeling like a princess in a fairytale, Batya leaves her old life behind as she is whisked away to a new world. But soon she discovers that she’s entered a waking nightmare. Her new “husband” does indeed bring her to America: Buenos Aires, a vibrant, growing city in which prostitution is not only legal but deeply embedded in the culture."
+      },
+      {
+        "author":  ["Lisa Jackson"],
+        "rating": 3.5,
+        "title": "Deception Lodge & Expecting Trouble",
+        "isbn": "9781488076114",
+        "image": "http://books.google.com/books/content?id=kFm2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Determined to clear his name of the false embezzlement charges brought against him by his former employer, resort mogul Victor Montgomery, Adam crashes the latest Montgomery gala opening. What Adam is not prepared for is Victor’s dazzling daughter, Marnie, who appears at the gala on the arm of her wealthy fiancé, Kent Simms—Victor’s right-hand man. Adam suspects that Kent may have been involved in framing him, and the only way to get to Kent is through his fiancée."
+      },
+      {
+        "author": ["Alix E. Harrow"],
+        "rating": 4,
+        "title": "The Ten Thousand Doors of January",
+        "isbn": "9780316421980",
+        "image": "http://books.google.com/books/content?id=5sWCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "In the early 1900s, a young woman embarks on a fantastical journey of self-discovery after finding a mysterious book in this captivating and lyrical debut. In a sprawling mansion filled with peculiar treasures, January Scaller is a curiosity herself. As the ward of the wealthy Mr. Locke, she feels little different from the artifacts that decorate the halls: carefully maintained, largely ignored, and utterly out of place."
+      }
+  ], [
+      {
+        "author": ["Khaled Hosseini"],
+        "rating": 4.5,
+        "title": "Sea Prayer",
+        "isbn": "9781526602701",
+        "image": "http://books.google.com/books/content?id=YJFRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Sunday Times On a moonlit beach a father cradles his sleeping son as they wait for dawn to break and a boat to arrive. He speaks to his boy of the long summers of his childhood, recalling his grandfather's house in Syria, the stirring of olive trees in the breeze, the bleating of his grandmother's goat, the clanking of her cooking pots. And he remembers, too, the bustling city of Homs with its crowded lanes, its mosque and grand souk, in the days before the sky spat bombs and they had to flee."
+      },
+      {
+        "id": "ydpdDwAAQBAJ",
+        "author": ["Nora Roberts"],
+        "rating": 4,
+        "title": "Hidden Star",
+        "isbn": "9780369700742",
+        "image": "http://books.google.com/books/content?id=l-HbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Diamonds can be a girl’s best friend…or her worst enemy. Don’t miss the first thrilling story in the Stars of Mithra trilogy, from #1 New York Times bestselling author Nora Roberts! Bailey James can’t remember a thing. She doesn’t even know who she is, let alone why her bag is filled with cash, a gun, and a large blue diamond."
+      },
+      {
+        "author": ["Olga Tokarczuk"],
+        "rating": 4,
+        "title": "The Lost Soul",
+        "isbn": "1644210347",
+        "image": "http://books.google.com/books/content?id=uYdfzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "desc": "Once upon a time there was a man who worked very hard and very quickly, and who had left his soul far behind him long ago. In fact his life was all right without his soul - he slept, ate, worked, drove a car and even played tennis. But sometimes he felt as if the world around him were flat, as if he were moving across a smooth page in a math book that was covered in evenly spaced squares... "
+      },
+      {
+        "author": ["Christina Lauren"],
+        "rating": 3.5,
+        "title": "The Soulmate Equation",
+        "isbn": "1982123966",
+        "image": "http://books.google.com/books/content?id=LQHZzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "desc": "Single mom Jess Davis is a data and statistics wizard, but no amount of number crunching can convince her to step back into the dating world. Raised by her grandparents—who now help raise her seven-year-old daughter, Juno—Jess has been left behind too often to feel comfortable letting anyone in. After all, her father’s never been around, her hard-partying mother disappeared when she was six, and her ex decided he wasn’t “father material” before Juno was even born."
+      }
+  ], [
+      {
+        "author": ["Kimberly Derting"],
+        "rating": 4,
+        "title": "Dead Silence",
+        "isbn": "9780755389186",
+        "image": "http://books.google.com/books/content?id=zX1fprQ6LawC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "desc": "All her life Violet has grappled with her ability to sense the echoes of those who have been murdered and the matching imprint that clings to their killers. Now that she has an imprint of her own, Violet's 'gift' is intolerable. Torn between her desire to lead a normal life and the pressure from the Center to continue her work tracking down killers, Violet's world starts to unravel..."
+      },
+      {
+        "author":  ["Cameron Dokey"],
+        "rating": 5,
+        "title": "Once",
+        "isbn": "9781442422834",
+        "image": "http://books.google.com/books/content?id=0jGqCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "An accessibly priced anthology of three novel-length 'happily ever after' fairy tales reimagines the stories of Cinderella, Rapunzel and Mulan. By the author of Belle. Original."
+      },
+      {
+        "author":  ["P. C. Cast", "Kristin Cast"],
+        "rating": 3,
+        "title": "Lost",
+        "isbn": "9781538440766",
+        "image": "http://books.google.com/books/content?id=hNRJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "The moment Other Kevin returns to his world trouble begins. Thankfully, he finds friends and allies—some expected, some unexpected—and soon discovers he, like his sister, can wield Old Magick. But without a mentor to help him, will Kevin be tempted to embrace Darkness? Back in our Tulsa, things have settled down since Zoey and the gang closed the tear between worlds."
+      },
+      {
+        "author":  ["Patricia C. Wrede"],
+        "rating": 3.5,
+        "title": "The Far West",
+        "isbn": "9780545512695",
+        "image": "http://books.google.com/books/content?id=2h8QAswc6DMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Eff is an unlucky thirteenth child...but also the seventh daughter in her family. Her twin brother, Lan, is a powerful double seventh son. Her life at the edge of the Great Barrier Spell is different from anyone else's that she knows. When the government forms an expedition to map the Far West, Eff has the opportunity to travel farther than anyone in the world."
+      }
+  ], [
+       {
+        "author":  ["Alister E. McGrath"],
+        "rating": 3,
+        "title": "Narrative Apologetics",
+        "isbn": "9781493419241",
+        "image": "http://books.google.com/books/content?id=416ODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "The Bible is a narrative--the story of God's creation, humankind's fall, and God's plan of redemption. And it is filled with countless smaller stories that teach us about people, history, and the nature of God. It's no surprise that God would choose to reveal himself to us in story--after all, he hardwired us for story."
+      },
+      {
+        "author": ["Adam Blade"],
+        "rating": 4,
+        "title": "Glaki, Spear of the Depths",
+        "isbn": "9781408361894",
+        "image": "http://books.google.com/books/content?id=qvCvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Free the Beasts. Live the Adventure. Battle Beasts and fight Evil with Tom and Elenna in the bestselling adventure series for boys and girls aged 7 and up! In the prison kingdom of Vakunda, a wicked wizard has kidnapped Queen Aroha's nephew. In the sea surrounding the wizard's island lair Tom and Elenna must battle a ferocious water snake-Beast which has the power to freeze water with its eyes!"
+      },
+      {
+        "author": ["Donald McCaig"],
+        "rating": 3,
+        "title": "Ruth's Journey",
+        "isbn": "9781451643534",
+        "image": "http://books.google.com/books/content?id=u9O5BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Authorized by the Margaret Mitchell Estate, the first-ever prequel to one of the best-selling novels of all time, Gone With the Wind, recounts the life of Mammy, one of literature's greatest supporting characters, from her days as a slave girl to the outbreak of the Civil War. By the best-selling author of Rhett Butler's People. 250,000 first printing."
+      },
+      {
+        "author": ["Amelia Grey"],
+        "rating": 3.5,
+        "title": "It's All About the Duke",
+        "isbn": "9781250102539",
+        "image": "http://books.google.com/books/content?id=z3xaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "A duke with a past he can't forget. A lady with a secret identity determined to make him remember. Will their hearts survive?"
+      }
+  ], [
+      {
+        "author": ["Renée Ahdieh"],
+        "rating": 4,
+        "title": "Smoke in the Sun",
+        "isbn": "9781524738150",
+        "image": "http://books.google.com/books/content?id=mdIvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "After Okami is captured in the Jukai forest, Mariko has no choice--to rescue him, she must return to Inako and face the dangers that have been waiting for her in the Heian Castle. She tricks her brother, Kenshin, and betrothed, Raiden, into thinking she was being held by the Black Clan against her will..."
+      },
+      {
+        "author": ["Emma Wildes"],
+        "rating": 3.5,
+        "title": "Ruined by Moonlight",
+        "isbn": "9781101599662",
+        "image": "http://books.google.com/books/content?id=g41tlgLWv_EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "What is society to do when the diamonds of the first water are caught in compromising situations, one after the other? Can the young ladies survive the season with their reputations intact…or will the scandalous whispers surrounding them bring about the ultimate ruination? When Lady Elena Morrow, the reigning belle of the ton, suddenly disappears..."
+      },
+      {
+        "author": ["Reynard Robinson"],
+        "rating": 1,
+        "title": "Son Of A Dope Boy 3",
+        "isbn": "9798652288433",
+        "image": "http://books.google.com/books/content?id=7KeVzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "desc": "After bringing da murderous Priest to his demise, and connection' with a new drug supplier, It seems as though skies da limit for Kaine.But with all things connected to da 'Dope Game' nothin' good ever lasts. Things take a drastic turn when hate and jealousy starts with-in Kaine's own organization. Will Kaine have what it takes to beat..."
+      },
+      {
+        "author": ["Ann B. Harrison"],
+        "rating": 3,
+        "title": "Christmas Glitter",
+        "isbn": "9781947636637",
+        "image": "http://books.google.com/books/content?id=dvruswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "desc": "After a rough year involving a serious car accident, painful recovery and broken engagement, Dakota Moore moves to Cherry Lake to rebuild her life. To embrace her new community, she volunteers to coordinate the annual Christmas tree gala. Adam Clements has come home to help his mother run the family business while his father recovers from a heart attack. For the last decade, he's been a high-flying soccer player, enjoying the life that comes with his popularity..."
+      }
+  ], [
+      {
+        "author": ["Catherine Bybee"],
+        "rating": 5,
+        "title": "My Way to You",
+        "isbn": "1542009804",
+        "image": "http://books.google.com/books/content?id=kXl3xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "desc": "A woman's journey through tragedy leads to the discovery of love in a novel about hope and survival by New York Times bestselling author Catherine Bybee. When a wildfire nearly destroys Parker Sinclair's family home, it's just one more disaster to add to her mountain of stress. For the past two years, she has shouldered the responsibility of raising her younger brother and sister after their parents' untimely deaths."
+      },
+      {
+        "author": ["Jane Green"],
+        "rating": 3,
+        "title": "Vacation",
+        "isbn": "9781420151268",
+        "image": "http://books.google.com/books/content?id=BEmGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "Just when she’d sworn off men for good, Sarah Evans met Eddie. Sarah was a magazine editor, living in Manhattan, and loving her life—except for the heartbreaks. A successful real estate developer, Eddie was a breath of fresh air, a meeting of minds—and bodies. Soon came wedded bliss, baby number one—and the proverbial move to the suburbs"
+      },
+      {
+        "author": ["Maeve Binchy"],
+        "rating": 3.5,
+        "title": "This Year It Will Be Different",
+        "isbn": "1409176630",
+        "image": "http://books.google.com/books/content?id=zPortAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "desc": "'There's nobody like Binchy for warming the cockles, and this collection of Christmas stories warms them to white heat' Kate Saunders, The Times Christmas: a time of year when emotions run high and long-held secrets can unexpectedly surface... This Year It Will Be Different powerfully evokes the lives of wives, husbands, children, friends and lovers."
+      },
+      {
+        "author": ["Elizabeth Lowell"],
+        "rating": 3.5,
+        "title": "Desert Rain with Bonus Material",
+        "isbn": "9780062208859",
+        "image": "http://books.google.com/books/content?id=e7dWuG7u2FgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "desc": "She is a contradiction, one woman with two lives. She is Shannon, one of the world's great beauties, her face and figure gracing the fashion pages of the world's most elegant magazines. She is also Holly, a fragile innocent, haunted by painful memories of her past—and by dreams of the man who once shared her secrets..."
+      }
+  ]
+]

@@ -1,0 +1,206 @@
+
+.indvl-ft-book-of-the-day-title {
+  width: 100%;
+  height: 40px;
+}
+
+.indvl-ft-book-of-the-day-title span {
+  color: #7C928F;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+}
+
+.indvl-ft-book-of-the-day {
+  width: 710px;
+  margin: 0 auto;
+  min-height: 400px;
+  position: relative;
+  background: radial-gradient(50% 50% at 50% 50%, #4B827B 0%, #35635D 100%);
+  margin-bottom: 30px;
+}
+
+.indvl-ft-book-of-the-day-cont {
+  position: absolute;
+  width: 100%;
+  height: 400px;
+  display: none;
+  opacity: 0;
+}
+
+.book-visible {
+  display: block;
+  opacity: 1;
+}
+
+.indvl-ft-book-of-the-day-background {
+  position: absolute;
+  width: 100%;
+  height: 400px;
+  z-index: 100;
+  opacity: 0.45;
+}
+
+.indvl-ft-book-of-the-day-wrapper {
+  width: 100%;
+  height: 400px;
+  position: absolute;
+  z-index: 200;
+  flex-direction: row;
+}
+
+.indvl-ft-book-of-the-day-wrapper img {
+  width: 130px;
+  height: auto;
+} 
+
+.indvl-ft-book-of-the-day-desc-wrapper {
+  width: 320px;
+  min-height: 50px;
+  margin-left: 15px;
+  color: #F8F8F8;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper h2 {
+  font-weight: 500;
+  margin-bottom: 12px;
+  letter-spacing: -0.022em;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper .ratings {
+  margin-bottom: 12px;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper .ratings span {
+  margin-right: 3px;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper .ratings svg {
+  width: 14px
+}
+
+.indvl-ft-book-of-the-day-author {
+  margin-bottom: 12px;
+}
+
+.indvl-ft-book-of-the-day-author .author {
+  color: #FFCB11;
+  letter-spacing: -0.015em;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper p {
+  width: 100%;
+  text-align: justify;
+  margin-bottom: 12px;
+  letter-spacing: -0.015em;
+  min-height: 20px;
+  line-height: 1.85em;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper a {
+  width: 130px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  background: #F0C426;
+  color: #6D6D6D;
+  letter-spacing: -0.025em;
+  transition: all 0.2s ease-in;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper a:hover {
+  background: #FFD53F;
+  transition: all 0.2s ease-in;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper a:focus {
+  outline: none;
+}
+
+.indvl-ft-book-of-the-day-desc-wrapper a:active {
+  transform: scale(0.8);
+  transition: all 0.2s ease-in;
+}
+
+.indvl-ft-book-of-the-day .chevleft,
+.indvl-ft-book-of-the-day .chevright {
+  position: absolute;
+  z-index: 500;
+  transition: all 0.15s ease-in;
+  bottom: 20px
+}
+
+.indvl-ft-book-of-the-day .chevleft {
+  left: 40px
+}
+
+.indvl-ft-book-of-the-day .chevright {
+  right: 40px
+}
+
+
+@media (max-width: 1068px) {
+  .indvl-ft-book-of-the-day {
+    width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  .indvl-ft-book-of-the-day {
+    width: 92%;
+    min-height: 480px;
+  }
+  .indvl-ft-book-of-the-day-cont,
+  .indvl-ft-book-of-the-day-background,
+  .indvl-ft-book-of-the-day-wrapper {
+    height: 480px;
+  }
+  .indvl-ft-book-of-the-day-wrapper {
+    flex-direction: column;
+  }
+  .indvl-ft-book-of-the-day-wrapper img {
+    width: 90px;
+    margin-bottom: 15px;
+  }
+  .indvl-ft-book-of-the-day-desc-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0px;
+    width: 350px;
+  }
+  .indvl-ft-book-of-the-day-desc-wrapper h2 {
+    margin-bottom: 5px;
+  }
+  .indvl-ft-book-of-the-day-desc-wrapper .ratings,
+  .indvl-ft-book-of-the-day-author,
+  .indvl-ft-book-of-the-day-desc-wrapper p {
+    margin-bottom: 6px;
+  }
+  .indvl-ft-book-of-the-day-desc-wrapper a {
+    width: 120px;
+    height: 34px;
+  }
+  .indvl-ft-book-of-the-day .chevleft {
+    left: 30px
+  }
+  .indvl-ft-book-of-the-day .chevright {
+    right: 30px
+  }
+  .indvl-ft-book-of-the-day .chevleft svg, .indvl-ft-book-of-the-day .chevright svg {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+
+@media (max-width: 468px) {
+  .indvl-ft-book-of-the-day {
+    width: 94%;
+  }
+  .indvl-ft-book-of-the-day-desc-wrapper {
+    width: 88%;
+  }
+}

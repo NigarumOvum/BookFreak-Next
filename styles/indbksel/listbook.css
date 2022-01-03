@@ -1,0 +1,106 @@
+
+.indvl-book-list {
+  width: 100%;
+  min-height: 255px;
+  border-bottom: 1px solid #DADADA;
+  margin-bottom: 20px;
+  flex-direction: row;
+}
+
+.indvl-book-list img {
+  width: 130px;
+  height: auto;
+  transition: all 0.15s ease-in;
+}
+
+.indvl-book-list img:hover {
+  transition: all 0.15s ease-in;
+  opacity: 0.9;
+}
+
+
+.indvl-book-list-desc-wrapper {
+  align-items: flex-start;
+  margin-left: 20px;
+  max-width: 450px;
+}
+
+.indvl-book-list-desc-wrapper .title {
+  color: #4B6C68;
+  margin-bottom: 7px;
+  letter-spacing: -0.025em;
+}
+
+.indvl-book-list-desc-wrapper .title:hover, 
+.indvl-book-list-desc-wrapper .author a:hover {
+  text-decoration: underline;
+}
+
+.indvl-book-list-desc-wrapper .author {
+  letter-spacing: -0.025em;
+  min-height: 10px;
+  margin-bottom: 7px;
+}
+
+.indvl-book-list-desc-wrapper .author a {
+  color: #DBA621;
+}
+
+.indvl-book-list-desc-wrapper .rating, .indvl-book-list-desc-wrapper .rate {
+  flex-direction: row;
+  color: #7B7B7B;
+}
+
+.indvl-book-list-desc-wrapper .rating {
+  margin-bottom: 7px;
+  letter-spacing: -0.025em;
+}
+
+.indvl-book-list-desc-wrapper .rating span{
+  display: block;
+}
+
+.indvl-book-list-desc-wrapper .rate {
+  margin-left: 8px;
+}
+
+.indvl-book-list-desc-wrapper .rate svg{
+  margin-left: 3px;
+  width: 12px;
+  height: 12px;
+}
+
+.indvl-book-list-desc-wrapper p {
+  color: #82A7A2;
+  font-weight: 400;
+  margin-bottom: 7px;
+}
+
+.released-date, .publisher {
+  color: #7B7B7B;
+  margin-bottom: 7px;
+  letter-spacing: -0.025em;
+}
+
+.released-date span:nth-child(2), .publisher span:nth-child(2) {
+  margin-left: 5px;
+  color: #DBA621;
+}
+
+@media (max-width: 468px) {
+  .indvl-book-list img {
+    width: 115px;
+  }
+  .indvl-book-list-desc-wrapper {
+    margin-left: 10px;
+  }
+  .indvl-book-list-desc-wrapper .title, .indvl-book-list-desc-wrapper .author {
+    margin-bottom: 4px;
+  }
+  .indvl-book-list-desc-wrapper .rating {
+    margin-bottom: 4px;
+  }
+  .indvl-book-list-desc-wrapper p, .released-date, .publisher {
+    margin-bottom: 4px;
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "28-books",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "gsap": "^3.5.1",
+    "next": "10.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-paginate": "^6.5.0",
+    "react-reveal": "^1.2.2",
+    "ua-parser-js": "^0.7.23"
+  }
+}

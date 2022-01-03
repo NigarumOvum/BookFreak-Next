@@ -1,0 +1,315 @@
+
+
+.book-of-the-day-wrapper{
+  width: 100%;
+  height: 520px;
+}
+
+.book-of-the-day-container, .book-of-the-day {
+  width: 100%;
+  height: 460px;
+}
+
+.book-of-the-day-container {
+  position: relative;
+  background: radial-gradient(50% 50% at 50% 50%, #4B827B 0%, #35635D 100%);
+}
+
+.book-of-the-day {
+  position: absolute;
+  display: none;
+  opacity: 0;
+}
+
+.book-visible {
+  display: block;
+  opacity: 1;
+}
+
+.book-of-the-day-title {
+  width: 100%;
+  height: 60px;
+}
+
+.book-of-the-day-title span {
+  color: #7C928F;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+
+.book-of-the-day-cover {
+  width: 100%;
+  height: 460px;
+  position: relative;
+}
+
+.book-cover-background {
+  width: 100%;
+  height: 460px;
+  position: absolute;
+  opacity: .35;
+  z-index: 100;
+}
+
+.book-of-the-day-btn {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 200;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.book-of-the-day-container .chevleft,
+.book-of-the-day-container .chevright {
+  position: absolute;
+  top: 50%;
+  z-index: 500;
+  transition: all 0.15s ease-in
+}
+
+.book-of-the-day-container .chevleft {
+  left: 40px
+}
+
+.book-of-the-day-container .chevright {
+  right: 40px
+}
+
+.chevleft:hover, .chevright:hover {
+  cursor: pointer;
+}
+
+.chevleft:active, .chevright:active {
+  transform: scale(0.8);
+  transition: all 0.15s ease-in;
+}
+
+.chevleft svg path, .chevright svg path{
+  fill: #F3BD36;
+  transition: all 0.25s ease-in;
+}
+
+.chevleft:hover svg path, .chevright:hover svg path{
+  fill: #FFDD89;
+  transition: all 0.25s ease-in;
+}
+
+.book-of-the-day-desc {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  /* background: gray; */
+  z-index: 200;
+  flex-direction: row;
+}
+
+
+.book-of-the-day-desc img {
+  width: 200px;
+  height: auto;
+}
+
+.book-of-the-day-desc-wrapper {
+  margin-left: 20px;
+  width: 350px;
+  color: #F8F8F8;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.book-of-the-day-desc-wrapper h2 {
+  font-weight: 500;
+  margin-bottom: 10px;
+  letter-spacing: -0.022em;
+}
+
+.book-of-the-day-desc-wrapper .ratings{
+  margin-bottom: 14px;
+}
+
+.book-of-the-day-desc-wrapper .ratings span {
+  margin-right: 8px;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+.book-of-the-day-author{
+  margin-bottom: 14px;
+}
+.book-of-the-day-desc-wrapper .author {
+  color: #FFCB11;
+  margin-bottom: 14px;
+  letter-spacing: -0.015em;
+}
+
+.book-of-the-day-desc-wrapper p {
+  width: 100%;
+  text-align: justify;
+  margin-bottom: 24px;
+  letter-spacing: -0.015em;
+  min-height: 20px;
+  line-height: 1.85em;
+}
+
+.book-of-the-day-desc-wrapper a {
+  width: 130px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  background: #F0C426;
+  color: #6D6D6D;
+  letter-spacing: -0.025em;
+  transition: all 0.2s ease-in;
+}
+
+.book-of-the-day-desc-wrapper a:hover {
+  background: #FFD53F;
+  transition: all 0.2s ease-in;
+}
+
+.book-of-the-day-desc-wrapper a:focus {
+  outline: none;
+}
+
+.book-of-the-day-desc-wrapper a:active {
+  transform: scale(0.8);
+  transition: all 0.2s ease-in;
+}
+
+
+@media (max-width: 868px){
+  .book-of-the-day-wrapper{
+    height: 480px;
+  }
+  .book-of-the-day-container, .book-of-the-day, .book-of-the-day-cover, .book-cover-background {
+    height: 440px;
+  }
+  .book-of-the-day-title {
+    height: 40px;
+  }
+  .book-of-the-day-container .chevleft {
+    left: 30px
+  }
+  .book-of-the-day-container .chevright {
+    right: 30px
+  }
+  .book-of-the-day-desc img {
+    width: 170px;
+  }
+  .book-of-the-day-desc-wrapper {
+    width: 310px;
+  }
+  .book-of-the-day-desc-wrapper h2 {
+    margin-bottom: 7px;
+  }
+  .book-of-the-day-desc-wrapper .ratings, .book-of-the-day-author, .book-of-the-day-desc-wrapper .author {
+    margin-bottom: 10px;
+  }
+  .book-of-the-day-desc-wrapper .ratings span {
+    margin-right: 5px;
+  }
+  .book-of-the-day-desc-wrapper a {
+    width: 126px;
+    height: 35px;
+    border-radius: 4px;
+  }
+}
+
+@media (max-width: 768px){
+  .book-of-the-day-container .chevleft {
+    left: 22px
+  }
+  .book-of-the-day-container .chevright {
+    right: 22px
+  }
+  .book-of-the-day-desc {
+    flex-direction: column;
+  }
+  .book-of-the-day-desc img {
+    width: 100px;
+    margin-bottom: 8px;
+  }
+  .book-of-the-day-desc-wrapper {
+    width: 450px;
+    align-items: center;
+    margin-left: 0;
+    justify-content: center;
+  }
+  .book-of-the-day-desc-wrapper h2 {
+    margin-bottom: 3px;
+  }
+  .book-of-the-day-desc-wrapper .ratings{
+    margin-bottom: 5px;
+  }
+  .book-of-the-day-author{
+    margin-bottom: 5px;
+  }
+  .book-of-the-day-desc-wrapper .author {
+    margin-bottom: 5px;
+  }
+
+  .book-of-the-day-desc-wrapper p {
+    margin-bottom: 15px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 668px){
+  .book-of-the-day-container .chevleft {
+    left: 18px
+  }
+  .book-of-the-day-container .chevright {
+    right: 18px
+  }
+  .book-of-the-day-desc img {
+    width: 95px;
+  }
+  .book-of-the-day-desc-wrapper {
+    width: 400px;
+  }
+  .book-of-the-day-author{
+    margin-bottom: 5px;
+  }
+  .book-of-the-day-desc-wrapper .ratings svg {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+@media (max-width: 568px) {
+  .chevright svg, .chevleft svg {
+    width: 24px;
+  }
+  .book-of-the-day-desc img {
+    width: 88px;
+  }
+  .book-of-the-day-desc-wrapper {
+    width: 300px;
+  }
+  .book-of-the-day-author {
+    margin-bottom: 5px;
+  }
+  .book-of-the-day-desc-wrapper p {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 468px) {
+  .book-of-the-day-desc-wrapper {
+    width: 270px;
+  }
+  .book-of-the-day-desc-wrapper h2 {
+    text-align: center;
+  }
+  .book-of-the-day-desc-wrapper .ratings svg {
+    width: 12px;
+    height: 12px;
+  }
+}
+
+@media (max-width: 368px) {
+  .book-of-the-day-desc-wrapper {
+    width: 90%;
+  }
+}

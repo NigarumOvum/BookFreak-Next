@@ -1,0 +1,270 @@
+{
+  "footerlinks": [
+    {
+      "name": "behance",
+      "link": "https://www.behance.net/aimanadlawan"
+    },
+    {
+      "name": "dribbble",
+      "link": "https://dribbble.com/aimanadlawan"
+    },
+    {
+      "name": "aiman",
+      "link": "https://aimanadlawan.com/"
+    },
+    {
+      "name": "twitter",
+      "link": "https://twitter.com/aimanski12"
+    },
+    {
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/"
+    }
+  ],
+  "bookcatmenu": ["non-fiction", "fiction", "category", "textbooks"],
+  "mininavs": [
+    {
+      "name": "Arts",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Business",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Classics",
+      "link": "/fiction"
+    }, 
+    {
+      "name": "Cookbook",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Diet",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Fables",
+      "link": "/fiction"
+    }, 
+    {
+      "name": "Fantasy",
+      "link": "/fiction"
+    }, 
+    {
+      "name": "Food",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Horror",
+      "link": "/fiction"
+    }, 
+    {
+      "name": "Humor",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Pets",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Politics",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Romance",
+      "link": "/fiction"
+    }, 
+    {
+      "name": "Sports",
+      "link": "/non-fiction"
+    }, 
+    {
+      "name": "Thiller",
+      "link": "/fiction"
+    }, 
+    {
+      "name": "Travel",
+      "link": "/non-fiction"
+    }
+  ],
+  "midmenu": [
+    {
+      "name": "Non-Fiction",
+      "link": "/non-fiction"
+    },
+    {
+      "name": "Fiction",
+      "link": "/fiction"
+    },
+    {
+      "name": "Category",
+      "link": "/category"
+    },
+    {
+      "name": "Textbooks",
+      "link": "/textbooks"
+    },
+    {
+      "name": "Discover",
+      "link": "/discover"
+    }
+  ],
+  "footernavs": [
+    [
+      {
+        "name": "Home",
+        "link": "/"
+      },
+      {
+        "name": "Non-Fiction",
+        "link": "/non-fiction"
+      },
+      {
+        "name": "Fiction",
+        "link": "/fiction"
+      },
+      {
+        "name": "Text Books",
+        "link": "/textbooks"
+      },
+      {
+        "name": "Category",
+        "link": "/category"
+      },
+      {
+        "name": "Discover",
+        "link": "/discover"
+      }
+    ], [
+      {
+        "name": "Fiction",
+        "link": "/fiction",
+        "head": true
+      },
+      {
+        "name": "Classics",
+        "link": "/fiction/classics"
+      },
+      {
+        "name": "Drama",
+        "link": "/fiction/drama"
+      },
+      {
+        "name": "Fables",
+        "link": "/fiction/fables"
+      },
+      {
+        "name": "Fantasy",
+        "link": "/fiction/fantasy"
+      },
+      {
+        "name": "Folklore",
+        "link": "/fiction/folklore"
+      },
+      {
+        "name": "More...",
+        "link": "/fiction"
+      }
+    ], [
+      {
+        "name": "Non-Fiction",
+        "link": "/non-fiction",
+        "head": true
+      },
+      {
+        "name": "Activity & Games",
+        "link": "/non-fiction/activity-games"
+      },
+      {
+        "name": "Antiques",
+        "link": "/non-fiction/antiques"
+      },
+      {
+        "name": "Architecture",
+        "link": "/non-fiction/architecture"
+      },
+      {
+        "name": "Arts",
+        "link": "/non-fiction/arts"
+      },
+      {
+        "name": "Biography",
+        "link": "/non-fiction/biography"
+      },
+      {
+        "name": "More...",
+        "link": "/non-fiction"
+      }
+    ], [
+      {
+        "name": "Category",
+        "link": "/category",
+        "head": true
+      },
+      {
+        "name": "Adulthood",
+        "link": "/category/adulthood"
+      },
+      {
+        "name": "Africa",
+        "link": "/category/africa"
+      }, 
+      {
+        "name": "America",
+        "link": "/category/america"
+      },
+      {
+        "name": "Animal",
+        "link": "/category/animal"
+      },
+      {
+        "name": "Animism",
+        "link": "/category/animism"
+      },
+      {
+        "name": "More...",
+        "link": "/category"
+      }
+    ], [
+      {
+        "name": "Textbooks",
+        "link": "/textbooks",
+        "head": true
+      },
+      {
+        "name": "Accounting",
+        "link": "/textbooks/accounting"
+      },
+      {
+        "name": "Algebra",
+        "link": "/textbooks/algebra"
+      },
+      {
+        "name": "Architecture",
+        "link": "/textbooks/architecture"
+      },
+      {
+        "name": "Art",
+        "link": "/textbooks/art"
+      },
+      {
+        "name": "Biology",
+        "link": "/textbooks/biology"
+      },
+      {
+        "name": "More...",
+        "link": "/textbooks"
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+

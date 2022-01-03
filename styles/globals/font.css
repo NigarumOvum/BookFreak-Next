@@ -1,0 +1,467 @@
+@import url('https://fonts.googleapis.com/css2?family=Mada:wght@300;400;500;600;700;900&family=Nunito:wght@300;400;600;700;800;900&display=swap');
+
+.text-1 {
+  font-family: 'Nunito', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-2 {
+  font-family: 'Mada', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* nunito font sizes */
+.font-a1 {
+  font-size: 2.1em;
+}
+
+.font-a2 {
+  font-size: 1.8em;
+}
+
+.font-a3 {
+  font-size: 1.2em;
+}
+
+.font-a4 {
+  font-size: 1.1em;
+}
+
+.font-a5 {
+  font-size: 1em;
+}
+
+.font-a6 {
+  font-size: .96em;
+}
+
+.font-a7 {
+  font-size: .95em;
+}
+
+.font-a8 {
+  font-size:.92em;
+}
+
+.font-a9 {
+  font-size: .89em;
+}
+
+/* mada font sizes */
+.font-b1 {
+  font-size: 1.45em;
+}
+
+.font-b2 {
+  font-size: 1.2em;
+}
+
+.font-b3 {
+  font-size: 1em;
+}
+
+.font-b4 {
+  font-size: .95em;
+}
+
+.font-b5 {
+  font-size: .93em;
+}
+
+.font-b6 {
+  font-size: .8em;
+}
+
+.pagination li a {
+  font-size: 0.9em;
+}
+
+@media (max-width: 868px) {
+  /* nunito font sizes */
+  .font-a1 {
+    font-size: 2.04em;
+  }
+
+  .font-a2 {
+    font-size: 1.74em;
+  }
+  
+  .font-a3 {
+    font-size: 1.17em;
+  }
+  .font-a4 {
+    font-size: 1.08em;
+  }
+
+  .font-a5 {
+    font-size: .98em;
+  }
+
+  .font-a6 {
+    font-size: .94em;
+  }
+
+  .font-a7 {
+    font-size: .93em;
+  }
+
+  .font-a8 {
+    font-size: .9em;
+  }
+
+  .font-a9 {
+    font-size: .87em;
+  }
+
+  /* mada font sizes */
+  .font-b1 {
+    font-size: 1.41em;
+  }
+
+  .font-b2 {
+    font-size: 1.18em;
+  }
+
+  .font-b3 {
+    font-size: .98em;
+  }
+
+  .font-b4 {
+    font-size: .93em;
+  }
+
+  .font-b5 {
+    font-size: .91em;
+  }
+
+  /* .font-b6 {
+    font-size: .8em;
+  } */
+}
+
+@media (max-width: 768px) {
+   /* nunito font sizes */
+   .font-a1 {
+     font-size: 1.98em;
+   }
+
+   .font-a2 {
+     font-size: 1.68em;
+   }
+
+   .font-a3 {
+     font-size: 1.15em;
+   }
+
+   .font-a4 {
+     font-size: 1.06em;
+   }
+
+   .font-a5 {
+     font-size: .96em;
+   }
+
+   .font-a6 {
+     font-size: .92em;
+   }
+
+   .font-a7 {
+     font-size: .9em;
+   }
+
+   .font-a8 {
+     font-size: .88em;
+   }
+
+   .font-a9 {
+     font-size: .85em;
+   }
+
+   /* mada font sizes */
+   .font-b1 {
+     font-size: 1.38em;
+   }
+
+   .font-b2 {
+     font-size: 1.16em;
+   }
+
+   .font-b3 {
+     font-size: .96em;
+   }
+
+   .font-b4 {
+     font-size: .91em;
+   }
+
+   .font-b5 {
+     font-size: .89em;
+   }
+
+   .pagination li a {
+     font-size: 0.87em;
+   }
+   /* .font-b6 {
+    font-size: .8em;
+  } */
+}
+
+@media (max-width: 668px) {
+  /* nunito font sizes */
+  .font-a1 {
+    font-size: 1.92em;
+  }
+
+  .font-a2 {
+    font-size: 1.62em;
+  }
+
+  .font-a3 {
+    font-size: 1.13em;
+  }
+
+  .font-a4 {
+    font-size: 1.05em;
+  }
+
+  .font-a5 {
+    font-size: .95em;
+  }
+
+  .font-a6 {
+    font-size: .9em;
+  }
+
+  .font-a7 {
+    font-size: .89em;
+  }
+
+  .font-a8 {
+    font-size: .86em;
+  }
+
+  .font-a9 {
+    font-size: .83em;
+  }
+
+  /* mada font sizes */
+  .font-b1 {
+    font-size: 1.35em;
+  }
+
+  .font-b2 {
+    font-size: 1.15em;
+  }
+
+  .font-b3 {
+    font-size: .95em;
+  }
+
+  .font-b4 {
+    font-size: .89em;
+  }
+
+  .font-b5 {
+    font-size: .87em;
+  }
+
+  .font-b6 {
+    font-size: .79em;
+  }
+}
+
+@media (max-width: 568px) {
+   /* nunito font sizes */
+   .font-a1 {
+     font-size: 1.86em;
+   }
+
+   .font-a2 {
+     font-size: 1.56em;
+   }
+
+   .font-a3 {
+     font-size: 1.12em;
+   }
+
+   .font-a4 {
+     font-size: 1.36em;
+   }
+
+   .font-a5 {
+     font-size: .93em;
+   }
+
+   .font-a6 {
+     font-size: .88em;
+   }
+
+   .font-a7 {
+     font-size: .86em;
+   }
+
+   .font-a8 {
+     font-size: .84em;
+   }
+
+   .font-a9 {
+     font-size: .81em;
+   }
+
+   /* mada font sizes */
+   .font-b1 {
+     font-size: 1.31em;
+   }
+
+   .font-b2 {
+     font-size: 1.13em;
+   }
+
+   .font-b3 {
+     font-size: .93em;
+   }
+
+   .font-b4 {
+     font-size: .87em;
+   }
+
+   .font-b5 {
+     font-size: .85em;
+   }
+   .pagination li a {
+     font-size: 0.85em;
+   }
+
+   /* .font-b6 {
+     font-size: .79em;
+   } */
+}
+
+@media (max-width: 468px) {
+  /* nunito font sizes */
+  .font-a1 {
+    font-size: 1.8em;
+  }
+
+  .font-a2 {
+    font-size: 1.5em;
+  }
+
+  .font-a3 {
+    font-size: 1.11em;
+  }
+
+  .font-a4 {
+    font-size: 1.02em;
+  }
+
+  .font-a5 {
+    font-size: .92em;
+  }
+
+  .font-a6 {
+    font-size: .86em;
+  }
+
+  .font-a7 {
+    font-size: .84em;
+  }
+
+  .font-a8 {
+    font-size: .82em;
+  }
+
+  .font-a9 {
+    font-size: .8em;
+  }
+
+  /* mada font sizes */
+  .font-b1 {
+    font-size: 1.28em;
+  }
+
+  .font-b2 {
+    font-size: 1.12em;
+  }
+
+  .font-b3 {
+    font-size: .92em;
+  }
+
+  .font-b4 {
+    font-size: .85em;
+  }
+
+  .font-b5 {
+    font-size: .83em;
+  }
+
+  /* .font-b6 {
+     font-size: .79em;
+   } */
+}
+
+@media (max-width: 368px) {
+  /* nunito font sizes */
+  .font-a1 {
+    font-size: 1.7em;
+  }
+
+  .font-a2 {
+    font-size: 1.4em;
+  }
+
+  .font-a3 {
+    font-size: 1.1em;
+  }
+
+  .font-a4 {
+    font-size: 1em;
+  }
+
+  .font-a5 {
+    font-size: .9em;
+  }
+
+  .font-a6 {
+    font-size: .84em;
+  }
+
+  .font-a7 {
+    font-size: .82em;
+  }
+
+  .font-a8 {
+    font-size: .8em;
+  }
+
+  .font-a9 {
+    font-size: .78em;
+  }
+
+  /* mada font sizes */
+  .font-b1 {
+    font-size: 1.25em;
+  }
+
+  .font-b2 {
+    font-size: 1.1em;
+  }
+
+  .font-b3 {
+    font-size: .9em;
+  }
+
+  .font-b4 {
+    font-size: .83em;
+  }
+
+  .font-b5 {
+    font-size: .81em;
+  }
+
+  .font-b6 {
+    font-size: .78em;
+  }
+  .pagination li a {
+    font-size: 0.84em;
+  }
+}

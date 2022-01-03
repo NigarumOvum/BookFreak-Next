@@ -1,0 +1,174 @@
+
+.featured-books {
+  width: 100%;
+  min-height: 200px;
+  padding-bottom: 60px;
+}
+
+.today-featured-books {
+  width: 100%;
+  align-items: flex-start;
+  border-bottom: 1px solid #DADADA;
+}
+
+.today-featured-books span {
+  letter-spacing: -0.025em;
+  font-weight: 600;
+  color: #4B6C68;
+  margin: 0 0 12px 40px;
+} 
+
+.featured-book-title {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  height: 45px;
+}
+
+.collection-title {
+  margin-left: 40px;
+  font-weight: 600;
+  color: #4B6C68;
+  letter-spacing:  -0.025em;
+}
+
+.view-all-btn {
+  margin-right: 40px;
+  color: #DBA621;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.15s ease-in;
+}
+
+.view-all-btn:hover {
+  color: #C59110;
+  transition: all 0.15s ease-in;
+}
+
+.view-all-btn:active {
+  transform: scale(0.8);
+  transition: all 0.15s ease-in;
+}
+
+.featured-books-slider {
+  width: 100%;
+  height: 300px;
+  border-bottom: 1px solid #DADADA;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+
+/* width */
+.featured-books-slider::-webkit-scrollbar {
+  height: 4px;
+}
+
+/* Track */
+.featured-books-slider::-webkit-scrollbar-track {
+  background: #EDEDED;
+}
+
+/* Handle */
+.featured-books-slider::-webkit-scrollbar-thumb {
+  background: #DEDEDE;
+}
+
+/* Handle on hover */
+.featured-books-slider::-webkit-scrollbar-thumb:hover {
+  background: #D0E7E4;
+}
+
+.featured-books-wrapper {
+  width: 920px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 40px;
+}
+
+.featured-books-indiv {
+  height: 255px;
+  justify-content: space-between;
+  margin-top: 20px;
+  align-items: flex-start;
+  min-width: 20px;
+}
+
+.featured-books-indiv .books-desc {
+  width: 100%;
+  align-items: flex-start;
+} 
+
+
+.featured-books-indiv .books-desc a{
+  text-decoration: none;
+}
+
+.books-desc .book-title{
+  color: #4B6C68;
+  letter-spacing: -0.025em;
+}
+
+.books-desc .book-author {
+  letter-spacing: -0.025em;
+  color: #DBA621;
+}
+
+.books-desc .book-author:hover, .books-desc .book-title:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 968px) {
+  .today-featured-books span {
+    margin: 0 0 12px 20px;
+  } 
+  .collection-title {
+    margin-left: 20px;
+  }
+  .view-all-btn {
+    margin-right: 20px;
+  }
+  .featured-books-wrapper {
+    padding: 0 20px;
+    width: 900px;
+  }
+  .featured-books-indiv img {
+    width: 120px;
+  }
+}
+
+@media (max-width: 868px) {
+  .featured-books-slider {
+    height: 290px;
+  }
+  .featured-books-indiv {
+    height: 245px;
+  }
+  .featured-books-indiv img {
+    width: 110px;
+  }
+}
+
+@media (max-width: 768px) {
+  .featured-books-slider {
+    height: 290px;
+  }
+  .featured-books-wrapper {
+    width: 800px;
+  }
+}
+
+@media (max-width: 668px) {
+  .featured-book-title {
+    height: 35px;
+  }
+  .featured-books-slider {
+    height: 290px;
+  }
+  .featured-books-wrapper {
+    width: 750px;
+  }
+  .featured-books-indiv img {
+    width: 105px;
+  }
+}

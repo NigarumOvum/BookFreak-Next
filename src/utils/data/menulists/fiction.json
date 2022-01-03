@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Classics",
+    "link": "classics",
+    "url": "cat"
+  },  
+  {
+    "name": "Drama",
+    "link": "drama",
+    "url": "cat"
+  },  
+  {
+    "name": "Fables",
+    "link": "fables",
+    "url": "cat"
+  },  
+  {
+    "name": "Fantasy",
+    "link": "fantasy",
+    "url": "cat"
+  },  
+  {
+    "name": "Folklore",
+    "link": "folklore",
+    "url": "cat"
+  },  
+  {
+    "name": "Graphic Novels",
+    "link": "graphic-novels",
+    "url": "cat"
+  },
+  {
+    "name": "General Fiction",
+    "link": "general-fiction",
+    "url": "cat"
+  },
+  {
+    "name": "Historical Fiction",
+    "link": "historical-fiction",
+    "url": "cat"
+  },
+  {
+    "name": "Horror",
+    "link": "horror",
+    "url": "cat"
+  },
+  {
+    "name": "Literary Fiction",
+    "link": "literary-fiction",
+    "url": "query"
+  },
+  {
+    "name": "Magic",
+    "link": "magic",
+    "url": "cat"
+  },  
+  {
+    "name": "Manga",
+    "link": "manga",
+    "url": "cat"
+  },
+  {
+    "name": "Mythology",
+    "link": "mythology",
+    "url": "cat"
+  },  
+  {
+    "name": "Mystery & Crime",
+    "link": "mystery-crime",
+    "url": "query"
+  },
+  {
+    "name": "Poetry",
+    "link": "poetry",
+    "url": "cat"
+  },
+  {
+    "name": "Romance",
+    "link": "romance",
+    "url": "cat"
+  },
+  {
+    "name": "Science Fiction",
+    "link": "science-fiction",
+    "url": "cat"
+  },
+  {
+    "name": "Thriller",
+    "link": "thriller",
+    "url": "cat"
+  },
+  {
+    "name": "Western",
+    "link": "western",
+    "url": "cat"
+  }
+]

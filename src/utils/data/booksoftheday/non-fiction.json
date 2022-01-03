@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "author":  ["Alex Banayan"],
+      "rating": 5,
+      "title": "The Third Door",
+      "isbn": "9780804136679",
+      "image": "http://books.google.com/books/content?id=Qes6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The Third Door takes readers on an unprecedented adventure—from hacking Warren Buffett’s shareholders meeting to chasing Larry King through a grocery store to celebrating in a nightclub..."
+    },
+    {
+      "author": ["Johann Hari"],
+      "rating": 3.5,
+      "title": "Lost Connections",
+      "isbn": "9781632868329",
+      "image": "http://books.google.com/books/content?id=dWAzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "What really causes depression and anxiety--and how can we really solve them? Award-winning journalist Johann Hari suffered from depression since he was a child and started taking antidepressants when he was a teenager."
+    },
+    {
+      "author": ["Anna Akana"],
+      "rating": 4,
+      "title": "So Much I Want to Tell You",
+      "isbn": "9780399594922",
+      "image": "http://books.google.com/books/content?id=AOpxDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In 2007, Anna Akana lost her teen sister, Kristina, to suicide. In the months that followed, she realized that the one thing helping her process her grief and begin to heal was comedy. So she began making YouTube videos..."
+    },
+    {
+      "author":  ["Eric Barker"],
+      "rating": 3.5,
+      "title": "Barking Up the Wrong Tree",
+      "isbn": "9780062416179",
+      "image": "http://books.google.com/books/content?id=EDzjDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In Barking Up the Wrong Tree, Eric Barker reveals the extraordinary science behind what actually determines success and most importantly, how anyone can achieve it. You’ll learn: • Why valedictorians rarely become millionaires..."
+    }
+  ], [
+    {
+      "author": ["Brian Tracy"],
+      "rating": 5,
+      "title": "Eat That Frog",
+      "isbn": "9781633536852",
+      "image": "http://books.google.com/books/content?id=nJiqDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Stop Procrastinating, Get More of the Important Things Done—Today! There just isn't enough time for everything on our to-do list—and there never will be. Successful people don't try to do everything. They learn to focus..."
+    },
+    {
+      "author": ["Lilly Singh"],
+      "rating": 5,
+      "title": "How to Be a Bawse",
+      "isbn": "9781405929721",
+      "image": "http://books.google.com/books/content?id=JkG1DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "'The ultimate no-nonsense manual for millennials how how to make it to the top' Marie Claire From actress, comedian and YouTube sensation Lilly Singh (aka Superwoman) comes the definitive guide to being a BAWSE - a person..."
+    },
+    {
+      "author": ["Charlamagne Tha God"],
+      "rating": 4,
+      "title": "Black Privilege",
+      "isbn": "9781501145308",
+      "image": "http://books.google.com/books/content?id=NMmlDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Charlamagne Tha God--the self-proclaimed 'Prince of Pissing People Off,' co-host of Power 105.1's The Breakfast Club, and 'hip-hop's Howard Stern'--shares his unlikely success story as well as how embracing..."
+    },
+    {
+      "author": ["Scott Carney"],
+      "rating": 5,
+      "title": "What Doesn't Kill Us",
+      "isbn": "9781623366919",
+      "image": "http://books.google.com/books/content?id=JYiwDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "What Doesn't Kill Us, traces our evolutionary journey back to a time when survival depended on how well we adapted to the environment around us. Our ancestors crossed deserts, mountains, and oceans without even a whisper..."
+    }
+  ], [
+     {
+      "author":  ["Dale Carnegie"],
+      "rating": 4,
+      "title": "How to stop worrying and start living",
+      "isbn": "9352612582",
+      "image": "http://books.google.com/books/content?id=x3kMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "The book 'How to stop worrying and start living' suggest many ways to conquer worry and lead a wonderful life. The book mentions fundamental facts to know about worry and magic formula for solving worry-some situations."
+    },
+    {
+      "author": ["Charles F. Stanley"],
+      "rating": 4.5,
+      "title": "Emotions",
+      "isbn": "9781476752105",
+      "image": "http://books.google.com/books/content?id=9AA7BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "God has gifted us with emotions since the very beginning—and he did so with very concrete purposes in mind—so that we can enjoy life, so we can connect with others, and so we can reflect God's image in us. But too often..."
+    },
+    {
+      "author":  ["Nick Vujicic", "Kanae Vujicic"],
+      "rating": 4,
+      "title": "Love Without Limits",
+      "isbn": "9781601426192",
+      "image": "http://books.google.com/books/content?id=2hroAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "It Doesn’t Take a Perfect Person to Find a Perfect Love Even though he was born without arms or legs, Nick Vujicic created a “ridiculously good life.” But after dating disappointments and a failed relationship..."
+    },
+    {
+      "author":  ["Tyler McNamer"],
+      "rating": 3.5,
+      "title": "Population One",
+      "isbn": "9781938686542",
+      "image": "http://books.google.com/books/content?id=QObHAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Being different from the masses is one of the greatest gifts that you possess! Let s face it: Who wants to be just like everyone else? Talk about boring! People come in all shapes and sizes and are born with natural..."
+    }
+  ], [
+    {
+      "author": ["Francine Shapiro"],
+      "rating": 0,
+      "title": "Getting Past Your Past",
+      "isbn": "9781609619954",
+      "image": "http://books.google.com/books/content?id=kRNbAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A totally accessible user's guide from the creator of a scientifically proven form of psychotherapy that has successfully treated millions of people worldwide. Whether we've experienced small setbacks or major traumas."
+    },
+    {
+      "author": ["Will M. Tuttle"],
+      "rating": 3.5,
+      "title": "The World Peace Diet",
+      "isbn": "1590560833",
+      "image": "http://books.google.com/books/content?id=BTqLjAOwsSMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Tuttle offers a set of universal principles for all people of conscience, from any religious tradition, to help them reconnect with what they are eating, what was required to get it on their plates--and what happens after it leaves their plates."
+    },
+    {
+      "author":  ["John Robbins"],
+      "rating": 3.5,
+      "title": "Diet for a New America",
+      "isbn": "9781932073416",
+      "image": "http://books.google.com/books/content?id=h-9ARz2YAlgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "From John Robbins, a new edition of the classic that awakened the conscience of a nation. Since the 1987 publication of Diet for a New America, beef consumption in the United States has fallen a remarkable 19%."
+    },
+    {
+      "author": ["Caroline P. Murphy"],
+      "rating": 4,
+      "title": "Murder of a Medici Princess",
+      "isbn": "9780195385830",
+      "image": "http://books.google.com/books/content?id=y2xnDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A vast treasure trove of newly discovered and unpublished documents illuminates the brilliant life and tragic death of Isabella de Medici, one of the brightest stars in Renaissance Italy, in this fast-paced narrative..."
+    }
+  ], [
+     {
+      "author": ["Charles Houston Harris", "Louis R. Sadler"],
+      "rating": 3,
+      "title": "The Texas Rangers and the Mexican Revolution",
+      "isbn": "0826334849",
+      "image": "http://books.google.com/books/content?id=kUnzbJL3LIIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The decade 1910-1920 was the bloodiest in the controversial history of one of the most famous law enforcement agencies in the world--the Texas Rangers. Much of the bloodshed was along the thousand-mile Texas/Mexico border..."
+    },
+    {
+      "author": ["David Aikman"],
+      "rating": 4.5,
+      "title": "Great Souls",
+      "isbn": "0739104381",
+      "image": "http://books.google.com/books/content?id=7ycSyi1yNyYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Aikman profiles six figures who embody specific virtues including Bill Graham, Nelson Mandela, Mother Teresa, Pope John Paul II and others."
+    },
+    {
+      "author": ["Ingrid Seward"],
+      "rating": 4,
+      "title": "The Queen and Di",
+      "isbn": "0739104381",
+      "image": "http://books.google.com/books/content?id=3WZkyIUEWNgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A behind-the-gates journey into Buckingham, Balmoral, and Sandringham palaces reveals how the royals really live, including a portrait of the queen and Princess Diana that illustrates a relationship unlike that of popular..."
+    },
+    {
+      "author": ["Amanda Foreman"],
+      "rating": 5,
+      "title": "Georgiana, Duchess of Devonshire",
+      "isbn": "9780375753831",
+      "image": "http://books.google.com/books/content?id=Qp7J5fCax1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Traces the life of eighteenth-century British aristocrat Lady Georgiana Spencer."
+    }
+  ], [
+    {
+      "author": ["Robert K. Massie"],
+      "rating": 4.5,
+      "title": "Nicholas and Alexandra",
+      "isbn": "9781781850565",
+      "image": "http://books.google.com/books/content?id=EUM-AAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "An incisive account of the last of the Romanov dynasty details the love affair of Tsar Nicholas II and his wife, Alexandra, their family, their involvement with Rasputin, and the revolution that transformed imperial..."
+    },
+    {
+      "author": ["Randall Bennett Woods"],
+      "rating": 4,
+      "title": "Shadow Warrior",
+      "isbn": "9780465037889",
+      "image": "http://books.google.com/books/content?id=oV0fAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A dramatic profile of the controversial post-World War II soldier and spy identifies his critical role in some of the most pivotal events of the 20th century, tracing his work as the director of the CIA, his involvement..."
+    },
+    {
+      "author": ["Mark Ribowsky"],
+      "rating": 4,
+      "title": "The Last Cowboy: A Life of Tom Landry",
+      "isbn": "9780871403339",
+      "image": "http://books.google.com/books/content?id=_dq4AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A biography of the legendary professional football coach, known for his trademark fedora, who spent almost thirty years taking the Dallas Cowboys from punchline to NFL glory, ultimately delivering twenty consecutive winning seasons."
+    },
+    {
+      "author": ["John Perry"],
+      "rating": 4.5,
+      "title": "Pershing",
+      "isbn": "9781595553553",
+      "image": "http://books.google.com/books/content?id=CfjpTz8eQzYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "No other American military leader is so important and yet so little known as John J. Pershing. He led an army of more than a million men in France, defeating the seemingly invincible German war machine with only six months..."
+    }
+  ], [
+     {
+      "author": ["David Finch"],
+      "rating": 4,
+      "title": "The Journal of Best Practices",
+      "isbn": "9781439189719",
+      "image": "http://books.google.com/books/content?id=7OE5mmdrNYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A full-length account based on a popular New York Times article traces the author's battle with Asperger Syndrome, describing his adult diagnosis and the painstaking and often whimsical exercises he uses to preserve his family..."
+    },
+    {
+      "author": ["Michael Hingson", "Susy Flory"],
+      "rating": 4,
+      "title": "Thunder Dog",
+      "isbn": "9781400203048",
+      "image": "http://books.google.com/books/content?id=1isA9J93gM8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Recounts the events of September 11, 2001 as a blind man, trusting in his guide dog, escapes from the World Trade Center's north tower."
+    },
+    {
+      "author": ["Elizabeth Lev"],
+      "rating": 3.5,
+      "title": "The Tigress of Forlì",
+      "isbn": "9780151012992",
+      "image": "http://books.google.com/books/content?id=nzhOO1GAZ9IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "An examination of the Renaissance countess explores her marriage at the age of ten into a corrupt pope's influential family, her fierce rule after the assassination of her husband, and the inspiring resistance she led against the Borgia family."
+    },
+    {
+      "author":  ["Randall Bennett Woods"],
+      "rating": 4,
+      "title": "Prisoners of Hope",
+      "isbn": "0465050964",
+      "image": "http://books.google.com/books/content?id=ZbHwswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "President Lyndon Johnson's Great Society was breathtaking in its scope and dramatic in its impact. Over the course of his time in office, Johnson passed over one thousand pieces of legislation designed to address..."
+    }
+  ]
+]

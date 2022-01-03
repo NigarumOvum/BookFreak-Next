@@ -1,0 +1,210 @@
+.burger-nav {
+  display: none;
+}
+
+
+@media (max-width: 568px ){
+  .burger-nav {
+    display: block;
+  }
+
+  .burger-btn {
+    position: relative;
+    overflow: hidden;
+    margin-right: 20px;
+    height: 19px;
+  }
+
+  .burger-btn img {
+    height: 19px;
+    transition: all 0.15s ease;
+  }
+
+  .burger-btn img:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    transition: all 0.15s ease;
+  }
+
+  .burger-btn img:active {
+    transform: scale(0.85);
+    transition: all 0.15s ease;
+  }
+
+  .burger-menulist-wrapper {
+    position: fixed;
+    top: 0;
+    right: -320px;
+    width: 320px;
+    height: calc(100vh - 60px);
+    padding-bottom: 60px;
+    background: #437771;
+    z-index: 1000;
+    overflow-y: auto;
+    overflow-x: hidden;
+    transition: all 0.2s ease-in;
+  }
+
+
+  /* width */
+  .burger-menulist-wrapper::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  /* Track */
+  .burger-menulist-wrapper::-webkit-scrollbar-track {
+    background: #57948D;
+  }
+
+  /* Handle */
+  .burger-menulist-wrapper::-webkit-scrollbar-thumb {
+    background: #84B8B2;
+  }
+
+  /* Handle on hover */
+  .burger-menulist-wrapper::-webkit-scrollbar-thumb:hover {
+    background: #A8C3C0;
+  }
+
+
+
+
+  .close-btn {
+    width: calc(100% - 20px);
+    height: 20px;
+    margin-top: 20px;
+    padding-right: 25px;
+  }
+
+  .close-btn span {
+    height: 18px;
+    width: 18px;
+    display: block;
+    float: right;
+    transition: all 0.15s ease-in;
+  }
+
+  .close-btn span:hover {
+    opacity: 0.8;
+    transition: all 0.15s ease-in;
+  }
+
+  .close-btn span:active {
+    transform: scale(0.82);
+    transition: all 0.15s ease-in;
+  }
+
+  .close-btn span svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .hide-btn {
+    right: 0px;
+    transition: all 0.2s ease-in;
+  }
+  
+
+
+
+  .burger-navlist {
+    width: 100%;
+    margin-top: 30px;
+  }
+  
+  .burger-navlist-wrapper {
+    width: calc(100% - 70px);
+    margin: 0 auto;
+  }
+
+  .burger-navlist-header {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .burger-navlist-header a {
+    color: #FFD130;
+  }
+
+  .burger-navlist-header img{
+    width: 8px;
+    height: auto;
+  }
+
+  .burger-navlist-items {
+    min-height: 10px;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .burger-navlist-items a{
+    display: block;
+    color: #A4D1CC;
+    margin-bottom: 7px;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+  }
+
+
+  /* btn input */
+  /* btn input */
+  .burger-input {
+    margin-top: 22px;
+    flex-direction: row;
+  }
+  .burger-input input {
+    height: 32px;
+    width: 170px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    padding-left: 12px;
+    letter-spacing: -0.015em;
+    font-weight: 500;
+    color: #4F8982;
+    background: #EDEDED;
+  }
+  .burger-input button {
+    height: 32px;
+    width: 32px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    background: #F6BC2B;
+    transition: all 0.2s ease-in;
+  }
+  .burger-input button:hover {
+    cursor: pointer;
+    background: #FFD772;
+    transition: all 0.2s ease-in;
+  }
+  .burger-input button:active svg {
+    transform: scale(0.85);
+    transition: all 0.15s ease-in;
+  }
+  .burger-input button span, .burger-input button span svg {
+    width: 18px;
+    height: 18px;
+    transition: all 0.15s ease-in;
+  }
+  .burger-input input:focus, .burger-input button:focus {
+    outline: none;
+  } 
+  .burger-input input {
+    width: 200px;
+  }
+  /* btn input */
+  /* btn input */
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 368px ){
+  .burger-menulist-wrapper {
+    /* width: 100%; */
+  }
+}

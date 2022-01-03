@@ -1,0 +1,237 @@
+[
+  [
+     {
+      "author": ["Ann Moyal"],
+      "rating": 4.5,
+      "title": "Platypus",
+      "isbn": "0801880521",
+      "image": "http://books.google.com/books/content?id=5DkezNMhSTYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Eloquent and concise, Platypus uncovers the earliest theories and latest discoveries about this delightfully odd member of the animal kingdom."
+    },
+    {
+      "id": "hO6ZCrNVCmQC",
+      "author": ["Rob Harrison"],
+      "rating": 5,
+      "title": "The Ethical Consumer",
+      "isbn": "141290353X",
+      "image": "http://books.google.com/books/content?id=hO6ZCrNVCmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Focusing on ethical consumers, their behaviour, discourses and narratives as well as the social and political contexts in which they operate, this text provides a summary of the manner and effectiveness of their actions."
+    },
+    {
+      "author": ["Gregor Hohpe"],
+      "rating": 5,
+      "title": "Enterprise Integration Patterns",
+      "isbn": "9780133065107",
+      "image": "http://books.google.com/books/content?id=qqB7nrrna_sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Enterprise Integration Patterns provides an invaluable catalog of sixty-five patterns, with real-world solutions that demonstrate the formidable of messaging and help you to design effective messaging solutions..."
+    },
+    {
+      "author": ["Francis Fukuyama"],
+      "rating": 4,
+      "title": "Political Order and Political Decay",
+      "isbn": "9780374227357",
+      "image": "http://books.google.com/books/content?id=v0eKBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "A second volume in a landmark chronicle of the modern state examines how societies develop strong, impersonal and accountable political institutions, examining such subjects as the French Revolution, the Arab Spring..."
+    }
+  ], [
+     {
+      "author": ["Philip Clayton"],
+      "rating": 5,
+      "title": "Adventures in the Spirit",
+      "isbn": "9781451416046",
+      "image": "http://books.google.com/books/content?id=FGWStr93V6AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Certain to engage scholars, students, and general readers alike, Evolution and Ethics offers a balanced, levelheaded, constructive approach to an often divisive debate."
+    },
+    {
+      "author": ["Marjorie Kelly"],
+      "rating": 3.5,
+      "title": "The Divine Right of Capital",
+      "isbn": "1576751252",
+      "image": "http://books.google.com/books/content?id=0nVIJfhZiV4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The author challenges ascendancy of corporate power and argues for dismantling the current economic system and the economic aristocracy that hoards power and wealth. 30,000 first printing. Original."
+    },
+    {
+      "author": ["Ed E. Jacobs"],
+      "rating": 2,
+      "title": "Group Counseling: Strategies and Skills",
+      "isbn": "9781305686205",
+      "image": "http://books.google.com/books/content?id=hg6dBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Eighth Edition, provides an in-depth look at group counseling with an emphasis on practical knowledge and techniques for effective group leadership. The authors discuss the many facets of group counseling and provide examples..."
+    },
+    {
+      "author": ["Robert M Gates"],
+      "rating": 4,
+      "title": "Duty",
+      "isbn": "9780307959485",
+      "image": "http://books.google.com/books/content?id=lYzZAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "From the former secretary of defense, a strikingly candid, vivid account of serving Presidents George W. Bush and Barack Obama during the wars in Iraq and Afghanistan. When Robert M. Gates received a call..."
+    }
+  ], [
+     {
+      "author": ["James Lovelock"],
+      "rating": 3.5,
+      "title": "The Ages of Gaia",
+      "isbn": "0192862170",
+      "image": "http://books.google.com/books/content?id=xW_T4jV9mFAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "James Lovelock proposes that all living species are components of that organism, as cells are components of the human body."
+    },
+    {
+      "author": ["Eberhard Zeidler"],
+      "rating": 3,
+      "title": "Quantum Field Theory III: Gauge Theory",
+      "isbn": "9783642224218",
+      "image": "http://books.google.com/books/content?id=miwuxaEXvOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In this third volume of his modern introduction to quantum field theory, Eberhard Zeidler examines the mathematical and physical aspects of gauge theory as a principle tool for describing the four fundamental forces..."
+    },
+    {
+      "author": ["Jeannie M. Whayne"],
+      "rating": 4,
+      "title": "Arkansas",
+      "isbn": "9781610750431",
+      "image": "http://books.google.com/books/content?id=Gq5UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Arkansas: A Narrative History is a comprehensive history of the state that has been invaluable to students and the general public since its original publication. Four distinguished scholars cover prehistoric Arkansas..."
+    },
+    {
+      "author": ["Daniel James Brown"],
+      "rating": 4.5,
+      "title": "The Boys in the Boat",
+      "isbn": "9781101622742",
+      "image": "http://books.google.com/books/content?id=2p3YPpiA2pEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The #1 New York Times–bestselling story about American Olympic triumph in Nazi Germany and now the inspiration for the PBS documentary “The Boys of ‘36” For readers of Unbroken, out of the depths of the Depression comes..."
+    }
+  ], [
+     {
+      "author": ["John Alexander Moore"],
+      "rating": 4,
+      "title": "Science as a Way of Knowing",
+      "isbn": "0674794826",
+      "image": "http://books.google.com/books/content?id=gPbYbFt7sYYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This book makes Moore's wisdom available to students in a lively, richly illustrated account of the history and workings of life. Employing rhetoric strategies including case histories, hypotheses and deductions..."
+    },
+    {
+      "author": ["Manuel Claude Peitsch"],
+      "rating": 3.5,
+      "title": "Computational Structural Biology",
+      "isbn": "9789812778772",
+      "image": "http://books.google.com/books/content?id=IzFpDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This work covers the impact of computational structural biology on protein structure prediction methods, macromolecular function and protein design, and key methods in drug discovery."
+    },
+    {
+      "author": ["Vaibbhav Taraate"],
+      "rating": 5,
+      "title": "Digital Logic Design Using Verilog",
+      "isbn": "9788132227915",
+      "image": "http://books.google.com/books/content?id=uAE1DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This book is designed to serve as a hands-on professional reference with additional utility as a textbook for upper undergraduate and some graduate courses in digital logic design. This book is organized in such..."
+    },
+    {
+      "author":  ["Michael T. Clanchy"],
+      "rating": 5,
+      "title": "From Memory to Written Record",
+      "isbn": "9781118295984",
+      "image": "http://books.google.com/books/content?id=9pQxD3j1MgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This seminal work of scholarship, which traces the development of literacy in medieval England, is now fully updated in a third edition. This book serves as an introduction to medieval books and documents for graduate..."
+    }
+  ], [
+     {
+      "author": ["Eric Schmidt", "Jared Cohen"],
+      "rating": 4,
+      "title": "The New Digital Age",
+      "isbn": "9780307961105",
+      "image": "http://books.google.com/books/content?id=Fl_LPoLdGKsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "In an unparalleled collaboration, two leading global thinkers in technology and foreign affairs give us their widely anticipated, transformational vision of the future: a world where everyone..."
+    },
+    {
+      "id": "03T_CgAAQBAJ",
+      "author": ["Joachim von zur Gathen"],
+      "rating": 5,
+      "title": "CryptoSchool",
+      "isbn": "9783662484258",
+      "image": "http://books.google.com/books/content?id=03T_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This book offers an introduction to cryptology, the science that makes secure communications possible, and addresses its two complementary aspects: cryptography—--the art of making secure building blocks..."
+    },
+    {
+      "author": ["B.N. Suresh"],
+      "rating": 5,
+      "title": "Integrated Design for Space Transportation System",
+      "isbn": "9788132225324",
+      "image": "http://books.google.com/books/content?id=IHb_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The book addresses the overall integrated design aspects of a space transportation system involving several disciplines like propulsion, vehicle structures, aerodynamics, flight mechanics, navigation..."
+    },
+    {
+      "author":  ["Daniel J. Boorstin"],
+      "rating": 3.5,
+      "title": "The Creators",
+      "isbn": "9780307817211",
+      "image": "http://books.google.com/books/content?id=2mawpEXm0K8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "By piecing the lives of selected individuals into a grand mosaic, Pulitzer Prize-winning historian Daniel J. Boorstin explores the development of artistic innovation over 3,000 years. A hugely ambitious chronicle..."
+    }
+  ], [
+     {
+      "author": ["Ryan Burton"],
+      "rating": 3.5,
+      "title": "The Enneagram Effect",
+      "isbn": "1077639201",
+      "image": "http://books.google.com/books/content?id=DexexwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "desc": "If you want to identify your true self and gain a deeper understanding of the people around you so that you can relate to the world more successfully, then keep reading ... Have you ever asked yourself who you truly are?"
+    },
+    {
+      "author": ["Karim Yaghmour"],
+      "rating": 5,
+      "title": "Embedded Android",
+      "isbn": "9781449308292",
+      "image": "http://books.google.com/books/content?id=KER0dd2oYP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Embedded Android is for Developers wanting to create embedded systems based on Android and for those wanting to port Android to new hardware, or creating a custom development environment. Hackers and moders will"
+    },
+    {
+      "author": ["Miguel Almaraz", "Christopher Brya"],
+      "rating": 3,
+      "title": "WTF Are Men Thinking",
+      "isbn": "9781402265655",
+      "image": "http://books.google.com/books/content?id=RfHeCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Do You Know Your Guy? 250,000 men give you the answers you need to understand exactly what's in his head... What habit drives men away? What really moves him? •What do men flirt so much? Why doesn't he call?"
+    },
+    {
+      "id": "P07rgiJjsk4C",
+      "author": ["Toby Wilkinson"],
+      "rating": 4,
+      "title": "The Rise and Fall of Ancient Egypt",
+      "isbn": "9781408810026",
+      "image": "http://books.google.com/books/content?id=P07rgiJjsk4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This is a story studded with extraordinary achievements and historic moments, from the building of the pyramids and the conquest of Nubia, through Akhenaten's religious revolution, the power and beauty of Nefertiti..."
+    }
+  ], [
+     {
+      "author": ["V. Kumar"],
+      "rating": 4,
+      "title": "Customer Relationship Management",
+      "isbn": "9783642201097",
+      "image": "http://books.google.com/books/content?id=wBLYtNotoE0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "Customer relationship management (CRM) as a strategy and as a technology has gone through an amazing evolutionary journey. The initial technological approach was followed by many disappointing initiatives..."
+    },
+    {
+      "author":  ["Baron Schwartz"],
+      "rating": 5,
+      "title": "High Performance MySQL",
+      "isbn": "9781449332495",
+      "image": "http://books.google.com/books/content?id=D0b_Xg3UeXEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "How can you bring out MySQL’s full power? With High Performance MySQL, you’ll learn advanced techniques for everything from designing schemas, indexes, and queries to tuning your MySQL server, operating system, and hardware..."
+    },
+    {
+      "author":  ["Charles Singer"],
+      "rating": 4,
+      "title": "A Short History of Science to the Nineteenth Century",
+      "isbn": "9780486169286",
+      "image": "http://books.google.com/books/content?id=KEzjBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "This fascinating and highly readable study by a noted historian uses maps, charts and diagrams to trace the development of the idea of a rational and interconnected material world across two and half millennia."
+    },
+    {
+      "author": ["Will Durant"],
+      "rating": 4,
+      "title": "Our Oriental Heritage",
+      "isbn": "9781451646689",
+      "image": "http://books.google.com/books/content?id=ru4LPyMAxxkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "desc": "The first volume of the expansive Pulitzer Prize-winning series The Story of Civilization. Discover a history of civilization in Egypt and the Near East to the Death of Alexander, and in India, China, and Japan..."
+    }
+  ]
+]

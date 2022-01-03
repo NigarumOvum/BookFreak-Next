@@ -1,0 +1,1535 @@
+[
+  [
+    {
+      "name": "Auditing",
+      "link": "/textbooks/auditing",
+      "books": [
+        {
+          "id": "DHv1DwAAQBAJ",
+          "title": "Audit and Accounting Manual",
+          "authors": ["AICPA"],
+          "thumbnail": "http://books.google.com/books/content?id=DHv1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HS6gV_qvGQwC",
+          "title": "Auditing Essentials",
+          "authors": ["Frank C. Giove"],
+          "thumbnail": "http://books.google.com/books/content?id=HS6gV_qvGQwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "8CibBAAAQBAJ",
+          "title": "A Guide to Effective Internal Management System Audits",
+          "authors": ["Andrew Nichols"],
+          "thumbnail": "http://books.google.com/books/content?id=8CibBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "saabMk6YLIMC",
+          "title": "Auditing Beyond Compliance",
+          "authors": ["Janet Bautista-Smith"],
+          "thumbnail": "http://books.google.com/books/content?id=saabMk6YLIMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "v1fG97V7EhwC",
+          "title": "Auditors",
+          "authors": ["Great Britain: Parliament: House of Lords: Select Committee on Economic Affairs"],
+          "thumbnail": "http://books.google.com/books/content?id=v1fG97V7EhwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "x1p8f7DsfUgC",
+          "title": "Inside Accounting",
+          "authors": ["David Leung"],
+          "thumbnail": "http://books.google.com/books/content?id=x1p8f7DsfUgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Cognitive Science",
+      "link": "/textbooks/cognitive-science",
+      "books": [
+        {
+          "id": "o33HDwAAQBAJ",
+          "title": "How We Learn",
+          "authors": ["Stanislas Dehaene"],
+          "thumbnail": "http://books.google.com/books/content?id=o33HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "cPq4DQAAQBAJ",
+          "title": "Cognitive Science and the New Testament",
+          "authors": ["István Czachesz"],
+          "thumbnail": "http://books.google.com/books/content?id=cPq4DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "AFaZDgAAQBAJ",
+          "title": "The Digital Mind",
+          "authors": ["Arlindo Oliveira"],
+          "thumbnail": "http://books.google.com/books/content?id=AFaZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Mm0BEAAAQBAJ",
+          "title": "Coming to Our Senses",
+          "authors": ["Susan Barry"],
+          "thumbnail": "http://books.google.com/books/content?id=Mm0BEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "HVqvCwAAQBAJ",
+          "authors": ["Patrick Jagoda"],
+          "title": "Network Aesthetics",
+          "thumbnail": "http://books.google.com/books/content?id=HVqvCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "OfkFEAAAQBAJ",
+          "title": "The Adaptable Mind",
+          "authors": ["John Zerilli"],
+          "thumbnail": "http://books.google.com/books/content?id=OfkFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Multimedia",
+      "link": "/textbooks/multimedia",
+      "books": [
+        {
+          "id": "_FJm5qpyajoC",
+          "title": "Multimedia Cartography",
+          "authors": ["William Cartwright", "Michael P Peterson", "Georg Gartner"],
+          "thumbnail": "http://books.google.com/books/content?id=22OSBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Mn0jNqzVsDgC",
+          "title": "Handbook of Multimedia Computing",
+          "authors": ["Borko Furht"],
+          "thumbnail": "http://books.google.com/books/content?id=Mn0jNqzVsDgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "c3gexQkURnEC",
+          "title": "HTML 5 Multimedia Developer's Guide",
+          "authors": ["Ken Bluttman"],
+          "thumbnail": "http://books.google.com/books/content?id=c3gexQkURnEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "kIFVzQEACAAJ",
+          "title": "Multimedia Learning",
+          "authors": ["Richard E Mayer", "Richard E. Mayer"],
+          "thumbnail": "http://books.google.com/books/content?id=kIFVzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "OORZJ3Fmr_8C",
+          "title": "Multimedia Multiprocessor Systems",
+          "authors": ["Akash Kumar"],
+          "thumbnail": "http://books.google.com/books/content?id=OORZJ3Fmr_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "doOoc3cKyB8C",
+          "title": "Digital Design for Print and Web",
+          "authors": ["John DiMarco"],
+          "thumbnail": "http://books.google.com/books/content?id=doOoc3cKyB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Cardiology",
+      "link": "/textbooks/cardiology",
+      "books": [
+        {
+          "id": "PwFnyAEACAAJ",
+          "title": "Blood Pressure",
+          "authors": ["John Carter"],
+          "thumbnail": "http://books.google.com/books/content?id=PwFnyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "vrc7DwAAQBAJ",
+          "title": "Cardiac Regeneration",
+          "authors": ["Masaki Ieda"],
+          "thumbnail": "http://books.google.com/books/content?id=vrc7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "GYtHDwAAQBAJ",
+          "title": "Cardiovascular Genetics and Genomics",
+          "authors": ["Dhavendra Kumar", "Perry Elliott"],
+          "thumbnail": "http://books.google.com/books/content?id=GYtHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HcJdzQEACAAJ",
+          "title": "Cardiac Diet",
+          "authors": ["Dr John Tyler"],
+          "thumbnail": "http://books.google.com/books/content?id=HcJdzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "uLAm3RrvKr0C",
+          "title": "Vital Signs",
+          "authors": ["Ken Hillman"],
+          "thumbnail": "http://books.google.com/books/content?id=uLAm3RrvKr0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "yiFuQVldGCAC",
+          "title": "The Greater Goal",
+          "authors": ["Ken Jennings"],
+          "thumbnail": "http://books.google.com/books/content?id=yiFuQVldGCAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    },  {
+      "name": "Artificial Intelligence",
+      "link": "/textbooks/artificial-intelligence",
+      "books": [
+        {
+          "id": "arT4DwAAQBAJ",
+          "title": "The AI Advantage",
+          "authors": ["Thomas H. Davenport"],
+          "thumbnail": "http://books.google.com/books/content?id=arT4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ugiiDwAAQBAJ",
+          "title": "AI and Human Thought",
+          "authors": ["Sam Freed"],
+          "thumbnail": "http://books.google.com/books/content?id=ugiiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "5vy_DgAAQBAJ",
+          "title": "Engineering Applications of Soft Computing",
+          "authors": ["Margarita Arimatea"],
+          "thumbnail": "http://books.google.com/books/content?id=5vy_DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "qpm2DwAAQBAJ",
+          "title": "Artificial intelligence",
+          "authors": ["Klaus Mainzer"],
+          "thumbnail": "http://books.google.com/books/content?id=qpm2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "wZ59DwAAQBAJ",
+          "title": "Naming Game",
+          "authors": ["Guanrong Chen", "Yang Lou"],
+          "thumbnail": "http://books.google.com/books/content?id=wZ59DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "8zP5uQEACAAJ",
+          "title": "Hands On Chatbot Development",
+          "authors": ["Sam Williams"],
+          "thumbnail": "http://books.google.com/books/content?id=8zP5uQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }
+      ]
+    },  {
+      "name": "Essays",
+      "link": "/textbooks/essays",
+      "books": [
+        {
+          "id": "qT87DwAAQBAJ",
+          "title": "Chronicles of a Liquid Society",
+          "authors": ["Umberto Eco"],
+          "thumbnail": "http://books.google.com/books/content?id=qT87DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "aOgGEAAAQBAJ",
+          "title": "Idiot",
+          "authors": ["Laura Clery"],
+          "thumbnail": "http://books.google.com/books/content?id=aOgGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "3aVBDwAAQBAJ",
+          "title": "A Woman Looking at Men Looking at Women",
+          "authors": ["Siri Hustvedt"],
+          "thumbnail": "http://books.google.com/books/content?id=3aVBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "VnMtBAAAQBAJ",
+          "title": "100 Essays I Don't Have Time to Write",
+          "authors": ["Sarah Ruhl"],
+          "thumbnail": "http://books.google.com/books/content?id=VnMtBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "D9EzDwAAQBAJ",
+          "title": "Bear Witness to Murder",
+          "authors": ["Meg Macy"],
+          "thumbnail": "http://books.google.com/books/content?id=D9EzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "VUk9AwAAQBAJ",
+          "title": "The Opposite of Loneliness",
+          "authors": ["Marina Keegan"],
+          "thumbnail": "http://books.google.com/books/content?id=VUk9AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "name": "Labor Economics",
+      "link": "/textbooks/labor-economics",
+      "books": [
+        {
+          "id": "BQ3BDwAAQBAJ",
+          "title": "Economics and Ageing",
+          "authors": ["José Luis Iparraguirre"],
+          "thumbnail": "http://books.google.com/books/content?id=BQ3BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "sl27hPUYJhoC",
+          "title": "Getting to Scale",
+          "authors": ["Laurence Chandy"],
+          "thumbnail": "http://books.google.com/books/content?id=sl27hPUYJhoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "R2vLDwAAQBAJ",
+          "title": "Conspicuous Employment",
+          "authors": ["Benjamin Berghaus"],
+          "thumbnail": "http://books.google.com/books/content?id=R2vLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "MjmWAwAAQBAJ",
+          "title": "Capitalism and Classical Social Theory",
+          "authors": ["John Bratton"],
+          "thumbnail": "http://books.google.com/books/content?id=MjmWAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "atGuDwAAQBAJ",
+          "title": "Women and Labour Market Dynamics",
+          "authors": ["Balwant Singh Mehta", "Ishwar Chandra Awasthi"],
+          "thumbnail": "http://books.google.com/books/content?id=atGuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "YY23DwAAQBAJ",
+          "title": "Work-Life Balance and Women's Entrepreneurship",
+          "authors": ["Claire Sophie Zerwas"],
+          "thumbnail": "http://books.google.com/books/content?id=YY23DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Algebra",
+      "link": "/textbooks/algebra",
+      "books": [
+        {
+          "id": "Gda8DwAAQBAJ",
+          "title": "The Secret Formula",
+          "authors": ["Fabio Toscano"],
+          "thumbnail": "http://books.google.com/books/content?id=Gda8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "LfJdDwAAQBAJ",
+          "title": "Applied Linear Algebra",
+          "authors": ["Peter J. Olver", "Chehrzad Shakiban"],
+          "thumbnail": "http://books.google.com/books/content?id=LfJdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "OQNKDwAAQBAJ",
+          "title": "Modern Higher Algebra",
+          "authors": ["Abraham Adrian Albert"],
+          "thumbnail": "http://books.google.com/books/content?id=OQNKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "K5ZaDwAAQBAJ",
+          "title": "Linear Algebra and Analytic Geometry for Physical Sciences",
+          "authors": ["Giovanni Landi", "Alessandro Zampini"],
+          "thumbnail": "http://books.google.com/books/content?id=K5ZaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "gl1oDwAAQBAJ",
+          "title": "A History of Abstract Algebra",
+          "authors": ["Jeremy Gray"],
+          "thumbnail": "http://books.google.com/books/content?id=gl1oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "f6WxGObhZmEC",
+          "title": "Algebraic Geometry Modeling in Information Theory",
+          "authors": ["Edgar Martínez Moro"],
+          "thumbnail": "http://books.google.com/books/content?id=MkG6CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Astronomy",
+      "link": "/textbooks/astronomy",
+      "books": [
+        {
+          "id": "sozODwAAQBAJ",
+          "title": "Cosmos Possible Worlds",
+          "authors": ["Ann Druyan"],
+          "thumbnail": "http://books.google.com/books/content?id=sozODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oTCdDwAAQBAJ",
+          "title": "Planetary Geoscience",
+          "authors": ["Harry Y McSween Jr"],
+          "thumbnail": "http://books.google.com/books/content?id=oTCdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "GHJdDwAAQBAJ",
+          "title": "Wacky and Wonderful Misconceptions About Our Universe",
+          "authors": ["Geoffrey Kirby"],
+          "thumbnail": "http://books.google.com/books/content?id=GHJdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "y2OsDwAAQBAJ",
+          "title": "Probability in Physics",
+          "authors": ["Andy Lawrence"],
+          "thumbnail": "http://books.google.com/books/content?id=y2OsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "QO51DwAAQBAJ",
+          "title": "When the Earth Was Flat",
+          "authors": ["Dirk L. Couprie"],
+          "thumbnail": "http://books.google.com/books/content?id=QO51DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "f4pWDwAAQBAJ",
+          "title": "Galileo Galilei, The Tuscan Artist",
+          "authors": ["Pietro Greco"],
+          "thumbnail": "http://books.google.com/books/content?id=f4pWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Furniture",
+      "link": "/textbooks/furniture",
+      "books": [
+        {
+          "id": "kVRJAQAAIAAJ",
+          "title": "Furniture from British India and Ceylon",
+          "authors": ["Amin Jaffer", "Karina Corrigan", "Victoria and Albert Museum"],
+          "thumbnail": "http://books.google.com/books/content?id=kVRJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "XFOOjwEACAAJ",
+          "title": "American Furniture",
+          "authors": ["Oscar P. Fitzgerald"],
+          "thumbnail": "http://books.google.com/books/content?id=XFOOjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "BbPhk4Hoy3UC",
+          "title": "Made in America",
+          "authors": ["Claude Fisher"],
+          "thumbnail": "http://books.google.com/books/content?id=BbPhk4Hoy3UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "w1YMAwAAQBAJ",
+          "title": "Reading Seattle",
+          "authors": ["Peter Donahue"],
+          "thumbnail": "http://books.google.com/books/content?id=w1YMAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "lXS9Nl0Ei7EC",
+          "title": "Extravagant Inventions",
+          "authors": ["Wolfram Koeppe"],
+          "thumbnail": "http://books.google.com/books/content?id=lXS9Nl0Ei7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "eFEM_QsmZeoC",
+          "title": "The Story of Western Furniture",
+          "authors": ["Phyllis Bennett Oates"],
+          "thumbnail": "http://books.google.com/books/content?id=eFEM_QsmZeoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Cryptography",
+      "link": "/textbooks/cryptography",
+      "books": [
+        {
+          "id": "JWgqDAAAQBAJ",
+          "title": "Code Warriors",
+          "authors": ["Stephen Budiansky"],
+          "thumbnail": "http://books.google.com/books/content?id=JWgqDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "fvywDAAAQBAJ",
+          "title": "Decentralized Applications",
+          "authors": ["Siraj Raval"],
+          "thumbnail": "http://books.google.com/books/content?id=fvywDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "48rfPEiv9eIC",
+          "title": "Computability in Context",
+          "authors": ["Barry Cooper"],
+          "thumbnail": "http://books.google.com/books/content?id=48rfPEiv9eIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "y9uyDwAAQBAJ",
+          "title": "A Course in Cryptography",
+          "authors": ["Heiko Knospe"],
+          "thumbnail": "http://books.google.com/books/content?id=y9uyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4TRKAAAAQBAJ",
+          "title": "Mortal Crimes",
+          "authors": ["Nigel West"],
+          "thumbnail": "http://books.google.com/books/content?id=4TRKAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "f6WxGObhZmEC",
+          "title": "Algebraic Geometry Modeling in Information Theory",
+          "authors": ["Edgar Martínez Moro"],
+          "thumbnail": "http://books.google.com/books/content?id=MkG6CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Music Theory",
+      "link": "/textbooks/music-theory",
+      "books": [
+        {
+          "id": "EQovDwAAQBAJ",
+          "title": "Music Theory 101",
+          "authors": ["Brian Boone", "Marc Schonbrun"],
+          "thumbnail": "http://books.google.com/books/content?id=EQovDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vZKwDwAAQBAJ",
+          "title": "Enacting Musical Time",
+          "authors": ["Mariusz Kozak"],
+          "thumbnail": "http://books.google.com/books/content?id=vZKwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "JBUBDQAAQBAJ",
+          "title": "Music and the French Enlightenment",
+          "authors": ["Cynthia Verba"],
+          "thumbnail": "http://books.google.com/books/content?id=JBUBDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "MiIlDwAAQBAJ",
+          "title": "Popular Music Theory and Analysis",
+          "authors": ["Thomas Robinson"],
+          "thumbnail": "http://books.google.com/books/content?id=MiIlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "WFlOBwAAQBAJ",
+          "title": "Music Theory For Beginners",
+          "authors": ["R. Ryan Endris"],
+          "thumbnail": "http://books.google.com/books/content?id=WFlOBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vmsVBinC8IkC",
+          "title": "Music Fundamentals for Dance",
+          "authors": ["Nola Nolen Holland"],
+          "thumbnail": "http://books.google.com/books/content?id=vmsVBinC8IkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "name": "Sculpture",
+      "link": "/textbooks/sculpture",
+      "books": [
+        {
+          "id": "O5n7vsgE6nUC",
+          "title": "Sculpture Off the Pedestal",
+          "authors": ["Joan B. Altabe"],
+          "thumbnail": "http://books.google.com/books/content?id=O5n7vsgE6nUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ZgtEwZUGtggC",
+          "title": "The Nation Made Real",
+          "authors": ["Anthony D. Smith"],
+          "thumbnail": "http://books.google.com/books/content?id=ZgtEwZUGtggC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "MawOyCCWR9gC",
+          "title": "Brooklyn Public Monuments",
+          "authors": ["Elmer Sprague"],
+          "thumbnail": "http://books.google.com/books/content?id=MawOyCCWR9gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "EOeLDwAAQBAJ",
+          "title": "The Destruction of Art",
+          "authors": ["Dario Gamboni"],
+          "thumbnail": "http://books.google.com/books/content?id=EOeLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "CXZgR1riM5wC",
+          "title": "Sculpture",
+          "authors": ["Johann Gottfried Herder"],
+          "thumbnail": "http://books.google.com/books/content?id=CXZgR1riM5wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "bhkhS9A8eawC",
+          "title": "Sculpture and Its Reproductions",
+          "authors": ["Anthony Hughes", "Erich Ranfft"],
+          "thumbnail": "http://books.google.com/books/content?id=bhkhS9A8eawC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Taoism",
+      "link": "/textbooks/taoism",
+      "books": [
+        {
+          "id": "PTvqDAAAQBAJ",
+          "title": "The Tao of Craft",
+          "authors": ["Benebell Wen"],
+          "thumbnail": "http://books.google.com/books/content?id=PTvqDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Dm_JDwAAQBAJ",
+          "title": "Full Potential: Daoist Wisdom Meets Western Psychology",
+          "authors": ["Livia Kohn"],
+          "thumbnail": "http://books.google.com/books/content?id=Dm_JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "VaswDwAAQBAJ",
+          "title": "Sufism and Taoism",
+          "authors": ["Toshihiko Izutsu"],
+          "thumbnail": "http://books.google.com/books/content?id=VaswDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "n2eKDQAAQBAJ",
+          "title": "Trying Not to Try",
+          "authors": ["Edward Gilman Slingerland"],
+          "thumbnail": "http://books.google.com/books/content?id=n2eKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "s5RBDwAAQBAJ",
+          "title": "The Tao of Joy Every Day",
+          "authors": ["Derek Lin"],
+          "thumbnail": "http://books.google.com/books/content?id=s5RBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "BWKEI2oxrR8C",
+          "title": "Foundations of Internal Alchemy",
+          "authors": ["Mu Wang"],
+          "thumbnail": "http://books.google.com/books/content?id=BWKEI2oxrR8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Agricultural Economics",
+      "link": "/textbooks/agricultural-economics",
+      "books": [
+        {
+          "id": "e53aDwAAQBAJ",
+          "title": "Agricultural Policy of the United States",
+          "authors": ["Stephanie A. Mercier", "Steve A. Halbrook"],
+          "thumbnail": "http://books.google.com/books/content?id=e53aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "2ATaDwAAQBAJ",
+          "title": "Sustainable Food Chains and Ecosystems",
+          "authors": ["Konstantinos Mattas", "Henk Kievit", "Gert van Dijk", "George Baourakis", "Constantin Zopounidis"],
+          "thumbnail": "http://books.google.com/books/content?id=2ATaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vKDSDwAAQBAJ",
+          "title": "Sustainable Agricultural Development",
+          "authors": ["John M. Antle", "Srabashi Ray"],
+          "thumbnail": "http://books.google.com/books/content?id=vKDSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "LXB_DwAAQBAJ",
+          "title": "Social Life Cycle Assessment",
+          "authors": ["Subramanian Senthilkannan Muthu"],
+          "thumbnail": "http://books.google.com/books/content?id=LXB_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Sh2KDwAAQBAJ",
+          "title": "Exemplary Agriculture",
+          "authors": ["Sacha Cody"],
+          "thumbnail": "http://books.google.com/books/content?id=Sh2KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "BJebDwAAQBAJ",
+          "title": "The Economics of Global Allocations of the Green Climate Fund",
+          "authors": ["S. Niggol Seo"],
+          "thumbnail": "http://books.google.com/books/content?id=BJebDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Power Resources",
+      "link": "/textbooks/power-resources",
+      "books": [
+        {
+          "id": "Uys0DwAAQBAJ",
+          "title": "Windfall",
+          "authors": ["Meghan L. O'Sullivan"],
+          "thumbnail": "http://books.google.com/books/content?id=Uys0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "NrnTDAAAQBAJ",
+          "title": "Harness the Sun",
+          "authors": ["Philip Warburg"],
+          "thumbnail": "http://books.google.com/books/content?id=NrnTDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Br74DwAAQBAJ",
+          "title": "Energy and Civilization",
+          "authors": ["Vaclav Smil"],
+          "thumbnail": "http://books.google.com/books/content?id=Br74DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "0KOUBgAAQBAJ",
+          "title": "Geofuels",
+          "authors": ["Alan R. Carroll"],
+          "thumbnail": "http://books.google.com/books/content?id=0KOUBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "An_XCwAAQBAJ",
+          "title": "The Future of Clean Energy",
+          "authors": ["Gary Schwendiman"],
+          "thumbnail": "http://books.google.com/books/content?id=An_XCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "DK6mCQAAQBAJ",
+          "title": "Driven by Demand",
+          "authors": ["Jimmy Y. Jia", "Jason Crabtree"],
+          "thumbnail": "http://books.google.com/books/content?id=DK6mCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Anthropology",
+      "link": "/textbooks/anthropology",
+      "books": [
+        {
+          "id": "bGS6CwAAQBAJ",
+          "title": "What We Now Know About Race and Ethnicity",
+          "authors": ["Michael Banton"],
+          "thumbnail": "http://books.google.com/books/content?id=bGS6CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "P6swDwAAQBAJ",
+          "title": "Scale",
+          "authors": ["E. Summerson Carr", "Michael Lempert"],
+          "thumbnail": "http://books.google.com/books/content?id=P6swDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HSSaCgAAQBAJ",
+          "title": "Organs for Sale",
+          "authors": ["Susanne Lundin"],
+          "thumbnail": "http://books.google.com/books/content?id=HSSaCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4bQwDwAAQBAJ",
+          "title": "The Indigenous State",
+          "authors": ["Nancy Postero"],
+          "thumbnail": "http://books.google.com/books/content?id=4bQwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "sSyuDQAAQBAJ",
+          "title": "How Generations Remember",
+          "authors": ["Monika Palmberger"],
+          "thumbnail": "http://books.google.com/books/content?id=sSyuDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "2FwICgAAQBAJ",
+          "title": "Foundations of Civil Justice",
+          "authors": ["Fabien Gélinas", "Clément Camion", "Karine Bates", "Siena Anstis", "Catherine Piché", "Mariko Khan", "Emily Grant"],
+          "thumbnail": "http://books.google.com/books/content?id=2FwICgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Botany",
+      "link": "/textbooks/botany",
+      "books": [
+        {
+          "id": "9ug7DwAAQBAJ",
+          "title": "Letters on the Elements of Botany",
+          "authors": ["Jean-Jacques Rousseau"],
+          "thumbnail": "http://books.google.com/books/content?id=9ug7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "1ksfDgAAQBAJ",
+          "title": "Industrial Entomology",
+          "authors": ["Omkar"],
+          "thumbnail": "http://books.google.com/books/content?id=1ksfDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "FWgZAwAAQBAJ",
+          "title": "A Voyage into the Levant",
+          "authors": ["Joseph Pitton de Tournefort"],
+          "thumbnail": "http://books.google.com/books/content?id=FWgZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "0BGEs95p5EsC",
+          "title": "Botany",
+          "authors": ["James D. Mauseth"],
+          "thumbnail": "http://books.google.com/books/content?id=0BGEs95p5EsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "VAQMCAAAQBAJ",
+          "title": "Plant Physiological Ecology",
+          "authors": ["Hans Lambers", "F. Stuart Chapin III", "Thijs L. Pons"],
+          "thumbnail": "http://books.google.com/books/content?id=VAQMCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ioazBgAAQBAJ",
+          "title": "Introduction to Plant Science",
+          "authors": ["National Agricultural Institute"],
+          "thumbnail": "http://books.google.com/books/content?id=ioazBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "name": "Biology",
+      "link": "/textbooks/biology",
+      "books": [
+        {
+          "id": "V2pNDwAAQBAJ",
+          "title": "Skeletons",
+          "authors": ["Jan Zalasiewicz", "Mark Williams"],
+          "thumbnail": "http://books.google.com/books/content?id=V2pNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "nlHYDgAAQBAJ",
+          "title": "Handbook of Biology and Politics",
+          "authors": ["Steven A. Peterson", "Albert Somit"],
+          "thumbnail": "http://books.google.com/books/content?id=nlHYDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "b2IwDwAAQBAJ",
+          "title": "Challenging the Modern Synthesis",
+          "authors": ["Philippe Huneman", "Denis M. Walsh"],
+          "thumbnail": "http://books.google.com/books/content?id=b2IwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "JuG2CwAAQBAJ",
+          "title": "Crowdsourced Health",
+          "authors": ["Elad Yom-Tov"],
+          "thumbnail": "http://books.google.com/books/content?id=JuG2CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "klnWDAAAQBAJ",
+          "title": "Biological Classification",
+          "authors": ["Richard A. Richards"],
+          "thumbnail": "http://books.google.com/books/content?id=klnWDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "zkECDAAAQBAJ",
+          "title": "Life at the Speed of Light",
+          "authors": ["J. Craig Venter"],
+          "thumbnail": "http://books.google.com/books/content?id=zkECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Taxation",
+      "link": "/textbooks/taxation",
+      "books": [
+        {
+          "id": "XtGoDwAAQBAJ",
+          "title": "Tax Credits for the Working Poor",
+          "authors": ["Michelle Lyon Drumbl"],
+          "thumbnail": "http://books.google.com/books/content?id=XtGoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "D8NHDwAAQBAJ",
+          "title": "How Do I Tax Thee?",
+          "authors": ["Kristin Tate"],
+          "thumbnail": "http://books.google.com/books/content?id=D8NHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "GIOWDwAAQBAJ",
+          "title": "The Political Economy of Taxation in Latin America",
+          "authors": ["Gustavo Flores-Macías"],
+          "thumbnail": "http://books.google.com/books/content?id=GIOWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "QTctDgAAQBAJ",
+          "title": "Cutting Taxes",
+          "authors": ["Hannes H. Gissurarson"],
+          "thumbnail": "http://books.google.com/books/content?id=QTctDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "H8JLgYcK3fYC",
+          "title": "The Making of Tax Law",
+          "authors": ["Sven-Olof Lodin"],
+          "thumbnail": "http://books.google.com/books/content?id=H8JLgYcK3fYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "r2KaDgAAQBAJ",
+          "title": "A Fine Mess",
+          "authors": ["T. R. Reid"],
+          "thumbnail": "http://books.google.com/books/content?id=r2KaDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Composers",
+      "link": "/textbooks/composers",
+      "books": [
+        {
+          "id": "8TfpDwAAQBAJ",
+          "title": "Beethoven: Variations on a Life",
+          "authors": ["Mark Evan Bonds"],
+          "thumbnail": "http://books.google.com/books/content?id=8TfpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "r10yDwAAQBAJ",
+          "title": "Mozart in Vienna",
+          "authors": ["Simon P. Keefe"],
+          "thumbnail": "http://books.google.com/books/content?id=r10yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ial2DwAAQBAJ",
+          "title": "The Indispensable Composers",
+          "authors": ["Anthony Tommasini"],
+          "thumbnail": "http://books.google.com/books/content?id=ial2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ngJfDwAAQBAJ",
+          "title": "Carter",
+          "authors": ["David Schiff"],
+          "thumbnail": "http://books.google.com/books/content?id=ngJfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "nkUlBQAAQBAJ",
+          "title": "Liszt's Final Decade",
+          "authors": ["Dolores Pesce"],
+          "thumbnail": "http://books.google.com/books/content?id=nkUlBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "b6hcDwAAQBAJ",
+          "title": "Forces in Motion",
+          "authors": ["Graham Lock"],
+          "thumbnail": "http://books.google.com/books/content?id=b6hcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "World History",
+      "link": "/textbooks/world-history",
+      "books": [
+        {
+          "id": "_J2SDwAAQBAJ",
+          "title": "A Global History of Anti-Apartheid",
+          "authors": ["Anna Konieczna", "Rob Skinner"],
+          "thumbnail": "http://books.google.com/books/content?id=_J2SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "rlU3DwAAQBAJ",
+          "title": "World History 101",
+          "authors": ["Tom Head"],
+          "thumbnail": "http://books.google.com/books/content?id=rlU3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "TzU7DwAAQBAJ",
+          "title": "Imperial History and the Global Politics of Exclusion",
+          "authors": ["Amanda Behm"],
+          "thumbnail": "http://books.google.com/books/content?id=TzU7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "QDA5DwAAQBAJ",
+          "title": "A History of the Baltic States",
+          "authors": ["Andres Kasekamp"],
+          "thumbnail": "http://books.google.com/books/content?id=QDA5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "cEWwDwAAQBAJ",
+          "title": "A People's History of the World",
+          "authors": ["Chris Harman"],
+          "thumbnail": "http://books.google.com/books/content?id=cEWwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "vRJhDgAAQBAJ",
+          "title": "The History of US-Japan Relations",
+          "authors": ["Makoto Iokibe", "Tosh Minohara"],
+          "thumbnail": "http://books.google.com/books/content?id=vRJhDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "General Education",
+      "link": "/textbooks/general-education",
+      "books": [
+        {
+          "id": "bZnqDwAAQBAJ",
+          "title": "Cultural Competence and the Higher Education Sector",
+          "authors": ["Jack Frawley", "Gabrielle Russell", "Juanita Sherwood"],
+          "thumbnail": "http://books.google.com/books/content?id=bZnqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "rsC_DwAAQBAJ",
+          "title": "Systematic Reviews in Educational Research",
+          "authors": ["Olaf Zawacki-Richter", "Michael Kerres", "Svenja Bedenlier", "Melissa Bond", "Katja Buntins"],
+          "thumbnail": "http://books.google.com/books/content?id=rsC_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "fp_YDwAAQBAJ",
+          "title": "Empowering Teachers to Build a Better World",
+          "authors": ["Fernando M Reimers"],
+          "thumbnail": "http://books.google.com/books/content?id=fp_YDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "rJ__DAAAQBAJ",
+          "title": "Affirmative Action for All Our Children",
+          "authors": ["Alain F. Corcos"],
+          "thumbnail": "http://books.google.com/books/content?id=rJ__DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "dhxrDwAAQBAJ",
+          "title": "Young People's Views of Government, Peaceful Coexi",
+          "authors": ["Wolfram Schulz", "John Ainley", "Cristián Cox", "Tim Friedman"],
+          "thumbnail": "http://books.google.com/books/content?id=dhxrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xdTkDwAAQBAJ",
+          "title": "Radical Solutions and Open Science",
+          "authors": ["Daniel Burgos"],
+          "thumbnail": "http://books.google.com/books/content?id=xdTkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Public Health & Safety",
+      "link": "/textbooks/public-health-safety",
+      "books": [
+        {
+          "id": "uUSfDwAAQBAJ",
+          "title": "Teaching Public Health",
+          "authors": ["Lisa M. Sullivan", "Sandro Galea"],
+          "thumbnail": "http://books.google.com/books/content?id=uUSfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "RtKdDwAAQBAJ",
+          "title": "Transportation and Public Health",
+          "authors": ["Sam Elrahman", "Michael Meyer"],
+          "thumbnail": "http://books.google.com/books/content?id=RtKdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "q5yeBgAAQBAJ",
+          "title": "A History of Public Health",
+          "authors": ["George Rosen", "Biographical Essay", "New Bibliography by Edward T. Morman."],
+          "thumbnail": "http://books.google.com/books/content?id=q5yeBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "RDhpK69I5c0C",
+          "title": "Public Health Law",
+          "authors": ["Larry Ogalthorpe Gostin", "Lawrence O. Gostin"],
+          "thumbnail": "http://books.google.com/books/content?id=RDhpK69I5c0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "iE8SXPGGbeMC",
+          "title": "Global Public Health",
+          "authors": ["Franklin White", "Lorann Stallones", "John M. Last"],
+          "thumbnail": "http://books.google.com/books/content?id=iE8SXPGGbeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Z9MDYPcEbRQC",
+          "title": "Tobacco and Public Health",
+          "authors": ["Senior Research Associate Division of Epidemiology and Biostatistics Nigel Gray", "Peter Boyle", "Jack Henningfield", "Nigel Gray", "Witold Zatonski", "John Seffrin", "Director Division of Cancer Epidemiology and Prevention Witold Zatonski"],
+          "thumbnail": "http://books.google.com/books/content?id=Z9MDYPcEbRQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "name": "Physics",
+      "link": "/textbooks/physics",
+      "books": [
+        {
+          "id": "ppCuDwAAQBAJ",
+          "title": "Physics and Psychics",
+          "authors": ["Richard Noakes"],
+          "thumbnail": "http://books.google.com/books/content?id=ppCuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "GpXFDwAAQBAJ",
+          "title": "Nano and Quantum Optics",
+          "authors": ["Ulrich Hohenester"],
+          "thumbnail": "http://books.google.com/books/content?id=GpXFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "VCbsDwAAQBAJ",
+          "title": "Computer Meets Theoretical Physics",
+          "authors": ["Giovanni Battimelli", "Giovanni Ciccotti", "Pietro Greco"],
+          "thumbnail": "http://books.google.com/books/content?id=VCbsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "LLzoDwAAQBAJ",
+          "title": "A Mathematical Journey to Relativity",
+          "authors": ["Wladimir-Georges Boskoff"],
+          "thumbnail": "http://books.google.com/books/content?id=LLzoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4T2lDwAAQBAJ",
+          "title": "Fundamentals of Physics I",
+          "authors": ["R. Shankar"],
+          "thumbnail": "http://books.google.com/books/content?id=4T2lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "hsEyDwAAQBAJ",
+          "title": "Fluid-structure Interactions",
+          "authors": ["Thomas Richter"],
+          "thumbnail": "http://books.google.com/books/content?id=hsEyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Accounting",
+      "link": "/textbooks/accounting",
+      "books": [
+        {
+          "id": "qi1wDwAAQBAJ",
+          "title": "Accounting: An Introduction to Principles and Practice 9ed",
+          "authors": ["Edward A. Clarke", "Michael Wilson"],
+          "thumbnail": "http://books.google.com/books/content?id=qi1wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "QUmvDwAAQBAJ",
+          "title": "Transfer Pricing in One Lesson",
+          "authors": ["Oliver Treidler"],
+          "thumbnail": "http://books.google.com/books/content?id=QUmvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "7JSgDwAAQBAJ",
+          "title": "Financial and Management Accounting",
+          "authors": ["Pauline Weetman"],
+          "thumbnail": "http://books.google.com/books/content?id=7JSgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "erJCDwAAQBAJ",
+          "title": "Financial Modeling",
+          "authors": ["Joachim Häcker", "Dietmar Ernst"],
+          "thumbnail": "http://books.google.com/books/content?id=erJCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "gPncDAAAQBAJ",
+          "title": "Tax Fraud & Forensic Accounting",
+          "authors": ["Christian Hlavica", "Frank Hülsberg", "Uwe Klapproth"],
+          "thumbnail": "http://books.google.com/books/content?id=gPncDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "U5XLDQAAQBAJ",
+          "title": "New Trends in Finance and Accounting",
+          "authors": ["David Procházka"],
+          "thumbnail": "http://books.google.com/books/content?id=U5XLDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Health Care",
+      "link": "/textbooks/health-care",
+      "books": [
+        {
+          "id": "zVBjKdBo2ioC",
+          "title": "Power, Politics, and Universal Health Care",
+          "authors": ["Stuart Altman"],
+          "thumbnail": "http://books.google.com/books/content?id=zVBjKdBo2ioC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "EViEDwAAQBAJ",
+          "title": "The Price We Pay",
+          "authors": ["Marty Makary"],
+          "thumbnail": "http://books.google.com/books/content?id=EViEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "I9dWdhufV_0C",
+          "title": "Health Care Marketing",
+          "authors": ["Philip D. Cooper"],
+          "thumbnail": "http://books.google.com/books/content?id=I9dWdhufV_0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "nN3QUmC-F7EC",
+          "title": "The Company That Solved Health Care",
+          "authors": ["John Torinus (Jr.)"],
+          "thumbnail": "http://books.google.com/books/content?id=nN3QUmC-F7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "MxN_F02be4sC",
+          "title": "Transforming Health Care",
+          "authors": ["Charles Kenney"],
+          "thumbnail": "http://books.google.com/books/content?id=MxN_F02be4sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "jEEErLTiOz8C",
+          "title": "Health Care Ethics",
+          "authors": ["Benedict M. Ashley, OP"],
+          "thumbnail": "http://books.google.com/books/content?id=jEEErLTiOz8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Aerospace Engineering",
+      "link": "/textbooks/aerospace-engineering",
+      "books": [
+        {
+          "id": "RdTkDwAAQBAJ",
+          "title": "Computational Aerodynamics and Aeroacoustics",
+          "authors": ["Tapan K. Sengupta", "Yogesh G. Bhumkar"],
+          "thumbnail": "http://books.google.com/books/content?id=RdTkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "QJbiDwAAQBAJ",
+          "title": "European Missions to the International Space Station",
+          "authors": ["John O'Sullivan"],
+          "thumbnail": "http://books.google.com/books/content?id=QJbiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "cOzcDwAAQBAJ",
+          "title": "Unsteady Supersonic Combustion",
+          "authors": ["Mingbo Sun", "Hongbo Wang", "Zun Cai", "Jiajian Zhu"],
+          "thumbnail": "http://books.google.com/books/content?id=cOzcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "DLEHEAAAQBAJ",
+          "title": "Design of Supporting Systems for Life in Outer Space",
+          "authors": ["Annalisa Dominoni"],
+          "thumbnail": "http://books.google.com/books/content?id=DLEHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "BaP0DwAAQBAJ",
+          "title": "Satellite Navigation Systems and Technologies",
+          "authors": ["Jun Xie", "Haihong Wang", "Peng Li", "Yansong Meng"],
+          "thumbnail": "http://books.google.com/books/content?id=BaP0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "m5f5DwAAQBAJ",
+          "title": "Aerospace System Analysis and Optimization in Uncertainty",
+          "authors": ["Loïc Brevault"],
+          "thumbnail": "http://books.google.com/books/content?id=m5f5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Zoology",
+      "link": "/textbooks/zoology",
+      "books": [
+        {
+          "id": "Q57WCwAAQBAJ",
+          "title": "Marine Ecological Processes",
+          "authors": ["Ivan Valiela"],
+          "thumbnail": "http://books.google.com/books/content?id=Q57WCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "nMxPDwAAQBAJ",
+          "title": "Antarctica",
+          "authors": ["Tony Soper"],
+          "thumbnail": "http://books.google.com/books/content?id=nMxPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "5PCkCQAAQBAJ",
+          "title": "Animal, Vegetable, Mineral?",
+          "authors": ["Susannah Gibson"],
+          "thumbnail": "http://books.google.com/books/content?id=5PCkCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "MDE5DwAAQBAJ",
+          "title": "Ecotourism’s Promise and Peril",
+          "authors": ["Daniel T. Blumstein", "Benjamin Geffroy", "Diogo S. M. Samia", "Eduardo Bessa"],
+          "thumbnail": "http://books.google.com/books/content?id=MDE5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PbtaDwAAQBAJ",
+          "title": "Biology of Rove Beetles (Staphylinidae)",
+          "authors": ["Oliver Betz", "Ulrich Irmler", "Jan Klimaszewski"],
+          "thumbnail": "http://books.google.com/books/content?id=PbtaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "TElmBAAAQBAJ",
+          "title": "Man and Animal",
+          "authors": ["Hermann Poppelbaum"],
+          "thumbnail": "http://books.google.com/books/content?id=TElmBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Criminal Law",
+      "link": "/textbooks/criminal-law",
+      "books": [
+        {
+          "id": "vWBODwAAQBAJ",
+          "title": "Memory and Punishment",
+          "authors": ["Emanuela Fronza"],
+          "thumbnail": "http://books.google.com/books/content?id=vWBODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "rj18DwAAQBAJ",
+          "title": "Cyber Criminology",
+          "authors": ["Hamid Jahankhani"],
+          "thumbnail": "http://books.google.com/books/content?id=rj18DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "DE5VBQAAQBAJ",
+          "title": "The Oxford Handbook of Criminal Law",
+          "authors": ["Markus Dirk Dubber"],
+          "thumbnail": "http://books.google.com/books/content?id=DE5VBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "90ZODwAAQBAJ",
+          "title": "Building the Prison State",
+          "authors": ["Heather Schoenfeld"],
+          "thumbnail": "http://books.google.com/books/content?id=90ZODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "_32QDAAAQBAJ",
+          "title": "Domestic Violence",
+          "authors": ["Sarah Hilder", "Vanessa Bettinson"],
+          "thumbnail": "http://books.google.com/books/content?id=_32QDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "A8YmDgAAQBAJ",
+          "title": "Women, Law and Culture",
+          "authors": ["Jocelynne A. Scutt"],
+          "thumbnail": "http://books.google.com/books/content?id=A8YmDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "name": "Ions",
+      "link": "/textbooks/ions",
+      "books": [
+        {
+          "id": "TwDcQCKrIy0C",
+          "title": "Solid State Ionics",
+          "authors": ["B. V. R. Chowdari"],
+          "thumbnail": "http://books.google.com/books/content?id=TwDcQCKrIy0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "SSD7AAAAQBAJ",
+          "title": "Electron Paramagnetic Resonance of Transition Ions",
+          "authors": ["A. Abragam", "B. Bleaney"],
+          "thumbnail": "http://books.google.com/books/content?id=SSD7AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PI7mCwAAQBAJ",
+          "title": "Atomic Physics in Hot Plasmas",
+          "authors": ["David Salzmann"],
+          "thumbnail": "http://books.google.com/books/content?id=PI7mCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "glRJordpd54C",
+          "title": "ZEKE Spectroscopy",
+          "authors": ["E. W. Schlag"],
+          "thumbnail": "http://books.google.com/books/content?id=glRJordpd54C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "gKpPYgEACAAJ",
+          "title": "Ion Beam Bioengineering Research",
+          "authors": ["S. Anuntalabhochai", "L. D. Yu", "Thiraphat Vilaithong"],
+          "thumbnail": "http://books.google.com/books/content?id=gKpPYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, {
+          "id": "PIMh_Bq9UgAC",
+          "title": "Electro-diffusion of Ions",
+          "authors": ["Isaak Rubinstein"],
+          "thumbnail": "http://books.google.com/books/content?id=PIMh_Bq9UgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Letters",
+      "link": "/textbooks/letters",
+      "books": [
+        {
+          "id": "__9FDwAAQBAJ",
+          "title": "Nowhere Near You",
+          "authors": ["Leah Thomas"],
+          "thumbnail": "http://books.google.com/books/content?id=__9FDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "GurZDQAAQBAJ",
+          "title": "Beautiful Broken Girls",
+          "authors": ["Kim Savage"],
+          "thumbnail": "http://books.google.com/books/content?id=GurZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "OJhCDgAAQBAJ",
+          "title": "Letters to the Lost",
+          "authors": ["Brigid Kemmerer"],
+          "thumbnail": "http://books.google.com/books/content?id=OJhCDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "6blvDwAAQBAJ",
+          "title": "Captain Swing",
+          "authors": ["Eric Hobsbawm", "George Rudé"],
+          "thumbnail": "http://books.google.com/books/content?id=6blvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "avJEDAAAQBAJ",
+          "title": "Amy Snow",
+          "authors": ["Tracy Rees"],
+          "thumbnail": "http://books.google.com/books/content?id=avJEDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "77c2DwAAQBAJ",
+          "title": "Dear Martin",
+          "authors": ["Nic Stone"],
+          "thumbnail": "http://books.google.com/books/content?id=77c2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Inventors",
+      "link": "/textbooks/inventors",
+      "books": [
+        {
+          "id": "KYx8DwAAQBAJ",
+          "title": "The Real Benjamin Franklin",
+          "authors": ["Jessica Gunderson"],
+          "thumbnail": "http://books.google.com/books/content?id=KYx8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "rzQpDwAAQBAJ",
+          "title": "Leonardo Da Vinci",
+          "authors": ["Diego Agrimbau", "Diego Aballay"],
+          "thumbnail": "http://books.google.com/books/content?id=rzQpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "HGnmX5WR2BAC",
+          "title": "Thomas Edison",
+          "authors": ["Charles E. Pederson"],
+          "thumbnail": "http://books.google.com/books/content?id=HGnmX5WR2BAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "zziDYEuNbwMC",
+          "title": "Preston Tucker & Others",
+          "authors": ["Arvid Linde"],
+          "thumbnail": "http://books.google.com/books/content?id=zziDYEuNbwMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "A6l2DwAAQBAJ",
+          "title": "Wright Brothers, Wrong Story",
+          "authors": ["William Hazelgrove"],
+          "thumbnail": "http://books.google.com/books/content?id=A6l2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Fhj8BAAAQBAJ",
+          "title": "Ingenious Machinists",
+          "authors": ["Anthony J. Connors"],
+          "thumbnail": "http://books.google.com/books/content?id=Fhj8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Geometry",
+      "link": "/textbooks/geometry",
+      "books": [
+        {
+          "id": "KxegDwAAQBAJ",
+          "title": "Descriptive Geometry, The Spread of a Polytechnic Art",
+          "authors": ["Évelyne Barbin", "Marta Menghini", "Klaus Volkert"],
+          "thumbnail": "http://books.google.com/books/content?id=KxegDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4vXDDwAAQBAJ",
+          "title": "Introduction to the Geometry of N Dimensions",
+          "authors": ["D. M.Y. Sommerville"],
+          "thumbnail": "http://books.google.com/books/content?id=4vXDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "7pQ4DwAAQBAJ",
+          "title": "Modern Approaches to Discrete Curvature",
+          "authors": ["Laurent Najman", "Pascal Romon"],
+          "thumbnail": "http://books.google.com/books/content?id=7pQ4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "FFUwCgAAQBAJ",
+          "title": "Why Prove it Again?",
+          "authors": ["John W. Dawson, Jr."],
+          "thumbnail": "http://books.google.com/books/content?id=FFUwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "yuORCgAAQBAJ",
+          "title": "Geometry by Construction",
+          "authors": ["Michael McDaniel"],
+          "thumbnail": "http://books.google.com/books/content?id=yuORCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "zJm1BwAAQBAJ",
+          "title": "Birational Geometry of Foliations",
+          "authors": ["Marco Brunella"],
+          "thumbnail": "http://books.google.com/books/content?id=zJm1BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Latin America",
+      "link": "/textbooks/latin-america",
+      "books": [
+        {
+          "id": "gHI9DwAAQBAJ",
+          "title": "Latin America Since the Left Turn",
+          "authors": ["Tulia G. Falleti", "Emilio A. Parrado"],
+          "thumbnail": "http://books.google.com/books/content?id=gHI9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "7VMYDQAAQBAJ",
+          "title": "Challenges of Party-Building in Latin America",
+          "authors": ["Steven Levitsky", "James Loxton", "Brandon Van Dyck", "Jorge I. Domínguez"],
+          "thumbnail": "http://books.google.com/books/content?id=7VMYDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "PBRLDgAAQBAJ",
+          "title": "Theorizing Race in the Americas",
+          "authors": ["Juliet Hooker"],
+          "thumbnail": "http://books.google.com/books/content?id=PBRLDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "goHCDwAAQBAJ",
+          "title": "The Chain of Representation",
+          "authors": ["Brian F. Crisp", "Santiago Olivella", "Guillermo Rosas"],
+          "thumbnail": "http://books.google.com/books/content?id=goHCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Ei02DwAAQBAJ",
+          "title": "Latin America's Radical Left",
+          "authors": ["Aldo Marchesi"],
+          "thumbnail": "http://books.google.com/books/content?id=Ei02DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "5zMaOfmAxVEC",
+          "title": "The War of All the People",
+          "authors": ["Jon B. Perdue"],
+          "thumbnail": "http://books.google.com/books/content?id=5zMaOfmAxVEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Buddhism",
+      "link": "/textbooks/buddhism",
+      "books": [
+        {
+          "id": "4u_GDwAAQBAJ",
+          "title": "Buddhism",
+          "authors": ["Dale S. Wright"],
+          "thumbnail": "http://books.google.com/books/content?id=4u_GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "3QkvDwAAQBAJ",
+          "title": "Why Buddhism is True",
+          "authors": ["Robert Wright"],
+          "thumbnail": "http://books.google.com/books/content?id=3QkvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "3KTKDAAAQBAJ",
+          "title": "Experience",
+          "authors": ["Norman Fischer"],
+          "thumbnail": "http://books.google.com/books/content?id=3KTKDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "gugBy00lN0cC",
+          "title": "Unlimiting Mind",
+          "authors": ["Andrew Olendzki"],
+          "thumbnail": "http://books.google.com/books/content?id=gugBy00lN0cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "M1MogIYkPioC",
+          "title": "Encountering Buddhism",
+          "authors": ["Seth Robert Segall"],
+          "thumbnail": "http://books.google.com/books/content?id=M1MogIYkPioC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "oJpMCgAAQBAJ",
+          "title": "Rumi and Shams’ Silent Rebellion",
+          "authors": ["Mostafa Vaziri"],
+          "thumbnail": "http://books.google.com/books/content?id=oJpMCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ], 
+  [
+    {
+      "name": "Business Law",
+      "link": "/textbooks/business-law",
+      "books": [
+        {
+          "id": "QoJ6z11LYtwC",
+          "title": "Modern Rules of Business Etiquette",
+          "authors": ["Donna Gerson", "David Gerson"],
+          "thumbnail": "http://books.google.com/books/content?id=QoJ6z11LYtwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "qQYQe_3sBcgC",
+          "title": "Patents, Trademarks, Copyrights, and Trade Secrets",
+          "authors": ["Wendy Buskop"],
+          "thumbnail": "http://books.google.com/books/content?id=qQYQe_3sBcgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "wXmcAQAAQBAJ",
+          "title": "Business Law",
+          "authors": ["Joanne Cox"],
+          "thumbnail": "http://books.google.com/books/content?id=wXmcAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "s0N4VCZrR-AC",
+          "title": "International Business Transactions with Brazil",
+          "authors": ["Beatriz Franco"],
+          "thumbnail": "http://books.google.com/books/content?id=s0N4VCZrR-AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "dA__3NLXY3IC",
+          "title": "Getting Out of a Contract",
+          "authors": ["Adam Rose", "David Leibowitz", "Adrian Magnus"],
+          "thumbnail": "http://books.google.com/books/content?id=dA__3NLXY3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "JX4Mi3H0NOQC",
+          "title": "What Entrepreneurs Need to Know about Government",
+          "authors": ["Wesley B. Truitt"],
+          "thumbnail": "http://books.google.com/books/content?id=JX4Mi3H0NOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Atoms",
+      "link": "/textbooks/atoms",
+      "books": [
+        {
+          "id": "9A7ZDgAAQBAJ",
+          "title": "Theoretical Atomic Physics",
+          "authors": ["Harald Friedrich"],
+          "thumbnail": "http://books.google.com/books/content?id=9A7ZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "JHJgDwAAQBAJ",
+          "title": "Nonlinear Dielectric Spectroscopy",
+          "authors": ["Ranko Richert"],
+          "thumbnail": "http://books.google.com/books/content?id=JHJgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "S_aEDwAAQBAJ",
+          "title": "Progress in Photon Science",
+          "authors": ["Kaoru Yamanouchi", "Sergey Tunik", "Vladimir Makarov"],
+          "thumbnail": "http://books.google.com/books/content?id=S_aEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "Vo3DCgAAQBAJ",
+          "title": "Quantum Modeling of Complex Molecular Systems",
+          "authors": ["Jean-Louis Rivail", "Manuel Ruiz-Lopez", "Xavier Assfeld"],
+          "thumbnail": "http://books.google.com/books/content?id=Vo3DCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "JrSqDAAAQBAJ",
+          "title": "Nuclear Fusion with Polarized Fuel",
+          "authors": ["Giuseppe Ciullo", "Ralf Engels", "Markus Büscher", "Alexander Vasilyev"],
+          "thumbnail": "http://books.google.com/books/content?id=JrSqDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "4aNEBgAAQBAJ",
+          "title": "The Quantum Theory of the Atom",
+          "authors": ["George Birtwistle"],
+          "thumbnail": "http://books.google.com/books/content?id=4aNEBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Religion",
+      "link": "/textbooks/religion",
+      "books": [
+        {
+          "id": "m_zsDwAAQBAJ",
+          "title": "The Next Pope",
+          "authors": ["Edward Pentin"],
+          "thumbnail": "http://books.google.com/books/content?id=m_zsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "E9fIDwAAQBAJ",
+          "title": "Native",
+          "authors": ["Kaitlin B. Curtice"],
+          "thumbnail": "http://books.google.com/books/content?id=E9fIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "FDxxDwAAQBAJ",
+          "title": "Dark Agenda",
+          "authors": ["David Horowitz"],
+          "thumbnail": "http://books.google.com/books/content?id=FDxxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "WhwwDwAAQBAJ",
+          "title": "Five Proofs for the Existence of God",
+          "authors": ["Edward Feser"],
+          "thumbnail": "http://books.google.com/books/content?id=WhwwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "MeFiDwAAQBAJ",
+          "title": "Fiqh Dan Ushul Fiqh",
+          "authors": ["Dr. Nurhayati, M.Ag", "Dr. Ali Imran Sinaga, M.Ag."],
+          "thumbnail": "http://books.google.com/books/content?id=MeFiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "XIqbDwAAQBAJ",
+          "title": "The Occult Anatomy of Man",
+          "authors": ["Manly P. Hall"],
+          "thumbnail": "http://books.google.com/books/content?id=XIqbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Capitalism",
+      "link": "/textbooks/capitalism",
+      "books": [
+        {
+          "id": "I8QjDwAAQBAJ",
+          "title": "American Capitalism",
+          "authors": ["Edward E. Baptist", "Louis Hyman"],
+          "thumbnail": "http://books.google.com/books/content?id=I8QjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "upHqDwAAQBAJ",
+          "title": "Levers of Power",
+          "authors": ["Kevin A. Young", "Tarun Banerjee", "Michael Schwartz"],
+          "thumbnail": "http://books.google.com/books/content?id=upHqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "MSX3DwAAQBAJ",
+          "title": "Capitalism's Sexual History",
+          "authors": ["Nicola J. Smith"],
+          "thumbnail": "http://books.google.com/books/content?id=MSX3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "J13bDwAAQBAJ",
+          "title": "China's Gilded Age",
+          "authors": ["Yuen Yuen Ang"],
+          "thumbnail": "http://books.google.com/books/content?id=J13bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "mnMqCwAAQBAJ",
+          "title": "Capitalism",
+          "authors": ["Anwar Shaikh"],
+          "thumbnail": "http://books.google.com/books/content?id=mnMqCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+         }, {
+          "id": "kIPZCwAAQBAJ",
+          "title": "Empire of Cotton",
+          "authors": ["Sven Beckert"],
+          "thumbnail": "http://books.google.com/books/content?id=kIPZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Manifolds",
+      "link": "/textbooks/manifolds",
+      "books": [
+        {
+          "id": "ePFIAwAAQBAJ",
+          "title": "Tensor Analysis on Manifolds",
+          "authors": ["Richard L. Bishop", "Samuel I. Goldberg"],
+          "thumbnail": "http://books.google.com/books/content?id=ePFIAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "xQsTJJGsgs4C",
+          "title": "An Introduction to Manifolds",
+          "authors": ["Loring W. Tu"],
+          "thumbnail": "http://books.google.com/books/content?id=xQsTJJGsgs4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ZswYpIo6h5cC",
+          "title": "Cyclic Coverings, Calabi-Yau Manifolds and Complex Multiplication",
+          "authors": ["Christian Rohde"],
+          "thumbnail": "http://books.google.com/books/content?id=ZswYpIo6h5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "aVUjiBNCyogC",
+          "title": "Einstein Manifolds",
+          "authors": ["Arthur L. Besse"],
+          "thumbnail": "http://books.google.com/books/content?id=aVUjiBNCyogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "V2YWDPGpiZgC",
+          "title": "Differentiable Manifolds",
+          "authors": ["Gerardo F. Torres del Castillo"],
+          "thumbnail": "http://books.google.com/books/content?id=V2YWDPGpiZgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "38Z9D2DB2KMC",
+          "title": "Smooth Four-Manifolds and Complex Surfaces",
+          "authors": ["Robert Friedman", "John W. Morgan"],
+          "thumbnail": "http://books.google.com/books/content?id=38Z9D2DB2KMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }, {
+      "name": "Economics",
+      "link": "/textbooks/economics",
+      "books": [
+        {
+          "id": "1cMYDAAAQBAJ",
+          "title": "The Middleman Economy",
+          "authors": ["Marina Krakovsky"],
+          "thumbnail": "http://books.google.com/books/content?id=1cMYDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "abioDAAAQBAJ",
+          "title": "A Brief History of Political Economy",
+          "authors": ["Lars Magnusson", "Bo Stråth"],
+          "thumbnail": "http://books.google.com/books/content?id=abioDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "V7bCDAAAQBAJ",
+          "title": "A Primer in Econometric Theory",
+          "authors": ["John Stachurski"],
+          "thumbnail": "http://books.google.com/books/content?id=V7bCDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "1pZVDwAAQBAJ",
+          "title": "What Would the Great Economists Do?",
+          "authors": ["Linda Yueh"],
+          "thumbnail": "http://books.google.com/books/content?id=1pZVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "ODBdDwAAQBAJ",
+          "title": "The Political Economy of Agricultural and Food Policies",
+          "authors": ["Johan Swinnen"],
+          "thumbnail": "http://books.google.com/books/content?id=ODBdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, {
+          "id": "kUEwCgAAQBAJ",
+          "title": "Public Management",
+          "authors": ["Konrad Raczkowski"],
+          "thumbnail": "http://books.google.com/books/content?id=kUEwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      ]
+    }
+  ]
+]

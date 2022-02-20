@@ -25,7 +25,7 @@ function FooterLinks() {
         {socialIcons}
       </div>
       <span className='text-copyright font-a9'>
-        © Aiman Adlawan 2020.
+        © Brealy padron Rodriguez 2021.
       </span>
     </div>
   )

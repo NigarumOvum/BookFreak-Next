@@ -2,13 +2,13 @@
 footer {
   width: 100%;
   min-height: 440px;
-  background: #4F8B84;
+  background: #0073ff;
 }
 
 .footer-header {
   width: 100%;
   height: 80px;
-  border-bottom: 1px solid #82ABA6;
+  border-bottom: 1px solid #0073ffc6;
   flex-direction: row;
   justify-content: space-between;
 }
@@ -46,13 +46,13 @@ footer {
 }
 
 .footer-menu-section li a{
-  color: #A4D1CC;
+  color: #00c3ff;
   letter-spacing: -0.015em;
   transition: all 0.15s ease-in;
 }
 
 .footer-menu-section li a:hover {
-  color: #B1ECE5;
+  color: #FFD130;
   transform: scale(1.05);
   transition: all 0.15s ease-in;
   

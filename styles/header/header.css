@@ -7,7 +7,7 @@ header {
 .navbar {
   width: 100%;
   height: 60px;
-  background: #678985;
+  background: #0073ff;
   flex-direction: row;
   justify-content: space-between;
   z-index: 1000;
@@ -44,7 +44,7 @@ header {
   padding-left: 12px;
   letter-spacing: -0.015em;
   font-weight: 500;
-  color: #4F8982;
+  color: #0073ff;
   background: #EDEDED;
 }
 

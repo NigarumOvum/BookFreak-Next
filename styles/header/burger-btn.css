@@ -53,17 +53,17 @@
 
   /* Track */
   .burger-menulist-wrapper::-webkit-scrollbar-track {
-    background: #57948D;
+    background: #0073ff;
   }
 
   /* Handle */
   .burger-menulist-wrapper::-webkit-scrollbar-thumb {
-    background: #84B8B2;
+    background: #0073ff;
   }
 
   /* Handle on hover */
   .burger-menulist-wrapper::-webkit-scrollbar-thumb:hover {
-    background: #A8C3C0;
+    background: #0073ff;
   }
 
 
@@ -160,7 +160,7 @@
     padding-left: 12px;
     letter-spacing: -0.015em;
     font-weight: 500;
-    color: #4F8982;
+    color: #0073ff;
     background: #EDEDED;
   }
   .burger-input button {
